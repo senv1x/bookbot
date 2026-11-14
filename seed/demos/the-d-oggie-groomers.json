@@ -15,6 +15,7 @@
   ],
   "address": "Bede Precinct, Viking Centre, Jarrow, NE32 3LB",
   "hours": [
+   "Monday: Appointment Only",
    "Tuesday: 09:00 – 18:00",
    "Wednesday: 09:00 – 18:00",
    "Thursday: 09:00 – 18:00",
@@ -35,21 +36,23 @@
    "Shaving of Pelted or Severely Matted Coats"
   ],
   "prices": [
-   "From: Toy: £39",
-   "Small: £46",
-   "Medium: £49",
-   "Large: £61",
-   "Extra Large: £70",
-   "From: Toy: £29",
-   "Small: £35",
-   "Medium: £40",
-   "Large: £45",
-   "Extra Large: £50",
-   "From: Toy: £35",
-   "Small: £45",
-   "Medium: £55",
-   "Large: £65",
-   "£10 added to full groom"
+   "Full Groom – Toy: £39",
+   "Full Groom – Small: £46",
+   "Full Groom – Medium: £49",
+   "Full Groom – Large: £61",
+   "Full Groom – Extra Large: £70",
+   "Short-Coat Deshedding – Toy: £29",
+   "Short-Coat Deshedding – Small: £35",
+   "Short-Coat Deshedding – Medium: £40",
+   "Short-Coat Deshedding – Large: £45",
+   "Short-Coat Deshedding – Extra Large: £50",
+   "Long-Coat Deshedding – Toy: £35",
+   "Long-Coat Deshedding – Small: £45",
+   "Long-Coat Deshedding – Medium: £55",
+   "Long-Coat Deshedding – Large: £65",
+   "Long-Coat Deshedding – Extra Large: £70",
+   "Shaving of Pelted or Severely Matted Coats – £10 added to full groom",
+   "Flea Treatment & Salon Deep Clean – £10 added to full groom"
   ],
   "faqs": [],
   "chunks": [
@@ -375,5 +378,5 @@
    }
   ]
  },
- "generated_at": "2026-11-14 16:43"
+ "generated_at": "2026-11-14 17:29"
 }

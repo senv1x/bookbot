@@ -2,7 +2,7 @@
  "slug": "easy-tyres-autos-ltd",
  "website": "https://nasleeds95.wixsite.com/easytyresautosltd",
  "quality": "good",
- "notes": "found: phone, email, address, services, prices; missing: hours, FAQ; skipped /: HTTPSConnectionPool(host='nasleeds95.wixsite.com', port=443): Read timed out. (r; services curated by hand",
+ "notes": "found: phone, email, address, services, prices; missing: hours, FAQ; skipped /: HTTP 404; services curated by hand",
  "data": {
   "name": "Easy Tyres & Autos Ltd",
   "website": "https://nasleeds95.wixsite.com/easytyresautosltd",
@@ -106,5 +106,5 @@
   ],
   "hours_note": "Please contact us for opening hours: call 07565 523030."
  },
- "generated_at": "2026-11-14 16:43"
+ "generated_at": "2026-11-14 17:28"
 }

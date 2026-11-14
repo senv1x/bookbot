@@ -24,22 +24,21 @@
    "Crowns"
   ],
   "prices": [
-   "Emergency Assessment £15.68",
-   "Small Dental X-rays (two films) £11.04",
-   "Exams, two small x-rays and scale and polish £26.72",
-   "- one surface (per tooth) £12.72",
-   "- two or more surfaces (per tooth) £27.12",
-   "other preparatory treatment From £94.96",
-   "Extractions From £28.84",
-   "Surgical Extraction From £55.12",
-   "Crowns From £149.24",
-   "Dentures (upper and lower set) From £344.32",
-   "White filling side or back tooth From £85.00",
-   "£165 - £330.00",
-   "White crown on back tooth From £450.00",
-   "Full porcelain crown on any tooth From £450.00",
-   "Bleaching - full mouth From £330.00",
-   "Sports Mouth Guard From £ 55.00"
+   "Emergency Assessment: £15.68",
+   "Small Dental X-rays (two films): £11.04",
+   "Exams, two small x-rays and scale and polish: £26.72",
+   "- one surface (per tooth): £12.72",
+   "- two or more surfaces (per tooth): £27.12",
+   "other preparatory treatment: From £94.96",
+   "Extractions: From £28.84",
+   "Surgical Extraction: From £55.12",
+   "Crowns: From £149.24",
+   "Dentures (upper and lower set): From £344.32",
+   "White filling side or back tooth: From £85.00",
+   "White crown on back tooth: From £450.00",
+   "Full porcelain crown on any tooth: From £450.00",
+   "Bleaching - full mouth: From £330.00",
+   "Sports Mouth Guard: From £ 55.00"
   ],
   "faqs": [],
   "chunks": [
@@ -181,5 +180,5 @@
    }
   ]
  },
- "generated_at": "2026-11-14 16:43"
+ "generated_at": "2026-11-14 17:29"
 }

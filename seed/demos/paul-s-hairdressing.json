@@ -2,7 +2,7 @@
  "slug": "paul-s-hairdressing",
  "website": "https://www.paulshairdressing.co.uk/420-downham-way",
  "quality": "good",
- "notes": "found: phone, email, address, hours, services, FAQ, prices; hours, phone and address limited to the 420 Downham Way salon (from its own page)",
+ "notes": "found: phone, email, address, hours, services, FAQ, prices",
  "data": {
   "name": "Paul's Hairdressing",
   "website": "https://www.paulshairdressing.co.uk/420-downham-way",
@@ -36,8 +36,8 @@
    "Senior citizens have a Tuesday price of £12 for a barber's cut, and we're open until 7pm on Fridays.",
    "Senior citizens' barber cuts are £12 on Tuesdays.",
    "A quick tidy-up of sideburns and neckline with a cut-throat finish, £15.",
-   "ghd curls upgrade from £15",
-   "Hair up from £50",
+   "ghd curls upgrade: from £15",
+   "Hair up: from £50",
    "A dry cut with clippers and scissors is £18, and a wash, cut and finish is £24. A beard trim is £10.",
    "Full head highlights or lowlights are £90, half head £70. Perm and volume is £70.",
    "A sharp skin fade for £25.",
@@ -378,5 +378,5 @@
    }
   ]
  },
- "generated_at": "2026-11-14 16:43"
+ "generated_at": "2026-11-14 17:29"
 }

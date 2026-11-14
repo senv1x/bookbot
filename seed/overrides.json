@@ -44,6 +44,11 @@
    "Repairs",
    "Diagnostics",
    "Light commercial vehicle servicing"
+  ],
+  "hours": [
+   "Monday - Friday: 8am - 4pm",
+   "Saturday: 9am - 12pm",
+   "Sunday: Closed"
   ]
  },
  "manchester-learners": {
@@ -77,5 +82,30 @@
    "020 8697 0207"
   ],
   "address": "420 Downham Way, Bromley BR1 5HR"
+ },
+ "wellmead-osteopathy": {
+  "_source": "https://wellmeadosteopathy.co.uk/appointments.html lists two different weekly schedules on the same page",
+  "hours": [],
+  "hours_note": "Our hours vary, so please see https://wellmeadosteopathy.co.uk/appointments.html or call 01372 897497. Late evenings, weekends and home visits can be arranged."
+ },
+ "osteo-p-physiotherapy": {
+  "_source": "osteo-p.com/new-page visible text 'Operating Hours: Monday to Friday 9am -6pm' (hidden schema.org data differs)",
+  "hours": [
+   "Monday to Friday: 9am - 6pm"
+  ]
+ },
+ "falcon-driving-academy": {
+  "_source": "falcondrivingacademy.ie/contact: site lists 'Sun: 12:00 AM – 4:00 PM' (typo)",
+  "hours": [
+   "Mon-Fri: 9:00 AM – 9:00 PM",
+   "Sat: 10:00 AM – 4:00 PM",
+   "Sun: until 4:00 PM, please call to confirm"
+  ]
+ },
+ "chok-wong-chartered-accountants": {
+  "_source": "chokwong.co.uk 'Business hours: 9am – 5pm Monday – Friday.'",
+  "hours": [
+   "Monday – Friday: 9am – 5pm"
+  ]
  }
 }

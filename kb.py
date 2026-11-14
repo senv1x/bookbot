@@ -25,6 +25,32 @@ PRICE_RE = re.compile(r"\b(price|prices|cost|costs|how much|fee|fees|charge|quot
 GREET_RE = re.compile(r"^\s*(hi|hello|hey|good (?:morning|afternoon|evening)|hiya|yo)\b[\s!.,]*$", re.I)
 
 
+DAY_IDX = {d: i for i, d in enumerate(["mo", "tu", "we", "th", "fr", "sa", "su"])}
+FIRST_DAY = re.compile(r"\b(mon|tue|wed|thu|fri|sat|sun)[a-z]*\b", re.I)
+ADDON_RE = re.compile(r"\b(add(?:ed|-on)?|add on|extra(?!\s+large)|supplement|surcharge|additional|upgrade)\b|^\+|% off", re.I)
+
+
+def order_hours(lines):
+    """Stable sort of opening-hours lines Monday -> Sunday by the first weekday they mention (lines without a day go last)."""
+    def key(x):
+        m = FIRST_DAY.search(x[1])
+        return (DAY_IDX[m.group(1)[:2].lower()] if m else 9, x[0])
+    return [l for _, l in sorted(enumerate(lines), key=key)]
+
+
+def tidy(text):
+    """Remove doubled punctuation (but keep ellipses) and stray spaces before punctuation."""
+    text = re.sub(r"(?<!\.)\.\s*\.(?!\.)", ".", text)
+    text = re.sub(r"([,;:])\s*\1+", r"\1", text)
+    text = re.sub(r"([£€$])\1+", r"\1", text)
+    text = re.sub(r"\s+([.,;:])", r"\1", text)
+    return re.sub(r"\.\s*([.;])", ".", text)
+
+
+def hours_text(d):
+    return "; ".join(re.sub(r"^([A-Za-z\- –]+):(?=\S)", r"\1: ", re.sub(r"[.\s]+$", "", h)) for h in order_hours(d.get("hours", []))[:8])
+
+
 def toks(text):
     out = []
     for w in re.findall(r"[a-z0-9£€$]+", (text or "").lower()):
@@ -98,23 +124,16 @@ def rule_answer(d, msg):
                           f"will confirm a time with you." + (f" If it's urgent, {contact}." if contact else ""),
                 "booking": True, "source": "booking"}
     faq = _faq_match(d, m)
-    if faq and faq[0] >= 0.6:
+    # a price question should get a price: skip a matching FAQ whose answer has no amount in it
+    if faq and faq[0] >= 0.6 and not (PRICE_RE.search(m) and not re.search(r"[£€$]\s*\d", faq[1]["a"])):
         return {"answer": faq[1]["a"], "booking": bool(BOOK_RE.search(m)), "source": "faq"}
     if PRICE_RE.search(m):
-        prices = d.get("prices", [])
-        ranked = _bm25(m, prices)
-        hits = [prices[i] for s, i, cov in ranked if cov > 0 and not ({"price"} >= (q & set(toks(prices[i]))))][:4]
-        if hits:
-            return {"answer": "Here's what our website lists: " + "; ".join(hits) + ". Want me to request a booking?",
-                    "booking": False, "source": "prices"}
-        if prices:
-            return {"answer": "Some of our prices: " + "; ".join(prices[:5]) + ". For an exact quote, leave your details and we'll get back to you.",
-                    "booking": False, "source": "prices"}
-        return {"answer": f"Prices depend on what you need, so the team will give you an exact quote." + (f" You can {contact}," if contact else "")
-                          + " or leave your details below and we'll get back to you.", "booking": True, "source": "prices-none"}
+        pa = price_answer(d, q, contact)
+        if pa:
+            return pa
     if HOURS_RE.search(m) and not SERV_RE.search(m):
         if d.get("hours"):
-            return {"answer": "Our opening hours: " + "; ".join(d["hours"][:8]) + ". Outside these hours I can take a booking request for you.",
+            return {"answer": "Our opening hours: " + hours_text(d) + ". Outside these hours I can take a booking request for you.",
                     "booking": False, "source": "hours"}
         if d.get("hours_note"):
             return {"answer": d["hours_note"] + " Or leave your details below and we'll get back to you.", "booking": True, "source": "hours-note"}
@@ -135,7 +154,8 @@ def rule_answer(d, msg):
                 "booking": True, "source": "service"}
     content = q - {"service", "offer", "price", "do", "provide", "have", "any", "lesson", "book", "much", "you"}
     if content:
-        for pool, label in ((d.get("prices", []), "price"), ([c["text"] for c in d.get("chunks", [])], "website")):
+        base_prices = [p for p in d.get("prices", []) if not ADDON_RE.search(p)]
+        for pool, label in ((base_prices, "price"), ([c["text"] for c in d.get("chunks", [])], "website")):
             ranked = _bm25(" ".join(content), pool)
             if ranked and ranked[0][2] >= 0.99 or (ranked and len(content) >= 3 and ranked[0][2] >= 0.66):
                 hit = pool[ranked[0][1]]
@@ -156,6 +176,59 @@ def rule_answer(d, msg):
 
 
 FAQ_GENERIC = {"service", "offer", "price", "open", "phone", "address", "book", "do", "provide"}
+
+
+def _split_price(line):
+    return line.split(" – ", 1) if " – " in line else ("", line)
+
+
+def price_answer(d, q, contact):
+    prices = d.get("prices", [])
+    mm = re.match(r"https?://[^/]+", d.get("website", ""))
+    root = mm.group(0) + "/" if mm else ""
+    site = root
+    content = q - {"price", "much", "service", "book", "do", "have", "provide", "offer", "you", "ll", "cost"}
+    if not prices:
+        return {"answer": "Prices depend on what you need, so the team will give you an exact quote." + (f" You can {contact}," if contact else "")
+                          + " or leave your details below and we'll get back to you.", "booking": True, "source": "prices-none"}
+    if content:
+        wants_addon = bool(content & {"add", "extra", "addon", "supplement"})
+        scored = []
+        for i, line in enumerate(prices):
+            head, rest = _split_price(line)
+            ht, rt = set(toks(head)), set(toks(rest))
+            # loose stem match: "shave" ~ "shav(ing)", "crown" ~ "crowns"
+            near = lambda pool: {c for c in content if any(c == t or (min(len(c), len(t)) >= 4 and (c.startswith(t) or t.startswith(c))) for t in pool)}
+            ht, rt = near(ht), near(rt)
+            cov = len(ht | rt) / len(content)
+            if cov < (1.0 if len(content) <= 2 else 0.66):
+                continue
+            s = 2 * len(ht) + len(rt - ht)
+            if s and ADDON_RE.search(line) and not wants_addon:
+                s *= 0.3  # "£10 added to full groom" must not beat the Full Groom price itself
+            if s:
+                scored.append((s, i))
+        if scored:
+            best = max(s for s, _ in scored)
+            hits = [prices[i] for s, i in sorted(scored, key=lambda x: x[1]) if s == best]
+            heads = {_split_price(h)[0] for h in hits}
+            if len(heads) == 1 and next(iter(heads)) and len(hits) > 1:
+                head = next(iter(heads))
+                items = [_split_price(h)[1] for h in hits][:8]
+                tiered = sum(1 for x in items if re.match(r"(toy|small|medium|large|extra large|giant|gigantic)\b", x, re.I)) >= 2
+                who = "your dog's size" if re.search(r"\bdog|groom|\bpet", " ".join(d.get("services", [])) + d.get("name", ""), re.I) else "size"
+                lead = f"{head} prices depend on {who}: " if tiered else f"{head}: "
+                return {"answer": tidy(lead + "; ".join(items) + "." + (f" Full details are on our website: {site}" if tiered and site else "")
+                                       + " Would you like to request a booking?"), "booking": False, "source": "price-item"}
+            return {"answer": tidy("Here's what our website lists: " + "; ".join(hits[:4]) + ". Want me to request a booking?"),
+                    "booking": False, "source": "prices"}
+        if content - {"how", "what", "is", "are", "the", "for", "a"}:
+            return {"answer": tidy("I don't have a listed price for that." + (f" Our prices are on our website ({root})," if root else "")
+                                   + (f" or you can {contact}," if contact else "") + " or leave your details below and we'll get back to you."),
+                    "booking": True, "source": "prices-unlisted"}
+    base = [p for p in prices if not ADDON_RE.search(p) and re.match(r"[A-Z0-9]", p)] or prices  # skip fragments like "(Normally £12) and..."
+    return {"answer": tidy("Some of our prices: " + "; ".join(base[:5]) + ". For an exact quote, leave your details and we'll get back to you."),
+            "booking": False, "source": "prices"}
 
 
 def _faq_match(d, m):
@@ -215,4 +288,4 @@ def answer(d, msg, history=None):
             r = openai_answer(d, msg, history); r["mode"] = "openai"; return r
         except Exception as e:
             print("LLM error, falling back to rules:", e)
-    r = rule_answer(d, msg); r["mode"] = "rules"; return r
+    r = rule_answer(d, msg); r["answer"] = tidy(r["answer"]); r["mode"] = "rules"; return r

@@ -34,6 +34,13 @@ def build(row):
                 "chunks": [], "description": ""}
     data["name"] = name  # the list's name is more reliable than page titles
     slug = slugify(name)
+    old_path = os.path.join(ROOT, "seed", "demos", slug + ".json")
+    if os.path.exists(old_path) and not os.environ.get("FRESH_SCRAPE"):
+        # a page that timed out this run shouldn't wipe what an earlier run found
+        old = json.load(open(old_path, encoding="utf-8"))["data"]
+        for k in ("prices", "faqs", "chunks"):
+            if len(old.get(k) or []) >= 3 and len(data.get(k) or []) < len(old[k]) / 2:
+                data[k] = old[k]
     ov = OVERRIDES.get(slug, {})
     data.update({k: v for k, v in ov.items() if not k.startswith("_")})
     seed = {"slug": slug, "website": data.get("website", site), "quality": r["quality"], "notes": r["notes"] + ("; services curated by hand" if ov.get("services") else ""), "data": data,

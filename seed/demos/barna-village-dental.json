@@ -34,24 +34,23 @@
    "Extractions"
   ],
   "prices": [
-   "including two intra oral X-rays €90-€130",
-   "€15 - €40 (once a year)",
-   "Amalgam filling €80 - €140",
-   "Composite filling €80 - €180",
-   "Extractions €90 - €140",
-   "Surgical Extraction €140 - €240",
-   "Orthodontic retainer per arch €100-€150",
-   "Premolar €400 - €500",
-   "Molar €650 - €700",
-   "Full Upper OR Full Lower denture €600 each",
-   "Full Upper and Lower denture together €1100",
-   "Partial Denture €450 - €550",
-   "Cobalt Chrome Denture upper OR lower €1200",
-   "Crown €800 - €1000",
-   "Bridges €600 / unit",
-   "Recementing crown/bridge €60- €80",
-   "Clear Braces suitable for adults only €2000 - €3500",
-   "€2400 - €3800"
+   "including two intra oral X-rays: €90-€130",
+   "Scale & polish: €15 - €40 (once a year)",
+   "Amalgam filling: €80 - €140",
+   "Composite filling: €80 - €180",
+   "Extractions: €90 - €140",
+   "Surgical Extraction: €140 - €240",
+   "Orthodontic retainer per arch: €100-€150",
+   "Premolar: €400 - €500",
+   "Molar: €650 - €700",
+   "Full Upper OR Full Lower denture: €600 each",
+   "Full Upper and Lower denture together: €1100",
+   "Partial Denture: €450 - €550",
+   "Cobalt Chrome Denture upper OR lower: €1200",
+   "Crown: €800 - €1000",
+   "Bridges: €600 / unit",
+   "Recementing crown/bridge: €60- €80",
+   "Clear Braces suitable for adults only: €2000 - €3500"
   ],
   "faqs": [
    {
@@ -598,5 +597,5 @@
    }
   ]
  },
- "generated_at": "2026-11-14 16:42"
+ "generated_at": "2026-11-14 17:28"
 }

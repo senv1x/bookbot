@@ -2,7 +2,7 @@
  "slug": "osteo-p-physiotherapy",
  "website": "https://www.osteo-p.com/physiotherapy",
  "quality": "good",
- "notes": "found: phone, email, address, hours, services, prices; missing: FAQ; skipped /book: HTTPSConnectionPool(host='www.osteo-p.com', port=443): Read timed out. (read tim",
+ "notes": "found: phone, email, address, hours, services, prices; missing: FAQ",
  "data": {
   "name": "Osteo-P Physiotherapy",
   "website": "https://www.osteo-p.com/physiotherapy",
@@ -15,8 +15,7 @@
   ],
   "address": "Monastery Enniskerry, Wicklow Ireland",
   "hours": [
-   "Mo 09:00-14:00, Tu 09:00-21:00, We 09:00-14:00, Th 09:00-14:00, Fr 09:00-14:00",
-   "Operating Hours: Monday to Friday 9am -6pm"
+   "Monday to Friday: 9am - 6pm"
   ],
   "services": [
    "New patient initial consultation",
@@ -99,5 +98,5 @@
    }
   ]
  },
- "generated_at": "2026-11-14 16:43"
+ "generated_at": "2026-11-14 17:28"
 }

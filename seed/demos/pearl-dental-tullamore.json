@@ -2,7 +2,7 @@
  "slug": "pearl-dental-tullamore",
  "website": "https://pearldentaltullamore.ie/",
  "quality": "good",
- "notes": "found: phone, email, address, hours, services, prices; missing: FAQ; skipped /root-canal-treatments/: site shows a bot-protection page",
+ "notes": "found: phone, email, address, hours, services, FAQ, prices; skipped /contact-us/: site shows a bot-protection page; skipped /general-dentistry/: HTTPSConnectionPool(host='pearldentaltullamore.ie', port=443): Read timed out. (",
  "data": {
   "name": "Pearl Dental Tullamore",
   "website": "https://pearldentaltullamore.ie/",
@@ -44,7 +44,48 @@
    "Cobalt Chrome Denture (Metal): €1,300",
    "Single Implant (Surgical Post): €2,000"
   ],
-  "faqs": [],
+  "faqs": [
+   {
+    "q": "What is root canal treatment?",
+    "a": "Root canal treatment (also called endodontics) is needed when the blood or nerve supply of the tooth (known as the pulp) is infected through decay or injury."
+   },
+   {
+    "q": "Why is root canal treatment needed?",
+    "a": "If the pulp becomes infected, the infection may spread through the root canal system of the tooth. This may eventually lead to an abscess. If root canal treatment (RCT) is not carried out, the infection will spread and the tooth may need to be taken out."
+   },
+   {
+    "q": "Does it hurt?",
+    "a": "No. A local anaesthetic is used and it should feel no different to having an ordinary filling done."
+   },
+   {
+    "q": "What does it involve?",
+    "a": "The aim of the treatment is to remove all infection from the root canal. The root is then cleaned and filled to prevent any further infection.Root canal treatment is a skilled and time-consuming procedure. Most courses of treatment will involve two or more visits to your dentist. At the first appointment, the infected pulp is removed. Any abscesses, which may be present, can also be can drained at this time. The root canal is then cleaned and shaped ready for the filling. A temporary filling is put in and the tooth is left to settle.The tooth is checked at a later visit and when all the infect"
+   },
+   {
+    "q": "What will my tooth look like after treatment?",
+    "a": "In the past, a root filled tooth would often darken after treatment. However, with modern techniques this does not usually happen. If there is any discolouration, there are several treatments available to restore the natural appearance."
+   },
+   {
+    "q": "What if it happens again?",
+    "a": "Root canal treatment is usually very successful. However, if the infection comes back the treatment can be repeated."
+   },
+   {
+    "q": "What if I don’t have the treatment?",
+    "a": "The alternative is to have the tooth out. Once the pulp is destroyed, it can’t heal and it is not recommended to leave an infected tooth in the mouth. Although some people would prefer an extraction, it is usually best to keep as many natural teeth as possible."
+   },
+   {
+    "q": "Will the tooth be safe after treatment?",
+    "a": "Yes. However, it is better to restore the tooth with a crown to provide extra support and strength to the tooth."
+   },
+   {
+    "q": "Where can this treatment be carried out?",
+    "a": "Root canal treatment is a routine dental procedure, which your dentist will be happy to do for you."
+   },
+   {
+    "q": "What about aftercare?",
+    "a": "Root-treated teeth should be treated just the same as any other tooth. Remember to clean your teeth at least once a day, preferably with a fluoride toothpaste. Cut down on sugary snacks, and keep them only to mealtimes if possible. See your dentist for regular check-ups."
+   }
+  ],
   "chunks": [
    {
     "text": "Treatments General Dentistry Dental Implants Amalgam & White Fillings Root Canal Treatments Tooth Whitening Crowns & Bridges Veneers Dentures Dental Hygiene CBCT Scan Referral",
@@ -123,12 +164,44 @@
     "url": "https://pearldentaltullamore.ie/"
    },
    {
-    "text": "General Dentistry emphasis on the primary dental care to all ages. To treat and take care of the overall oral health care. We provide a comprehensive diagnosis about your oral health condition, and advice you on appropriate treatment and care. we can help you establish a routine of daily cleaning and preventive visits to keep your oral health good.",
-    "url": "https://pearldentaltullamore.ie/general-dentistry/"
+    "text": "Root canal treatment (also called endodontics) is needed when the blood or nerve supply of the tooth (known as the pulp) is infected through decay or injury.",
+    "url": "https://pearldentaltullamore.ie/root-canal-treatments/"
    },
    {
-    "text": "The care of your teeth and gums is a continuing life long commitment, this starts at an early age. At Pearl Dental we provide wide range of General Dental care from yearly oral examination, fissure sealants for children, oral hygiene care with scaling and polishing, extraction of loose tooth and of poor prognosis, filling of the carious teeth, Root canal treatment and replacement of the missing teeth with Denture or bridges.",
-    "url": "https://pearldentaltullamore.ie/general-dentistry/"
+    "text": "If the pulp becomes infected, the infection may spread through the root canal system of the tooth. This may eventually lead to an abscess. If root canal treatment (RCT) is not carried out, the infection will spread and the tooth may need to be taken out.",
+    "url": "https://pearldentaltullamore.ie/root-canal-treatments/"
+   },
+   {
+    "text": "No. A local anaesthetic is used and it should feel no different to having an ordinary filling done.",
+    "url": "https://pearldentaltullamore.ie/root-canal-treatments/"
+   },
+   {
+    "text": "The aim of the treatment is to remove all infection from the root canal. The root is then cleaned and filled to prevent any further infection.Root canal treatment is a skilled and time-consuming procedure. Most courses of treatment will involve two or more visits to your dentist. At the first appointment, the infected pulp is removed. Any abscesses, which may be present, can also be can drained at this time. The root canal is then cleaned and shaped ready for the filling. A temporary filling is put in and the tooth is left to settle.The tooth is checked at a later visit and when all the infection has cleared, the tooth is permanently filled.",
+    "url": "https://pearldentaltullamore.ie/root-canal-treatments/"
+   },
+   {
+    "text": "In the past, a root filled tooth would often darken after treatment. However, with modern techniques this does not usually happen. If there is any discolouration, there are several treatments available to restore the natural appearance.",
+    "url": "https://pearldentaltullamore.ie/root-canal-treatments/"
+   },
+   {
+    "text": "Root canal treatment is usually very successful. However, if the infection comes back the treatment can be repeated.",
+    "url": "https://pearldentaltullamore.ie/root-canal-treatments/"
+   },
+   {
+    "text": "The alternative is to have the tooth out. Once the pulp is destroyed, it can’t heal and it is not recommended to leave an infected tooth in the mouth. Although some people would prefer an extraction, it is usually best to keep as many natural teeth as possible.",
+    "url": "https://pearldentaltullamore.ie/root-canal-treatments/"
+   },
+   {
+    "text": "Yes. However, it is better to restore the tooth with a crown to provide extra support and strength to the tooth.",
+    "url": "https://pearldentaltullamore.ie/root-canal-treatments/"
+   },
+   {
+    "text": "Root canal treatment is a routine dental procedure, which your dentist will be happy to do for you.",
+    "url": "https://pearldentaltullamore.ie/root-canal-treatments/"
+   },
+   {
+    "text": "Root-treated teeth should be treated just the same as any other tooth. Remember to clean your teeth at least once a day, preferably with a fluoride toothpaste. Cut down on sugary snacks, and keep them only to mealtimes if possible. See your dentist for regular check-ups.",
+    "url": "https://pearldentaltullamore.ie/root-canal-treatments/"
    },
    {
     "text": "Scale and Polish with PRSI with Hygienist:",
@@ -172,5 +245,5 @@
    }
   ]
  },
- "generated_at": "2026-11-14 16:43"
+ "generated_at": "2026-11-14 17:28"
 }

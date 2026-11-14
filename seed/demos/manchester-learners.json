@@ -25,13 +25,13 @@
    "Mock tests"
   ],
   "prices": [
-   "Automatic Lessons From £35/hr",
-   "Intensive Automatic Courses From £399",
+   "Automatic Lessons: From £35/hr",
+   "Intensive Automatic Courses: From £399",
    "Save £20 compared to individual lessons",
-   "30 Hour Intensive £1149",
-   "35 Hour Intensive £1320",
-   "40 Hour Intensive £1499",
-   "45 Hour Intensive £1590"
+   "30 Hour Intensive: £1149",
+   "35 Hour Intensive: £1320",
+   "40 Hour Intensive: £1499",
+   "45 Hour Intensive: £1590"
   ],
   "faqs": [
    {
@@ -238,5 +238,5 @@
    }
   ]
  },
- "generated_at": "2026-11-14 16:43"
+ "generated_at": "2026-11-14 17:28"
 }

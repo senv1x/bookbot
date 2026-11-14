@@ -18,7 +18,7 @@ TIMEOUT = float(os.getenv("SCRAPE_TIMEOUT", "10"))
 MAX_BYTES = 3_000_000
 
 DAYS = r"(?:mon|tue|tues|wed|weds|thu|thur|thurs|fri|sat|sun)(?:day|nesday|sday|urday|rsday)?|weekdays?|weekends?|bank holidays?"
-TIME = r"(?:\d{1,2}[:.]\d{2}\s*(?:am|pm)?|\d{1,2}\s*(?:am|pm)|closed|noon|midday|24\s*hours|by appointment)"
+TIME = r"(?:\d{1,2}[:.]\d{2}\s*(?:am|pm)?|\d{1,2}\s*(?:am|pm)|closed|noon|midday|24\s*hours|by appointment|appointments? only)"
 DAY_RE = re.compile(rf"\b(?:{DAYS})\b", re.I)
 TIME_RE = re.compile(TIME, re.I)
 EMAIL_RE = re.compile(r"[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,24}")
@@ -39,6 +39,10 @@ JUNK = re.compile(r"^(?:home|about(?: us)?|contact(?: us)?|menu|privacy.*|cookie
                   r"get directions|directions|map|view more|see more|submit|send|send message|call us|welcome.*|"
                   r"quick links|useful links|links|information|info|connect with us|social|newsletter|subscribe)$", re.I)
 SERVICE_PAGE = re.compile(r"service|treatment|price|pricing|fee|lesson|course|menu|repair|mot|groom|hair|what-we-do|offer|package", re.I)
+
+
+TIER_RE = re.compile(r"^(?:from:?\s*)?(?:toy|small|medium|large|extra large|x-?large|giant|gigantic|standard|single|double|"
+                     r"child(?:ren)?|adult|senior|men'?s|ladies|gents|half|full|short|long|1|2|3)\b", re.I)
 
 
 class ScrapeBlocked(Exception):
@@ -287,6 +291,8 @@ def _parse(url, html, acc, is_service_page):
     text = soup.get_text("\n")
     lines = [_clean(l) for l in text.split("\n")]
     lines = [l for l in lines if l]
+    heading_set = {_clean(h.get_text(" ")) for h in soup.find_all(["h1", "h2", "h3", "h4", "h5"])}
+    cur_heading = ""
     full_lines = lines + [_clean(l) for t in acc["chrome_text"][-3:] for l in t.split("\n") if _clean(l)]
     # table layouts: a column of days followed by a column of times
     i = 0
@@ -308,9 +314,19 @@ def _parse(url, html, acc, is_service_page):
                 _add(acc["hours"], l, 16)
             elif not any(h.lower().startswith(l.lower().rstrip(":").strip()) for h in acc["hours"]) and i + 1 < len(full_lines) and TIME_RE.search(full_lines[i + 1]) and len(full_lines[i + 1]) < 40 and not DAY_RE.search(full_lines[i + 1]):
                 _add(acc["hours"], f"{l} {full_lines[i + 1]}", 16)
+        if l in heading_set and len(l) < 60 and not PRICE_RE.search(l):
+            cur_heading = l
         if PRICE_RE.search(l) and 4 < len(l) <= 120:
             prev = full_lines[i - 1] if i and len(full_lines[i - 1]) < 60 and not PRICE_RE.search(full_lines[i - 1]) else ""
-            _add(acc["prices"], (prev + " " + l).strip() if len(l) < 15 and prev else l, 30)
+            bare = len(l) < 40 and re.match(r"(?i)(?:from:?\s*)?[£€$]", l)  # "£10 added to full groom", "€80 - €140"
+            if bare and prev and prev != cur_heading and len(re.findall(r"[A-Za-z]", prev)) >= 4 and not re.match(r"(?i)(from|prices?|costs?|only|just|now|starting( from)?)\W*$", prev):
+                item = f"{prev.rstrip(': ')}: {l}"  # table row: service name on the line before
+            elif cur_heading and len(l) < 40 and (TIER_RE.match(l) or (bare and len(re.findall(r"[A-Za-z]", PRICE_RE.sub("", l))) >= 3)) and cur_heading.lower() not in l.lower():
+                item = f"{cur_heading.rstrip(': ')} – {re.sub(r'^from:?\s*', '', l, flags=re.I)}"  # section context, e.g. "Full Groom – Toy: £39"
+            else:
+                item = (prev + " " + l).strip() if len(l) < 15 and prev else l
+            if len(re.findall(r"[A-Za-z]", PRICE_RE.sub("", item))) >= 3:  # skip bare "£34.65" cells with no service name
+                _add(acc["prices"], item, 40)
         if not acc["address_guess"] and POSTCODE_RE.search(l) and len(l) < 160:
             acc["address_guess"] = l if len(l) > 15 or i == 0 else f"{full_lines[i - 1]}, {l}"
         if len(acc["phones"]) < 2:
@@ -401,14 +417,15 @@ def _clean_hours(lines):
     lines = text_style if len(text_style) >= 2 else lines
     out, seen = [], set()
     for l in lines:
-        l = l.strip(" ,;")
+        l = re.sub(r"[.\s]+$", "", l.strip(" ,;"))
         if len(l) > 90:
             continue
         k = re.sub(r"[^a-z0-9]", "", l.lower().replace("day", "").replace(".", ":"))
         if k in seen:
             continue
         seen.add(k); out.append(l)
-    return out[:10]
+    from kb import order_hours
+    return order_hours(out)[:10]
 
 
 def _finalize_services(acc):
@@ -511,7 +528,7 @@ def scrape(url, budget=18.0, workers=3, page_timeout=7):
         "name": name, "website": final, "description": acc["description"],
         "phones": _dedupe_phones(acc["phones"])[:3], "emails": acc["emails"][:3],
         "address": re.sub(r"(,\s*)+", ", ", acc["address"] or acc["address_guess"]).strip(", ."), "hours": _clean_hours(acc["hours"]),
-        "services": _finalize_services(acc), "prices": acc["prices"][:20], "faqs": acc["faqs"][:20],
+        "services": _finalize_services(acc), "prices": acc["prices"][:40], "faqs": acc["faqs"][:20],
         "chunks": acc["chunks"][:250],
     }
     q, qnotes = assess(data)

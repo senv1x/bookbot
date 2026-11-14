@@ -2,7 +2,7 @@
  "slug": "wellmead-osteopathy",
  "website": "https://wellmeadosteopathy.co.uk/appointments.html",
  "quality": "good",
- "notes": "found: phone, email, address, hours, services, prices; missing: FAQ; skipped /faqs.html: HTTPSConnectionPool(host='wellmeadosteopathy.co.uk', port=443): Read timed out. ",
+ "notes": "found: phone, email, address, hours, services, FAQ, prices; skipped /: HTTPSConnectionPool(host='wellmeadosteopathy.co.uk', port=443): Read timed out. ",
  "data": {
   "name": "Wellmead Osteopathy",
   "website": "https://wellmeadosteopathy.co.uk/appointments.html",
@@ -14,16 +14,7 @@
    "info@wellmeadosteopathy.co.uk"
   ],
   "address": "Wellmead, Steels Lane, Oxshott, Surrey, KT22 0RF",
-  "hours": [
-   "Monday: 09:00 - 16:00",
-   "Tuesday: 09:00 - 12:30",
-   "Wednesday: 09:00 - 17:00",
-   "Thursday: 09:00 - 16:00",
-   "Friday: 15:00 - 18:00",
-   "Monday: 14:00 - 18:00",
-   "Wednesday: 11:00 - 19:00",
-   "Friday: 14:00 - 18:00"
-  ],
+  "hours": [],
   "services": [
    "Osteopathy",
    "Medical Acupuncture",
@@ -41,7 +32,32 @@
    "Reflexology - ££65 (55min)",
    "Combi massage and reflex - £90 (85min)"
   ],
-  "faqs": [],
+  "faqs": [
+   {
+    "q": "Can anyone call themselves an Osteopath?",
+    "a": "No - The title Osteopath is protected by law and all osteopaths are required to be registered with their governing body the General Osteopathic Council (GOsC), which sets and promotes high standards of competency, conduct and safety. It is an offence for anyone to call themselves an Osteopath if they are not registered. Osteopaths are also required by law to hold Public Liability Insurance. Osteopaths undergo 4/5 years training, similar to that of a medical degree however more emphasis is placed on anatomy and musculoskeletal medicine."
+   },
+   {
+    "q": "Can I bring a friend?",
+    "a": "Yes � We are more than happy for you to bring a friend or a relative to be with you throughout the consultation and treatment."
+   },
+   {
+    "q": "Will I be asked to remove my clothes?",
+    "a": "Possibly � As a guide, please bring appropriate and comfortable clothes - ie vest or sports top and/or shorts or leggings, if you feel uncomfortable undressing to your underwear. At the first consultation especially, it is preferable for the Osteopath, as it allows them to assess spinal curves, muscle tension and musculoskeletal compensations patterns more easily. Should you request not to remove your clothes, the Osteopath will still be able to assess you, however please be aware that assessment and possibly treatment may be limited."
+   },
+   {
+    "q": "How many treatments will I need?",
+    "a": "This really depends on the condition and the person we are treating. Your Osteopath will advise you at your first visit what treatment is needed and how long it may take. As a general guide however, more acute problems resolve more quickly and the more longstanding issues usually require more treatments and possibly long-term maintenance treatments."
+   },
+   {
+    "q": "Does treatment hurt?",
+    "a": "Sometimes you may experience discomfort during treatment. Some people are very aware of their problem areas the day following treatments, as they may feel �achy�, but this should be no different as to the feeling following exercise. It is normal to feel stiff or sore after treatments, and is a healthy response. Your Osteopath will advise you on what to expect."
+   },
+   {
+    "q": "Can I claim back on my medical insurance?",
+    "a": "Most medical insurances will cover osteopathic treatment. We advise you to check with your provider first, as some policies have exemptions. Some also require you to have consulted your GP first. At Wellmead Osteopathy we asks patients to pay for their treatment themselves and then claim back from their provider. To book an appointment, or for more information please call us on 01372 897497 or email us at info@wellmeadosteopathy.co.uk"
+   }
+  ],
   "chunks": [
    {
     "text": "Appointments are by arrangement only. Please call 01372 897497 or email info@wellmeadosteopathy.co.uk to organise an appointment.",
@@ -82,30 +98,6 @@
    {
     "text": "Wellmead, Steels Lane, Oxshott, Surrey, KT22 0RF",
     "url": "https://wellmeadosteopathy.co.uk/appointments.html"
-   },
-   {
-    "text": "We offer committed and professional osteopathic treatment and are located in Oxshott, Leatherhead, Surrey. However we have patients who travel from much further afar to come and see us.",
-    "url": "https://wellmeadosteopathy.co.uk/"
-   },
-   {
-    "text": "At Wellmead Osteopathy we believe everyone has the right to an active and fulfilling life, with minimal aches and pains. We treat the person as a whole whatever the complaint and strive to get you back to normal life as soon as possible.",
-    "url": "https://wellmeadosteopathy.co.uk/"
-   },
-   {
-    "text": "We treat people of all ages and in all stages of their life through childhood and into retirement. At Wellmead Osteopathy we treat the whole family.",
-    "url": "https://wellmeadosteopathy.co.uk/"
-   },
-   {
-    "text": "We treat – and help to prevent – a wide range of problems from back pain and everyday aches, through to sports injuries and work related ailments.",
-    "url": "https://wellmeadosteopathy.co.uk/"
-   },
-   {
-    "text": "Whether you suffer from an acute injury or a recurrent complaint we are here to help make you feel better.",
-    "url": "https://wellmeadosteopathy.co.uk/"
-   },
-   {
-    "text": "Please do not hesitate to contact us should you have any questions or would like to find out whether osteopathy is for you.",
-    "url": "https://wellmeadosteopathy.co.uk/"
    },
    {
     "text": "At Wellmead Osteopathy we treat people of all ages and in all stages of their life.",
@@ -188,6 +180,54 @@
     "url": "https://wellmeadosteopathy.co.uk/treatments.html"
    },
    {
+    "text": "No - The title Osteopath is protected by law and all osteopaths are required to be registered with their governing body the General Osteopathic Council (GOsC), which sets and promotes high standards of competency, conduct and safety. It is an offence for anyone to call themselves an Osteopath if they are not registered.",
+    "url": "https://wellmeadosteopathy.co.uk/faqs.html"
+   },
+   {
+    "text": "Osteopaths are also required by law to hold Public Liability Insurance.",
+    "url": "https://wellmeadosteopathy.co.uk/faqs.html"
+   },
+   {
+    "text": "Osteopaths undergo 4/5 years training, similar to that of a medical degree however more emphasis is placed on anatomy and musculoskeletal medicine.",
+    "url": "https://wellmeadosteopathy.co.uk/faqs.html"
+   },
+   {
+    "text": "Yes � We are more than happy for you to bring a friend or a relative to be with you throughout the consultation and treatment.",
+    "url": "https://wellmeadosteopathy.co.uk/faqs.html"
+   },
+   {
+    "text": "Possibly � As a guide, please bring appropriate and comfortable clothes - ie vest or sports top and/or shorts or leggings, if you feel uncomfortable undressing to your underwear.",
+    "url": "https://wellmeadosteopathy.co.uk/faqs.html"
+   },
+   {
+    "text": "At the first consultation especially, it is preferable for the Osteopath, as it allows them to assess spinal curves, muscle tension and musculoskeletal compensations patterns more easily. Should you request not to remove your clothes, the Osteopath will still be able to assess you, however please be aware that assessment and possibly treatment may be limited.",
+    "url": "https://wellmeadosteopathy.co.uk/faqs.html"
+   },
+   {
+    "text": "This really depends on the condition and the person we are treating. Your Osteopath will advise you at your first visit what treatment is needed and how long it may take.",
+    "url": "https://wellmeadosteopathy.co.uk/faqs.html"
+   },
+   {
+    "text": "As a general guide however, more acute problems resolve more quickly and the more longstanding issues usually require more treatments and possibly long-term maintenance treatments.",
+    "url": "https://wellmeadosteopathy.co.uk/faqs.html"
+   },
+   {
+    "text": "Sometimes you may experience discomfort during treatment. Some people are very aware of their problem areas the day following treatments, as they may feel �achy�, but this should be no different as to the feeling following exercise. It is normal to feel stiff or sore after treatments, and is a healthy response.",
+    "url": "https://wellmeadosteopathy.co.uk/faqs.html"
+   },
+   {
+    "text": "Your Osteopath will advise you on what to expect.",
+    "url": "https://wellmeadosteopathy.co.uk/faqs.html"
+   },
+   {
+    "text": "Most medical insurances will cover osteopathic treatment. We advise you to check with your provider first, as some policies have exemptions. Some also require you to have consulted your GP first.",
+    "url": "https://wellmeadosteopathy.co.uk/faqs.html"
+   },
+   {
+    "text": "At Wellmead Osteopathy we asks patients to pay for their treatment themselves and then claim back from their provider.",
+    "url": "https://wellmeadosteopathy.co.uk/faqs.html"
+   },
+   {
     "text": "We are located on Steels Lane, opposite Lavender Gate, about 600 meters down from Oxshott High Street.",
     "url": "https://wellmeadosteopathy.co.uk/contact.html"
    },
@@ -219,7 +259,8 @@
     "text": "Anja is registered with The General Osteopathic Council and is a member of The British Medical Acupuncture Society and The Institute of Osteopathy.",
     "url": "https://wellmeadosteopathy.co.uk/about-us.html"
    }
-  ]
+  ],
+  "hours_note": "Our hours vary, so please see https://wellmeadosteopathy.co.uk/appointments.html or call 01372 897497. Late evenings, weekends and home visits can be arranged."
  },
- "generated_at": "2026-11-14 16:43"
+ "generated_at": "2026-11-14 17:29"
 }

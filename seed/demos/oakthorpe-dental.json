@@ -2,7 +2,7 @@
  "slug": "oakthorpe-dental",
  "website": "https://www.oakthorpedental.co.uk/",
  "quality": "good",
- "notes": "found: phone, email, address, hours, services, FAQ, prices; skipped /treatment/crowns-and-veneers: HTTPSConnectionPool(host='www.oakthorpedental.co.uk', port=443): Read timed out.; services curated by hand",
+ "notes": "found: phone, email, address, hours, services, FAQ, prices; services curated by hand",
  "data": {
   "name": "Oakthorpe Dental",
   "website": "https://www.oakthorpedental.co.uk/",
@@ -214,6 +214,34 @@
     "url": "https://www.oakthorpedental.co.uk/treatment/tooth-whitening"
    },
    {
+    "text": "When a tooth is restored with a filling, ultimately it is a weakened tooth. A filling sits inside the cavity and makes up for the lost tooth tissue previously destroyed by decay or trauma.",
+    "url": "https://www.oakthorpedental.co.uk/treatment/crowns-and-veneers"
+   },
+   {
+    "text": "A heavily filled tooth can be a weak tooth and is prone to fractures. A crown works to act as a brace for the weakened tooth, protecting the underlying natural structure from future fractures. A crown is a bespoke restoration made to fit your tooth exactly and can be made in a variety of materials. Your dentist will discuss which options are viable, the pros and cons of each option and costs involved.",
+    "url": "https://www.oakthorpedental.co.uk/treatment/crowns-and-veneers"
+   },
+   {
+    "text": "We respect our patient’s right to make informed decisions about their dental care, and we will endeavour to support you always.",
+    "url": "https://www.oakthorpedental.co.uk/treatment/crowns-and-veneers"
+   },
+   {
+    "text": "Veneers are thin porcelain or ceramic “faces” that are adhered to your tooth. Veneers can act to change the shape and/or position of your teeth. They can also be used to change the shade of your teeth.",
+    "url": "https://www.oakthorpedental.co.uk/treatment/crowns-and-veneers"
+   },
+   {
+    "text": "Tooth whitening is the first step in changing the shade of your teeth and this can be used in conjunction with veneer placement if suitable.",
+    "url": "https://www.oakthorpedental.co.uk/treatment/crowns-and-veneers"
+   },
+   {
+    "text": "We believe in giving you the opportunity to first discuss your expectations before and during the treatment planning stage so we can accommodate your wishes. The smile you want to achieve is a subjective matter and your input and feedback is essential to ensure treatment success.",
+    "url": "https://www.oakthorpedental.co.uk/treatment/crowns-and-veneers"
+   },
+   {
+    "text": "I had my first appointment with the team at Oathorpe dental in June 2024. The team were very professional and friendly. I felt at ease, my questions were answered, and I was given great advice on how to address my dental issues at home. I would recommend this practice to friends and family.",
+    "url": "https://www.oakthorpedental.co.uk/treatment/crowns-and-veneers"
+   },
+   {
     "text": "Orthodontics is a type of dental treatment that aims to improve the appearance, position and function of crooked or malaligned teeth.",
     "url": "https://www.oakthorpedental.co.uk/treatment/orthodontics"
    },
@@ -303,5 +331,5 @@
    }
   ]
  },
- "generated_at": "2026-11-14 16:43"
+ "generated_at": "2026-11-14 17:28"
 }

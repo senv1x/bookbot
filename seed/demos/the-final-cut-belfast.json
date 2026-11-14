@@ -2,7 +2,7 @@
  "slug": "the-final-cut-belfast",
  "website": "https://www.thefinalcut-belfast.co.uk/contact/3741465",
  "quality": "good",
- "notes": "found: phone, email, address, hours, services, prices; missing: FAQ; skipped /3741494.html: HTTPSConnectionPool(host='www.thefinalcut-belfast.co.uk', port=443): Max retries; skipped /3806540.html: HTTPSConnectionPool(host='www.thefinalcut-belfast.co.uk', port=443): Read timed ",
+ "notes": "found: phone, email, address, hours, services, prices; missing: FAQ; skipped /3741495.html: HTTPSConnectionPool(host='www.thefinalcut-belfast.co.uk', port=443): Max retries; skipped /4733647.html: HTTPSConnectionPool(host='www.thefinalcut-belfast.co.uk', port=443): Read timed ",
  "data": {
   "name": "The Final Cut (Belfast)",
   "website": "https://www.thefinalcut-belfast.co.uk/contact/3741465",
@@ -26,17 +26,16 @@
    "Ladies Hairdressing",
    "Men's & Children's Hair",
    "Haircuts",
-   "Blow dry",
    "Massage",
    "Consultations"
   ],
   "prices": [
    "Add on our Wella Pro intensive conditioning treatment to any colouring service for just £5",
    "(Normally £12) and receive a luxury head massage absolutely free.",
-   "Ladies cut and finish -(from) £32.00",
-   "Ladies restyle -(from) £38.00",
-   "Gents cut and finish - (from) £18.00",
-   "Gents restyle - (from) £25.00",
+   "Cutting Services – Ladies cut and finish -(from) £32.00",
+   "Cutting Services – Ladies restyle -(from) £38.00",
+   "Cutting Services – Gents cut and finish - (from) £18.00",
+   "Cutting Services – Gents restyle - (from) £25.00",
    "Semi permanent colour root infill - (from) £55.00",
    "Full head semi permanent colour - (from) £60.00",
    "Permanent tint root infill - (from) £60.00",
@@ -50,7 +49,13 @@
    "Full head foil highlights - (from) £90.00",
    "Toner only - (from) £35.00",
    "*Complete colour change prices start from £120 onwards. Booking and consultation are both essential.*",
-   "Express treatment - £10.00"
+   "Express treatment - £10.00",
+   "Intensive treatment - £12.00",
+   "Dry trim - £10.00",
+   "Cut and blow dry - £18.00",
+   "Restyle - £20.00",
+   "Curls & standard plaits - £10.00",
+   "French braids & pony tails - £10.00-£15.00"
   ],
   "faqs": [],
   "chunks": [
@@ -119,70 +124,6 @@
     "url": "https://www.thefinalcut-belfast.co.uk/"
    },
    {
-    "text": "To book an appointment at The Final Cut, call:",
-    "url": "https://www.thefinalcut-belfast.co.uk/prices/3741495"
-   },
-   {
-    "text": "\"So so pleased with my cut and colour. Andrew and the girls were so welcoming and friendly, would recommend them highly. I won't be going anywhere else from now on.\"",
-    "url": "https://www.thefinalcut-belfast.co.uk/prices/3741495"
-   },
-   {
-    "text": "\"I have finally found a wonderful hairdresser. At last I have a style that makes my fine hair look healthy and blonde without any gold. Thank you Andrew and Louise, two very talented people.\"",
-    "url": "https://www.thefinalcut-belfast.co.uk/prices/3741495"
-   },
-   {
-    "text": "With a 5 star salon rating from the trusted people at the Good Salon Guide, you can rely on our expert hair stylists to provide you with the advice and guidance as well as the skills needed to complete your look. When you choose us, you can rest assured knowing you are in the best hands.",
-    "url": "https://www.thefinalcut-belfast.co.uk/prices/3741495"
-   },
-   {
-    "text": "At The Final Cut we only use and supply Wella and Schwarzkopf Professionals products, as we believe they are the best on the market and after working with them and using their products for over 30 years we can assure our clients that they will get the best result.",
-    "url": "https://www.thefinalcut-belfast.co.uk/prices/3741495"
-   },
-   {
-    "text": "All colouring prices include a cut and blowdry.",
-    "url": "https://www.thefinalcut-belfast.co.uk/prices/3741495"
-   },
-   {
-    "text": "Semi permanent colour root infill - (from) £55.00",
-    "url": "https://www.thefinalcut-belfast.co.uk/prices/3741495"
-   },
-   {
-    "text": "Full head semi permanent colour - (from) £60.00",
-    "url": "https://www.thefinalcut-belfast.co.uk/prices/3741495"
-   },
-   {
-    "text": "Permanent tint root infill - (from) £60.00",
-    "url": "https://www.thefinalcut-belfast.co.uk/prices/3741495"
-   },
-   {
-    "text": "Full head permanent tint - (from) £65.00",
-    "url": "https://www.thefinalcut-belfast.co.uk/prices/3741495"
-   },
-   {
-    "text": "Full scalp bleach and toner - (from) £70.00",
-    "url": "https://www.thefinalcut-belfast.co.uk/prices/3741495"
-   },
-   {
-    "text": "Half head foil highlights - (from) £70.00",
-    "url": "https://www.thefinalcut-belfast.co.uk/prices/3741495"
-   },
-   {
-    "text": "Full head foil highlights - (from) £90.00",
-    "url": "https://www.thefinalcut-belfast.co.uk/prices/3741495"
-   },
-   {
-    "text": "*Complete colour change prices start from £120 onwards. Booking and consultation are both essential.*",
-    "url": "https://www.thefinalcut-belfast.co.uk/prices/3741495"
-   },
-   {
-    "text": "Add our Wella Pro intensive conditioning treatment to any colouring service for just",
-    "url": "https://www.thefinalcut-belfast.co.uk/prices/3741495"
-   },
-   {
-    "text": "French braids & pony tails - £10.00-£15.00",
-    "url": "https://www.thefinalcut-belfast.co.uk/prices/3741495"
-   },
-   {
     "text": "For an amazing hair styling experience, visit The Final Cut, or call us on:",
     "url": "https://www.thefinalcut-belfast.co.uk/about-us/3741463"
    },
@@ -223,38 +164,78 @@
     "url": "https://www.thefinalcut-belfast.co.uk/about-us/3741463"
    },
    {
-    "text": "Need ladies hairdressing in Northern Ireland? Call:",
-    "url": "https://www.thefinalcut-belfast.co.uk/ladies-hairdressing/4733647"
+    "text": "Need hair styling for men and children in Northern Ireland? Call:",
+    "url": "https://www.thefinalcut-belfast.co.uk/mens-childrens-hair/3741494"
    },
    {
-    "text": "The Final Cut have over 20 years' experience and a reputation for great results. Our skilled stylists will transform your appearance using the finest products from major salon providers.",
-    "url": "https://www.thefinalcut-belfast.co.uk/ladies-hairdressing/4733647"
+    "text": "“Andrew and his team offer a first class service and I wouldn’t go anywhere else. Whatever you’re after there’s no better man than Andrew Hull!”",
+    "url": "https://www.thefinalcut-belfast.co.uk/mens-childrens-hair/3741494"
    },
    {
-    "text": "Extensive experience with ladies hair totalling over 20 years",
-    "url": "https://www.thefinalcut-belfast.co.uk/ladies-hairdressing/4733647"
+    "text": "“My three year old little girl keeps asking when we will be back to cut her hair again. She's always telling everyone about how good her experience was at the hair salon. They are unreal with kids, never seen anyone better with little ones. Thanks so much for all you do. Very Highly recommended.”",
+    "url": "https://www.thefinalcut-belfast.co.uk/mens-childrens-hair/3741494"
+   },
+   {
+    "text": "With over two decades of experience and an outstanding reputation, at The Final Cut you can get the finest hair styling services for men and children as well. Whether it is back to school haircuts or maintaining a professional and stylish look for work, our prices are affordable and we don’t compromise on quality.",
+    "url": "https://www.thefinalcut-belfast.co.uk/mens-childrens-hair/3741494"
+   },
+   {
+    "text": "Extensive experience with men's and children's hair of over 20 years",
+    "url": "https://www.thefinalcut-belfast.co.uk/mens-childrens-hair/3741494"
    },
    {
     "text": "Qualified staff and twice L'Oreal colour trophy finalists",
-    "url": "https://www.thefinalcut-belfast.co.uk/ladies-hairdressing/4733647"
+    "url": "https://www.thefinalcut-belfast.co.uk/mens-childrens-hair/3741494"
    },
    {
-    "text": "Expert advice to make the most of your individual style",
-    "url": "https://www.thefinalcut-belfast.co.uk/ladies-hairdressing/4733647"
+    "text": "Expert advice to save your family money and time",
+    "url": "https://www.thefinalcut-belfast.co.uk/mens-childrens-hair/3741494"
    },
    {
-    "text": "At The Final Cut, we have a wide range of services, including colouring and cutting . We are located in Belfast and have a great track record serving the local community. Book an appointment with us for a free consultation, so that you can find your dream look.",
-    "url": "https://www.thefinalcut-belfast.co.uk/ladies-hairdressing/4733647"
+    "text": "At The Final Cut, we also provide a huge range of hair services including colouring and cutting . We are located in Belfast and have served many happy customers who have travelled across Northern Ireland for our services. Book an appointment with us for a free consultation for the whole family and get hair services that will make you all smile.",
+    "url": "https://www.thefinalcut-belfast.co.uk/mens-childrens-hair/3741494"
    },
    {
-    "text": "\"I wanted a totally different look. I had long hair all of my life, they were really sweet and made me feel so comfortable through the whole session. So happy with the result and I would absolutely recommend this place. Great people!\"",
-    "url": "https://www.thefinalcut-belfast.co.uk/ladies-hairdressing/4733647"
+    "text": "“Excellent service and experience as to be expected from Andrew. Always good for some craic too, thanks mate.”",
+    "url": "https://www.thefinalcut-belfast.co.uk/mens-childrens-hair/3741494"
    },
    {
-    "text": "I was really nervous about colouring my hair for the first time but Louise and Andrew were just magic. Andrew chose just the right colour for me! It's given me such a confidence boost and I just love it!",
-    "url": "https://www.thefinalcut-belfast.co.uk/ladies-hairdressing/4733647"
+    "text": "For an amazing hair styling experience, contact The Final Cut on:",
+    "url": "https://www.thefinalcut-belfast.co.uk/meet-the-team/3806540"
+   },
+   {
+    "text": "Owner and stylist at the final cut hairdressing, Belfast for 28 years. Andrew began his hairdressing career in Dublin before moving to London in the early eighties to work in one of Londons top salons. Returning to Belfast in 1988, Andrew opened The Final Cut in October 1988. The aim was to provide high quality hairdressing at an affordable price in East Belfast.",
+    "url": "https://www.thefinalcut-belfast.co.uk/meet-the-team/3806540"
+   },
+   {
+    "text": "Andrew also taught for 3 years and has several qualifications including a City and Guilds accredited NVQ level 3 in advanced hairdressing from the Belfast Institute (BIFHE) as well as his D32 and D33 assessor awards.",
+    "url": "https://www.thefinalcut-belfast.co.uk/meet-the-team/3806540"
+   },
+   {
+    "text": "Nearly 30 years later, his philosophy is still the same, to evolve his clients hair in both condition and style, colouring and cutting is what sets him apart.",
+    "url": "https://www.thefinalcut-belfast.co.uk/meet-the-team/3806540"
+   },
+   {
+    "text": "Puk has been with The Final Cut Hairdressing since 1998, a fully qualified hair stylist, Puk has chosen to specialize in creative commercial colouring, Puks specialist highlighting techniques are hard to beat when looking to create that perfect blonde or add depth and interest to a super cut. Puk excels in colouring, she has worked and trained extensively with wella colours and products throughout her career and has attended various wella and other courses to perfect her craft.",
+    "url": "https://www.thefinalcut-belfast.co.uk/meet-the-team/3806540"
+   },
+   {
+    "text": "Louise joined The Final Cut in 2013, Louise has recently qualified and completed her NVQ Level 2 hairdressing and is currently working towards her advanced certificate NVQ Level 3. She is committed to customer service and her head massages are heavenly. Louise is interested in fashion and on trend colouring, including balayage and ombre styles.",
+    "url": "https://www.thefinalcut-belfast.co.uk/meet-the-team/3806540"
+   },
+   {
+    "text": "\"Had one of the best cuts ever, lovely surroundings and the staff are very attentive. I will definitely be back.\"",
+    "url": "https://www.thefinalcut-belfast.co.uk/meet-the-team/3806540"
+   },
+   {
+    "text": "\"Louise is so great! She did such a good job colouring my hair! 10/10, would recommend.\"",
+    "url": "https://www.thefinalcut-belfast.co.uk/meet-the-team/3806540"
+   },
+   {
+    "text": "\"I have never been anywhere else in the last 25 years. Love Andrew's ability to create a new and original style every 8 - 10 weeks and the craic in the salon is the best. Had another new creation today and I love the new colour and cut. Best in Belfast!\"",
+    "url": "https://www.thefinalcut-belfast.co.uk/meet-the-team/3806540"
    }
   ]
  },
- "generated_at": "2026-11-14 16:43"
+ "generated_at": "2026-11-14 17:29"
 }

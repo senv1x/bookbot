@@ -17,20 +17,20 @@
   "hours": [
    "Mon-Fri: 9:00 AM – 9:00 PM",
    "Sat: 10:00 AM – 4:00 PM",
-   "Sun: 12:00 AM – 4:00 PM"
+   "Sun: until 4:00 PM, please call to confirm"
   ],
   "services": [
    "Car lessons",
    "Advanced Driving"
   ],
   "prices": [
-   "1 hour pretest €60",
+   "Car lessons – 1 hour pretest €60",
    "1hr 30min Mock € 90",
-   "2 hour pretest € 110",
+   "Car lessons – 2 hour pretest € 110",
    "EDT 12 hours € 600",
    "Car Hire + 1 hour Mock € 160",
-   "2 hour lesson € 90",
-   "3 hour lesson € 120",
+   "Car lessons – 2 hour lesson € 90",
+   "Car lessons – 3 hour lesson € 120",
    "Mock Test € 80",
    "Bike hire + 1 hour lesson € 150",
    "IBT 18 hours € 580",
@@ -127,5 +127,5 @@
    }
   ]
  },
- "generated_at": "2026-11-14 16:43"
+ "generated_at": "2026-11-14 17:28"
 }

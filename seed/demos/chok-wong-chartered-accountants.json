@@ -17,7 +17,7 @@
   ],
   "address": "Glasgow, G3 7SP",
   "hours": [
-   "Business hours: 9am – 5pm Monday – Friday."
+   "Monday – Friday: 9am – 5pm"
   ],
   "services": [
    "Payroll",
@@ -146,5 +146,5 @@
    }
   ]
  },
- "generated_at": "2026-11-14 16:43"
+ "generated_at": "2026-11-14 17:29"
 }
