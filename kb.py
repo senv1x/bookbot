@@ -116,6 +116,8 @@ def rule_answer(d, msg):
         if d.get("hours"):
             return {"answer": "Our opening hours: " + "; ".join(d["hours"][:8]) + ". Outside these hours I can take a booking request for you.",
                     "booking": False, "source": "hours"}
+        if d.get("hours_note"):
+            return {"answer": d["hours_note"] + " Or leave your details below and we'll get back to you.", "booking": True, "source": "hours-note"}
         return {"answer": "I don't have our exact opening hours to hand." + (f" Please {contact}, or" if contact else "")
                           + " leave your details and we'll confirm.", "booking": True, "source": "hours-none"}
     if ADDR_RE.search(m) and d.get("address"):

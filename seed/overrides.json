@@ -1,12 +1,81 @@
 {
  "_comment": "Hand-curated fixes for demo assistants, applied by scripts/make_demos.py after scraping. Only facts visible on each business's own website.",
- "barna-village-dental": {"services": ["Check-ups", "Hygiene / scale & polish", "Fillings", "Teeth whitening", "Orthodontics", "Root canal treatment", "Crowns", "Veneers", "Dentures", "Extractions"]},
- "easy-tyres-autos-ltd": {"services": ["New tyres", "Used tyres", "Car servicing (all makes and models)", "Brakes", "Exhausts", "Auto parts"]},
- "roker-park-vets": {"services": ["Consultations", "Vaccinations", "Diagnostic imaging", "Neutering", "Microchipping", "Nurse clinics", "Out-of-hours emergencies (via Wear Referrals)"]},
- "bridgeyate-motor-services-ltd": {"services": ["MOT testing", "Car servicing", "Repairs", "Diagnostics", "Light commercial vehicle servicing"]},
- "custom-maids": {"services": ["Regular house cleaning (weekly, bi-weekly, monthly)", "One-time deep cleaning", "Move-out cleaning", "Commercial cleaning", "Airbnb turnover cleaning", "Hoarding cleanup", "Free estimates"]},
- "manchester-learners": {"services": ["Automatic lessons", "Automatic intensive courses", "Full beginner programme", "Semi-beginner courses", "Mock tests"]},
- "manchester-one-driving-school": {"services": ["Single lessons", "Block bookings", "Manual lessons", "Automatic lessons", "Beginner drivers", "Nervous drivers", "Test preparation"]},
- "mancunian-driving-school": {"services": ["Manual driving lessons", "Automatic driving lessons", "10-hour lesson packages", "Intensive tuition", "Test preparation"]},
- "oakthorpe-dental": {"services": ["Dental examinations", "Dental implants", "Tooth whitening", "Crowns and veneers", "Invisalign", "Initial consultation"]}
+ "barna-village-dental": {
+  "services": [
+   "Check-ups",
+   "Hygiene / scale & polish",
+   "Fillings",
+   "Teeth whitening",
+   "Orthodontics",
+   "Root canal treatment",
+   "Crowns",
+   "Veneers",
+   "Dentures",
+   "Extractions"
+  ]
+ },
+ "easy-tyres-autos-ltd": {
+  "services": [
+   "New tyres",
+   "Used tyres",
+   "Car servicing (all makes and models)",
+   "Brakes",
+   "Exhausts",
+   "Auto parts"
+  ],
+  "hours": [],
+  "hours_note": "Please contact us for opening hours: call 07565 523030."
+ },
+ "roker-park-vets": {
+  "services": [
+   "Consultations",
+   "Vaccinations",
+   "Diagnostic imaging",
+   "Neutering",
+   "Microchipping",
+   "Nurse clinics",
+   "Out-of-hours emergencies (via Wear Referrals)"
+  ]
+ },
+ "bridgeyate-motor-services-ltd": {
+  "services": [
+   "MOT testing",
+   "Car servicing",
+   "Repairs",
+   "Diagnostics",
+   "Light commercial vehicle servicing"
+  ]
+ },
+ "manchester-learners": {
+  "services": [
+   "Automatic lessons",
+   "Automatic intensive courses",
+   "Full beginner programme",
+   "Semi-beginner courses",
+   "Mock tests"
+  ]
+ },
+ "oakthorpe-dental": {
+  "services": [
+   "Dental examinations",
+   "Dental implants",
+   "Tooth whitening",
+   "Crowns and veneers",
+   "Invisalign",
+   "Initial consultation"
+  ]
+ },
+ "paul-s-hairdressing": {
+  "_source": "https://www.paulshairdressing.co.uk/420-downham-way ('Opening hours at 420 Downham Way')",
+  "hours": [
+   "Monday to Thursday: 9:00am to 6:00pm",
+   "Friday: 9:00am to 7:00pm",
+   "Saturday: 8:30am to 5:30pm",
+   "Sunday: Closed"
+  ],
+  "phones": [
+   "020 8697 0207"
+  ],
+  "address": "420 Downham Way, Bromley BR1 5HR"
+ }
 }

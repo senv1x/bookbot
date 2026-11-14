@@ -2,31 +2,23 @@
  "slug": "paul-s-hairdressing",
  "website": "https://www.paulshairdressing.co.uk/420-downham-way",
  "quality": "good",
- "notes": "found: phone, email, address, hours, services, FAQ, prices",
+ "notes": "found: phone, email, address, hours, services, FAQ, prices; hours, phone and address limited to the 420 Downham Way salon (from its own page)",
  "data": {
   "name": "Paul's Hairdressing",
   "website": "https://www.paulshairdressing.co.uk/420-downham-way",
   "description": "Ladies and gents salon at 420 Downham Way, Bromley BR1, near Grove Park and Bellingham. Men walk in, cuts £18; senior cuts £12 Tuesdays.",
   "phones": [
-   "+442086970207",
-   "+442084606424",
-   "+442086978288"
+   "020 8697 0207"
   ],
   "emails": [
    "paul@paulshairdressing.co.uk"
   ],
-  "address": "420 Downham Way, Bromley, BR1 5HR",
+  "address": "420 Downham Way, Bromley BR1 5HR",
   "hours": [
-   "Monday, Tuesday, Wednesday, Thursday: 09:00-18:00",
-   "Friday: 09:00-19:00",
-   "Saturday: 08:30-17:30",
-   "Monday to Thursday 9am to 6pm, Friday 9am to 7pm, and Saturday 8:30am to 5:30pm.",
-   "Mon to Wed 9:00am to 6:00pm",
-   "Thu 10:00am to 8:00pm",
-   "Fri 9:00am to 6:00pm",
-   "Sat 8:30am to 5:30pm",
-   "Sun Closed",
-   "Mon to Thu 9:00am to 6:00pm"
+   "Monday to Thursday: 9:00am to 6:00pm",
+   "Friday: 9:00am to 7:00pm",
+   "Saturday: 8:30am to 5:30pm",
+   "Sunday: Closed"
   ],
   "services": [
    "Cut & finish",

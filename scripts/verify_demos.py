@@ -17,7 +17,7 @@ def main():
     ap.add_argument("--sales", required=True); ap.add_argument("--out", required=True)
     a = ap.parse_args()
     base = (a.base or a.server).rstrip("/")
-    rows = list(csv.DictReader(open(a.sales, encoding="utf-8")))
+    rows = [r for r in csv.DictReader(open(a.sales, encoding="utf-8")) if not re.search(r"bounced|skipped", r.get("status", ""), re.I)]
     out = []
     for row in rows:
         slug = slugify(row["business"])
@@ -36,7 +36,7 @@ def main():
         if len(days) != len(set(days)):
             notes.append("hours from several locations/pages are mixed, review before sending")
         if not d.get("hours"):
-            notes.append("no opening hours found")
+            notes.append("no opening hours on the website; assistant says to contact them" if d.get("hours_note") else "no opening hours found")
         if len(d.get("services", [])) < 3:
             notes.append("few services detected")
         out.append({

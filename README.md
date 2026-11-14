@@ -70,7 +70,7 @@ python scripts/make_demos.py prospects.csv --out /tmp/raw.csv          # CSV nee
 python server.py &                                                        # (restart so new seeds load)
 python scripts/verify_demos.py --sales prospects.csv --out demo-links.csv --base https://YOUR-DOMAIN
 ```
-`seed/overrides.json` holds hand-curated corrections (e.g. a cleaner services list), using only facts from each business's own site.
+`seed/overrides.json` holds hand-curated corrections (cleaner services list, single-location hours/phone, or `hours_note` when a site lists no hours), using only facts from each business's own site. Rows whose outreach `status` says bounced or skipped are left out. Demos removed from `seed/demos/` disappear on the next boot.
 The demo pages state that they were generated from the business's public website and are not installed on it.
 
 ## Tests

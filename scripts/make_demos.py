@@ -4,7 +4,7 @@
 
 Writes seed/demos/<slug>.json (loaded at server start, so demos survive restarts / redeploys on ephemeral disks)
 and a CSV with the demo URL and scrape-quality notes per business. Never contacts the businesses."""
-import argparse, csv, json, os, sys, time
+import argparse, csv, json, os, re, sys, time
 from concurrent.futures import ThreadPoolExecutor
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -47,7 +47,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("csv"); ap.add_argument("--out", required=True); ap.add_argument("--base", default="http://localhost:8090")
     a = ap.parse_args()
-    rows = list(csv.DictReader(open(a.csv, encoding="utf-8")))
+    rows = [r for r in csv.DictReader(open(a.csv, encoding="utf-8")) if not re.search(r"bounced|skipped", r.get("status", ""), re.I)]
     os.makedirs(os.path.join(ROOT, "seed", "demos"), exist_ok=True)
     with ThreadPoolExecutor(max_workers=3) as ex:
         results = list(ex.map(build, rows))

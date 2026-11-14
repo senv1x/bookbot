@@ -37,7 +37,11 @@ def seed_key(slug):
 
 
 def load_seeds():
-    for path in sorted(glob.glob(os.path.join(ROOT, "seed", "demos", "*.json"))):
+    paths = sorted(glob.glob(os.path.join(ROOT, "seed", "demos", "*.json")))
+    slugs = [os.path.basename(p)[:-5] for p in paths]
+    with _lock, _conn() as c:  # demos removed from seed/ disappear on the next boot
+        c.execute(f"DELETE FROM businesses WHERE seeded=1 AND slug NOT IN ({','.join('?' * len(slugs)) or "''"})", slugs)
+    for path in paths:
         try:
             d = json.load(open(path, encoding="utf-8"))
         except Exception:
