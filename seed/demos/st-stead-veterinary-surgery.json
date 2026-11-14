@@ -1,0 +1,355 @@
+{
+ "slug": "st-stead-veterinary-surgery",
+ "website": "https://ststead.co.uk/",
+ "quality": "good",
+ "notes": "found: phone, email, address, hours, services, prices; missing: FAQ",
+ "data": {
+  "name": "ST Stead Veterinary Surgery",
+  "website": "https://ststead.co.uk/",
+  "description": "Stead Vets York – Price Guide Prices effective from 1 November 2026 All prices include VAT. These are our most common services. Prices are for a typical case; every pet is different, so your vet will always give you an estimate before treatment. Our full price list is available in the practice or on",
+  "phones": [
+   "01904 782033"
+  ],
+  "emails": [
+   "ststeadltd@outlook.com",
+   "info@ststead.co.uk",
+   "ststeadyork@outlook.com"
+  ],
+  "address": "2 Plantation Drive, Acomb York YO26 6AG",
+  "hours": [
+   "Monday: 9:00am - 10:30am, 2:00pm - 3:00pm, 5:00pm - 6:30pm",
+   "Tuesday: 9:00am - 10:30am, 2:00pm - 3:00pm, 5:00pm - 6:30pm",
+   "Wednesday: 9:00am - 10:30am, 5:00pm - 7:30pm",
+   "Thursday: 9:00am - 10:30am, 5:00pm - 6:30pm",
+   "Friday: 9:00am - 10:30am, 2:00pm - 3:00pm, 5:00pm - 6:30pm",
+   "Saturday: 9:00am - 10:30am (emergency only from 12 noon)",
+   "Sunday: Emergency only"
+  ],
+  "services": [
+   "Consultations",
+   "Vaccinations",
+   "Consultations & Preventative Care",
+   "Diagnostics",
+   "Dog Neutering",
+   "Prescriptions",
+   "Animal Health Certificate",
+   "Pet Health Plan",
+   "Prescriptions, Dispensing & Administration",
+   "Surgery & Treatments"
+  ],
+  "prices": [
+   "15 minutes: £30.00",
+   "Nail clipping: £25.00",
+   "Anal gland expression: £30.00",
+   "Microchipping: £25.00",
+   "1st & 2nd vaccinations: £85.00",
+   "Dog annual booster: £70.00",
+   "Cat annual booster: £75.00",
+   "VHD and/or myxomatosis: £60.00",
+   "Kennel cough vaccination: £45.00",
+   "Rabies vaccine given here: £250.00",
+   "Each additional pet on the same certificate: £100.00",
+   "Per certificate: £50.00",
+   "Cat £16.50",
+   "Small dog (under 10kg): £18.00",
+   "Medium dog (10–25kg): £19.50",
+   "Large dog (25–40kg): £21.00",
+   "Extra-large dog (40–60kg): £29.00",
+   "Giant dog (over 60kg): £40.00",
+   "Including sedation or general anaesthetic, 3 images: £550.00",
+   "Ultrasound – abdominal (single organ): £400.00",
+   "Echocardiogram (heart scan): £500.00",
+   "Cytology – ear swab: £30.00",
+   "Laboratory: £175.00",
+   "Dipstick and specific gravity: £30.00",
+   "Pre-anaesthetic blood test: £110.00",
+   "First item: £21.00",
+   "Each additional item on the same prescription: £12.50",
+   "Per prescription: £21.00",
+   "Per order: £9.50",
+   "Per claim: £30.00",
+   "No extractions: £400.00",
+   "Fixed price: £600.00",
+   "Up to 15kg: £435.00",
+   "Over 15kg: £525.00",
+   "From 4 months: £150.00",
+   "From 3 months: £100.00",
+   "15 minutes: £40.00",
+   "Sedation and euthanasia – you take your pet home: £200.00",
+   "For a pet that has already passed away – ashes not returned: £50.00",
+   "Rabbits, small rodents, ferrets, birds: £30.00"
+  ],
+  "faqs": [],
+  "chunks": [
+   {
+    "text": "S.T.Stead Veterinary Practice was established in 1985 by Tim Stead BVSc MRCVS.",
+    "url": "https://ststead.co.uk/"
+   },
+   {
+    "text": "The Surgery has built a solid reputation locally and beyond, offering pet owners a wealth of veterinarian knowledge and experience.",
+    "url": "https://ststead.co.uk/"
+   },
+   {
+    "text": "S.T.Stead is a small friendly practice which has grown over the years from an initial staff of three! The surgery now has a larger team of 2 qualified surgeons, qualified veterinary nurses, nursing assistants and reception.",
+    "url": "https://ststead.co.uk/"
+   },
+   {
+    "text": "Mr Stead has invested over the years to provide state of the art equipment and technology, including X- Ray, Ultrasound, Laser, Video Endoscope and Diathermy Systems to help our patients receive the best care and treatment.",
+    "url": "https://ststead.co.uk/"
+   },
+   {
+    "text": "We also work with a number of local charitable organisations including Blue Cross, Cats Protection and Precious Paws, to help those pets and owners in need.",
+    "url": "https://ststead.co.uk/"
+   },
+   {
+    "text": "Please visit the links to find out more information. All of our staff are keen pet owners, over the years many of them have rescued animals through the above charities, please visit the About us page to hear more!",
+    "url": "https://ststead.co.uk/"
+   },
+   {
+    "text": "2 Plantation Drive, Acomb York YO26 6AG Telephone: 01904 782033 Email: ststeadltd@outlook.com",
+    "url": "https://ststead.co.uk/"
+   },
+   {
+    "text": "S.T.Stead offers a 24/7 Emergency Service. Please phone our emergency line: 01904 782033",
+    "url": "https://ststead.co.uk/"
+   },
+   {
+    "text": "S.T.Stead has invested in specialist equipment such as Laser – Based Systems to help speed up animal recovery time and to offer the best care for your pet.",
+    "url": "https://ststead.co.uk/"
+   },
+   {
+    "text": "Find out more about Laser Surgery and our other specialist services we provide here at the practice.",
+    "url": "https://ststead.co.uk/"
+   },
+   {
+    "text": "Our Practice is open from Monday to Saturday from 9:00am and we run by appointment only , please phone reception on: 01904 782033 to book an appointment or for any enquires.",
+    "url": "https://ststead.co.uk/"
+   },
+   {
+    "text": "You can also visit the Contact page for our full practice opening times or for alternative ways of contacting the surgery.",
+    "url": "https://ststead.co.uk/"
+   },
+   {
+    "text": "Extremely friendly staff.. really reassuring and helpful over the phone and in person. Really looked after my girl Fast service no messing about for my dogs c section. Fantastic aftercare on queries I had. Highly recommended!!",
+    "url": "https://ststead.co.uk/"
+   },
+   {
+    "text": "What absolute super stars, this vets was recommended to me, I got shoddy treatment from my old vet. Ststead has given me faith and trust in a vet once again. Thank you to all staff that looked after my girl. quite obvious that this place is caring and the price of treatment reflects that. Finally found a vet in his game for love not money.",
+    "url": "https://ststead.co.uk/"
+   },
+   {
+    "text": "Email ststeadltd@outlook.com to contact reception for bookings, history requests or general enquiries.",
+    "url": "https://ststead.co.uk/"
+   },
+   {
+    "text": "Email info@ststead.co.uk to contact Mr Stead directly.",
+    "url": "https://ststead.co.uk/"
+   },
+   {
+    "text": "Scan our QR Code to download our details:",
+    "url": "https://ststead.co.uk/"
+   },
+   {
+    "text": "We aim to provide the best possible service to all of our clients and their pets. However, if you have a genuine concern or wish to make a complaint, we want to resolve the matter as quickly and amicably as possible.",
+    "url": "https://ststead.co.uk/contact/"
+   },
+   {
+    "text": "You can raise your concerns directly with a member of staff, either in person or over the phone. If your complaint is not resolved to your satisfaction, please email ststeadyork@outlook.com so that our management team can review and address the issue.",
+    "url": "https://ststead.co.uk/contact/"
+   },
+   {
+    "text": "We value your feedback and take all complaints seriously, as it helps us to maintain and improve the quality of care across our practice.",
+    "url": "https://ststead.co.uk/contact/"
+   },
+   {
+    "text": "Number 10 & Number 5 both stop outside the surgery.",
+    "url": "https://ststead.co.uk/our-location/"
+   },
+   {
+    "text": "Reception is open daily Monday to Saturday, please see the home page for the opening times.",
+    "url": "https://ststead.co.uk/our-location/"
+   },
+   {
+    "text": "If you would like to book an appointment, please phone the surgery on 01904 782033 , alternatively you can email reception at ststeadltd@outlook.com",
+    "url": "https://ststead.co.uk/our-location/"
+   },
+   {
+    "text": "If you are in need of an emergency appointment, please phone our 24/7 emergerncy line on: 07836618148",
+    "url": "https://ststead.co.uk/our-location/"
+   },
+   {
+    "text": "We run appointment only clinics, times are shown below:",
+    "url": "https://ststead.co.uk/our-location/"
+   },
+   {
+    "text": "9:00am - 10:30am Emergency only from 12 noon on Saturday",
+    "url": "https://ststead.co.uk/our-location/"
+   },
+   {
+    "text": "Our landline will be diverted to our 24/7 emergency line and you will automatically be directed to our ‘out of hours’ on call vet or nurse.",
+    "url": "https://ststead.co.uk/emergency-services/"
+   },
+   {
+    "text": "Please note, we are a small private practice and the majority of the time we will only have one vet covering all out of hours calls.",
+    "url": "https://ststead.co.uk/emergency-services/"
+   },
+   {
+    "text": "Please only phone the surgery out of hours, if you believe it is an genuine emergency.",
+    "url": "https://ststead.co.uk/emergency-services/"
+   },
+   {
+    "text": "The vet or nurse on call will not be located at the Acomb surgery and therefore they will not have access to your pets’ medical records during those hours.",
+    "url": "https://ststead.co.uk/emergency-services/"
+   },
+   {
+    "text": "Please note, we are unable to send clinical history during out of hours.",
+    "url": "https://ststead.co.uk/emergency-services/"
+   },
+   {
+    "text": "We do offer a 24/7 emergency cover for all registered and non registered clients. In the unfortunate event that your pet needs emergency care, outside of our regular surgery hours, rest assured we are able to provide any help that is required.",
+    "url": "https://ststead.co.uk/emergency-services/"
+   },
+   {
+    "text": "Any general enquiries will not be dealt with over the phone, if they are out of normal surgery times.",
+    "url": "https://ststead.co.uk/emergency-services/"
+   },
+   {
+    "text": "All our in-patients requiring overnight care are supervised and monitored throughout the night by the duty vet on call.",
+    "url": "https://ststead.co.uk/emergency-services/"
+   },
+   {
+    "text": "Please note, if your pet needs to stay in with us overnight the vet and nurse, who has been dealing with your pet during the day, will pass on all the relevant details to the duty vet.",
+    "url": "https://ststead.co.uk/emergency-services/"
+   },
+   {
+    "text": "The duty vet then will decide how often during the night your pet needs to be checked by them or a nurse.",
+    "url": "https://ststead.co.uk/emergency-services/"
+   },
+   {
+    "text": "The frequency of checks will depend on your pet’s condition & individual requirements (fluid therapy, need for pain relief injections etc).",
+    "url": "https://ststead.co.uk/emergency-services/"
+   },
+   {
+    "text": "Whilst the duty vet will check your pet as often as they feel necessary, there is no vet or nurse on the premises overnight. If there is any significant change in your pet’s condition the on call vet or nurse will contact you.",
+    "url": "https://ststead.co.uk/emergency-services/"
+   },
+   {
+    "text": "In-patient care costs are normally included in the total for your pet’s procedure unless otherwise advised by the vet at the time.",
+    "url": "https://ststead.co.uk/emergency-services/"
+   },
+   {
+    "text": "Please note that there will be no nursing staff on duty after the final surgery has finished on an evening, weekends or Bank Holidays outside of surgery times.",
+    "url": "https://ststead.co.uk/emergency-services/"
+   },
+   {
+    "text": "Pets will be left alone overnight after a final check up by the vet at approximately 10pm until opening up the following morning.",
+    "url": "https://ststead.co.uk/emergency-services/"
+   },
+   {
+    "text": "However, there is a Webcam/CCTV camera on the kennels which can be accessed 24/7 by the vet through his mobile phone to ensure that your pet can be monitored throughout.",
+    "url": "https://ststead.co.uk/emergency-services/"
+   },
+   {
+    "text": "Alternatively, if you would prefer to have a nurse stay with your pet overnight to monitor and update you through the night on their condition and treatment, this can be arranged for an addition cost of £500.00, per night.",
+    "url": "https://ststead.co.uk/emergency-services/"
+   },
+   {
+    "text": "Please note, you will need to check with your insurance company, if your policy will cover for this additional charge.",
+    "url": "https://ststead.co.uk/emergency-services/"
+   },
+   {
+    "text": "These are our most common services. Prices are for a typical case; every pet is different, so your vet will always give you an estimate before treatment. Our full price list is available in the practice or on request. Stead Vets York is an independently owned practice.",
+    "url": "https://ststead.co.uk/our-pricing/"
+   },
+   {
+    "text": "All vaccination prices include a health check with the vet.",
+    "url": "https://ststead.co.uk/our-pricing/"
+   },
+   {
+    "text": "Monthly direct debit. Full details of what each plan includes are at ststead.co.uk .",
+    "url": "https://ststead.co.uk/our-pricing/"
+   },
+   {
+    "text": "Prices include interpretation of results.",
+    "url": "https://ststead.co.uk/our-pricing/"
+   },
+   {
+    "text": "You can ask us for a written prescription, provided within 48 hours, and buy medicines elsewhere.",
+    "url": "https://ststead.co.uk/our-pricing/"
+   },
+   {
+    "text": "Includes general anaesthetic, IV fluids, charting, full-mouth dental X-rays, scale & polish and pain relief. Fixed price for all sizes of dog.",
+    "url": "https://ststead.co.uk/our-pricing/"
+   },
+   {
+    "text": "Dental assessment, scale & polish No extractions",
+    "url": "https://ststead.co.uk/our-pricing/"
+   },
+   {
+    "text": "Dental with treatment / extractions Fixed price",
+    "url": "https://ststead.co.uk/our-pricing/"
+   },
+   {
+    "text": "Cremation is provided by PCS. Private cremation includes a bamboo casket; other caskets or pewter urns are available for an additional £100.",
+    "url": "https://ststead.co.uk/our-pricing/"
+   },
+   {
+    "text": "Home burial Sedation and euthanasia – you take your pet home",
+    "url": "https://ststead.co.uk/our-pricing/"
+   },
+   {
+    "text": "Communal cremation package Sedation, euthanasia and communal cremation – ashes not returned",
+    "url": "https://ststead.co.uk/our-pricing/"
+   },
+   {
+    "text": "Private cremation package Sedation, euthanasia and individual cremation – ashes returned in a bamboo casket",
+    "url": "https://ststead.co.uk/our-pricing/"
+   },
+   {
+    "text": "Communal cremation only For a pet that has already passed away – ashes not returned",
+    "url": "https://ststead.co.uk/our-pricing/"
+   },
+   {
+    "text": "Private cremation only For a pet that has already passed away – ashes returned in a bamboo casket",
+    "url": "https://ststead.co.uk/our-pricing/"
+   },
+   {
+    "text": "S.T.Stead is a small friendly practice on the outskirts of York City Centre. It was established in 1985 by Tim Stead BVSc MRCVS and over the years it has built a solid reputation locally and beyond.The surgery initially started with a small team of three, we now have a larger team of two qualified surgeons, qualified veterinary nurses, nursing assistants and reception staff.",
+    "url": "https://ststead.co.uk/about-us-2/"
+   },
+   {
+    "text": "Our team are dedicated and trained to offer the most excellent care and understanding to all of our patients and deliver owners with expert advice. We also have a wide range of services to help give your pet the best quality and affordable treatment they need.",
+    "url": "https://ststead.co.uk/about-us-2/"
+   },
+   {
+    "text": "Our Practice has excellent facilities throughout, we have an X-ray machine, Ultrasound, Blood Analysis machines and much more!",
+    "url": "https://ststead.co.uk/about-us-2/"
+   },
+   {
+    "text": "Our Vets are trained in a wide range of operations from general surgery, such as neutering to more complex procedures and emergency surgery. Most of our surgery is performed using Laser Surgery, to ensure that all surgery is carried out with high accuracy, less pain, bleeding and swelling to offer faster and better recovery for your pet.",
+    "url": "https://ststead.co.uk/about-us-2/"
+   },
+   {
+    "text": "All of our staff are trained to a high standard and are commited to offering excellent, proffesional care to all of our patients.",
+    "url": "https://ststead.co.uk/about-us-2/"
+   },
+   {
+    "text": "As a practice we understand that bringing your pet to the surgery can be a traumatic time for yourselves as well as your pet, so we believe in treating all patients and owners with compassion in a professional and understanding manner, which we believe helps to create a calming environment.",
+    "url": "https://ststead.co.uk/about-us-2/"
+   },
+   {
+    "text": "We understand that owning a pet can sometimes be difficult financially in affording veterinary treatment and as a practice we believe in helping with those tough situations.",
+    "url": "https://ststead.co.uk/about-us-2/"
+   },
+   {
+    "text": "For this reason, we have partnered together with several charities to help with the cost of treatment and neutering, please visit our Financial Assistance Page for advice and to see If you are elegible for help towards treatment.",
+    "url": "https://ststead.co.uk/about-us-2/"
+   },
+   {
+    "text": "We run a 24/7 emergency service, you can either contact reception on 01904 782033 within surgery times, or…",
+    "url": "https://ststead.co.uk/about-us-2/"
+   }
+  ]
+ },
+ "generated_at": "2026-11-14 18:12"
+}

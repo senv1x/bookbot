@@ -107,5 +107,360 @@
   "hours": [
    "Monday – Friday: 9am – 5pm"
   ]
+ },
+ "linden-house-dental-practice": {
+  "_source": "lindenhousedentalpractice.co.uk/fees price guide (name precedes 'Pay as you go' line)",
+  "prices": [
+   "New Patient Consultation (inc. X-rays): £88",
+   "Existing Patient Examination, Scale and Polish: £96 (covered by Denplan Essentials)",
+   "Existing Patient Examination only: £58 (covered by Denplan Essentials)",
+   "Existing Patient Scale and Polish only (with dentist): £83 (covered by Denplan Essentials)",
+   "Intraoral X-ray: £16",
+   "Panoral X-ray: £60",
+   "Hygienist Visit: from £98",
+   "Amalgam Filling: from £107",
+   "White Filling: from £167",
+   "Porcelain Veneer: from £754",
+   "Full upper OR lower dentures: from £843",
+   "Full upper AND lower dentures: from £1,424",
+   "Routine Extractions: £160",
+   "Gold crowns: from £920",
+   "White porcelain bonded crowns: from £754",
+   "Cosmetic Lava/Procera crowns: from £897",
+   "Cosmetic white zirconia crowns: from £694",
+   "Bridgework (per unit): from £754",
+   "Root Canal Treatment – Anterior Tooth: from £538",
+   "Root Canal Treatment – Molar Tooth: from £698",
+   "Phillips Zoom! take-home whitening: £467",
+   "Cfast Orthodontic Braces: from £2,490",
+   "Invisalign: from £2,600",
+   "Out of hours call out fee/Emergency appointment: £169",
+   "Denplan Essentials: from £15 per month"
+  ],
+  "phones": [
+   "01423 503162"
+  ]
+ },
+ "malpas-house-dental-practice": {
+  "_source": "dentistnorthallerton.co.uk/prices/fees/ (Pay As You Go | Plan columns)",
+  "prices": [
+   "New patient consultation including two radiographs: £80",
+   "Non-registered emergency appointment: £80",
+   "Malpas House Plan 1 (one exam/scale and polish a year): £10.90/month",
+   "Malpas House Plan 2 (two exams/scale and polish a year): £16.90/month",
+   "Examination: £70 (included in plan)",
+   "Emergency: £55 (plan: from £40)",
+   "Scale and Polish: £70 (included in plan)",
+   "Scale (extra to plan): from £70 (plan: from £60)",
+   "Small radiograph: £10 (included in plan)",
+   "Fillings: from £140 (plan: from £110)",
+   "Extraction: from £170 (plan: from £140)",
+   "Root canal: from £480 (plan: from £400)",
+   "Crowns: from £720 (plan: from £600)",
+   "Bridges: from £1000 (plan: from £800)",
+   "Teeth whitening: from £450 (plan: from £450)",
+   "Partial plastic denture: from £600 (plan: from £500)",
+   "Partial metal frame denture: from £1500 (plan: from £1300)",
+   "Clear braces: from £3600 (plan: from £3600)",
+   "Dental Implants: from £3400 (plan: from £3400)"
+  ]
+ },
+ "ivybridge-dental-centre": {
+  "prices": [
+   "Children’s Dental Health Check – New Patient – £20-£40",
+   "Children’s Dental Health Check (ongoing) – £20-£40",
+   "Bonding / Reshaping – £240 per tooth",
+   "Cosmetic Veneer – £786 per tooth",
+   "Bridge (fixed replacement) – £786 per tooth",
+   "Dental Implant (including implant + crown) – £3300",
+   "Full set of removable acrylic dentures for both arches: £1,600"
+  ],
+  "phones": [
+   "01752 894 142"
+  ]
+ },
+ "bryn-siriol-dental-practice": {
+  "services": [
+   "Routine examination",
+   "X-rays",
+   "White composite fillings",
+   "Silver amalgam fillings",
+   "Crowns/Veneers",
+   "Dental extraction",
+   "Tooth whitening",
+   "Root canal treatment",
+   "Sports mouth guards",
+   "Invisalign"
+  ]
+ },
+ "lucan-dental-implantology-centre": {
+  "hours": [
+   "Monday: 9am–5pm",
+   "Tuesday: 9am–5pm",
+   "Wednesday: 9am–5pm",
+   "Thursday: 9am–5pm",
+   "Friday: 9am–5pm"
+  ]
+ },
+ "woodstown-dental-centre": {
+  "services": [
+   "Dental cleaning",
+   "Crowns",
+   "Root canal",
+   "Extractions",
+   "Whitening",
+   "Dental bridges",
+   "Cosmetic bonding"
+  ]
+ },
+ "libby-gale-physiotherapy": {
+  "hours": [],
+  "hours_note": "Our opening hours aren't listed on our website, so please call us on 07500 932191.",
+  "services": [
+   "Back or neck pain",
+   "Sciatica",
+   "Headaches",
+   "Whiplash",
+   "Shoulder pain, including frozen shoulder",
+   "Tendon or ligament sprains or strains"
+  ]
+ },
+ "mot-plus-mk-ltd": {
+  "_source": "motplusmk.com",
+  "services": [
+   "MOT testing",
+   "Tyres and wheels",
+   "Exhausts",
+   "Lights"
+  ],
+  "phones": [
+   "01908 972834",
+   "07312 134335"
+  ]
+ },
+ "edmonstone-garage-ltd": {
+  "_source": "edmonstonegarage.co.uk WORKING HOURS",
+  "hours": [
+   "Monday - Friday: 08:30 - 17:30",
+   "Saturday - Sunday: Closed"
+  ]
+ },
+ "llanishen-m-o-t-service-centre-ltd": {
+  "_source": "mot4u.co.uk lists opening times only ('Mon - Thu 7:00 am -', closing time blank)",
+  "hours": [
+   "Monday - Thursday: from 7:00am (please call for closing time)",
+   "Friday: from 7:00am (please call for closing time)",
+   "Saturday - Sunday: Closed"
+  ]
+ },
+ "birch-park-garage-services": {
+  "hours": [],
+  "hours_note": "Our opening hours aren't listed on our website, so please call us on 01904 629499."
+ },
+ "link-road-motors": {
+  "services": [
+   "Car & van repairs",
+   "Van servicing",
+   "Clutch repair & replacement",
+   "Exhaust repair & welding",
+   "Tyre repair",
+   "Braking system check & repair",
+   "Suspension check & repair",
+   "Steering repairs",
+   "Transmission servicing & repair",
+   "Engine replacement & rebuilding"
+  ]
+ },
+ "wharf-driving-school": {
+  "hours": [
+   "Monday – Sunday: 7am – 10pm, bank holidays included"
+  ],
+  "prices": [
+   "Driving lessons: £37 an hour, pick-up included",
+   "Block of ten hours: £350, no joining fee",
+   "Refresher lessons (for licence holders): £41/hr",
+   "Intensive courses: from £1,229 (30 hrs) or £1,580 (40 hrs)"
+  ]
+ },
+ "nigel-morse-driving-school": {
+  "services": [
+   "Driving lessons",
+   "Pass Plus",
+   "Refresher lessons"
+  ],
+  "hours": [
+   "Monday to Friday: daytime lessons available early till 5.30pm"
+  ]
+ },
+ "qmh-driving-school": {
+  "services": [
+   "Manual driving lessons",
+   "Automatic driving lessons",
+   "Intensive driving lessons",
+   "Refresher driving lessons",
+   "Motorway driving lessons",
+   "Pass Plus"
+  ]
+ },
+ "brake-thru-school-of-motoring": {
+  "hours": [],
+  "hours_note": "Our opening hours aren't listed on our website, so please call us on 087-348 3560.",
+  "services": [
+   "EDT driving lessons",
+   "Car hire for test",
+   "Jeep & trailer lessons",
+   "Gift vouchers"
+  ]
+ },
+ "learn-to-drive-galway": {
+  "hours": [],
+  "hours_note": "Our opening hours aren't listed on our website, so please call us on 086 3895722.",
+  "services": [
+   "Pretest lessons",
+   "EDT (Essential Driver Training)",
+   "Refresher courses",
+   "Gift vouchers",
+   "Dual control cars"
+  ]
+ },
+ "rsa-school-of-motoring-cork": {
+  "_source": "drivinglessoncork.ie/contact 'Hours' block; phone lines open Mon-Sat 8am-8pm",
+  "hours": [
+   "Monday to Friday: 7am to 9pm",
+   "Saturday: 8am to 6pm",
+   "Sunday: By appointment"
+  ]
+ },
+ "galtres-vets": {
+  "_source": "galtresvets.co.uk/contact-us + /prices/small-animals",
+  "hours": [
+   "Monday-Friday: 8:30-18:30",
+   "Saturday: 9:00-12:00"
+  ],
+  "services": [
+   "Consultations",
+   "Vaccinations",
+   "Microchipping",
+   "Pregnancy scans",
+   "Animal Health Certificates for travel",
+   "Out of hours emergency care"
+  ],
+  "prices": [
+   "Small animal first consultation: £50.00",
+   "Small animal follow up consultation: £44.00",
+   "Small animal repeat prescription check: £40.00",
+   "Small animal nurse consultation: £29.00",
+   "Flea and worming consultation: £15.00",
+   "Small animal out of hours consultation (weekend day times and evenings before 10pm): £160.00",
+   "Small animal out of hours consultation (overnight after 10pm): £205.00",
+   "Dog booster vaccination (excluding kennel cough): £57.00",
+   "Kennel cough vaccination (injectable or intra-nasal): £31.50",
+   "Cat booster vaccination: £57.00",
+   "Rabbit vaccination (myxo and RHD): £72.72",
+   "Rabbit YurVac vaccination: £25.00",
+   "Puppy vaccination course: £87.00",
+   "Kitten vaccination course: £89.00",
+   "Small animal microchip: £15.00",
+   "Rabies vaccination: £60.00",
+   "Animal Health Certificate (AHC) for travel to Europe: £150.00",
+   "Small animal pregnancy scan: £59.70",
+   "Written prescription charge (one item): £21.00",
+   "Written prescription charge (more than one item): £33.50",
+   "Written prescription charge for controlled drug: £17.00"
+  ]
+ },
+ "st-stead-veterinary-surgery": {
+  "_source": "ststead.co.uk/our-location consultation times",
+  "hours": [
+   "Monday: 9:00am - 10:30am, 2:00pm - 3:00pm, 5:00pm - 6:30pm",
+   "Tuesday: 9:00am - 10:30am, 2:00pm - 3:00pm, 5:00pm - 6:30pm",
+   "Wednesday: 9:00am - 10:30am, 5:00pm - 7:30pm",
+   "Thursday: 9:00am - 10:30am, 5:00pm - 6:30pm",
+   "Friday: 9:00am - 10:30am, 2:00pm - 3:00pm, 5:00pm - 6:30pm",
+   "Saturday: 9:00am - 10:30am (emergency only from 12 noon)",
+   "Sunday: Emergency only"
+  ],
+  "phones": [
+   "01904 782033"
+  ]
+ },
+ "murphy-sheerin-veterinary-clinic": {
+  "hours": [
+   "Monday to Friday: 9am - 5.30pm (closed for lunch 1-2pm)",
+   "Saturday: 9am - 4pm (closed for lunch 1-2pm)"
+  ]
+ },
+ "the-dog-house-gloucester": {
+  "hours": [],
+  "hours_note": "Our opening hours aren't listed on our website, so please call us on 07917851907.",
+  "services": [
+   "Dog grooming"
+  ]
+ },
+ "doggy-stylez-grooming-room": {
+  "_source": "doggystylez.ie/services price guide; schema hours list Tue/Sat/Sun as 00:00-00:00",
+  "hours": [
+   "Monday: 09:00-15:00",
+   "Tuesday: please contact us",
+   "Wednesday, Thursday: 09:00-17:30",
+   "Friday: 09:00-13:00",
+   "Saturday, Sunday: please contact us"
+  ],
+  "prices": [
+   "Smooth coat – from €40 (final price based on dog's size, coat type and temperament)",
+   "Mini Groom – from €50 (final price based on dog's size, temperament & coat condition)",
+   "Full Groom – from €60 (final price based on dog's size, temperament & coat condition)",
+   "Puppys First Groom (14-32 weeks old) – from €45",
+   "Timaha Clay Treatment (add-on to any groom) – €8",
+   "Emi Pet Teeth Cleaning (add-on to any groom) – €20",
+   "Blueberry Facial (add-on to any groom) – €5"
+  ],
+  "services": [
+   "Smooth coat groom",
+   "Mini Groom",
+   "Full Groom",
+   "Puppys First Groom",
+   "Timaha Clay Treatment",
+   "Emi Pet Teeth Cleaning",
+   "Blueberry Facial"
+  ]
+ },
+ "who-s-a-good-dog": {
+  "_source": "whosagooddog.ie/contact-us: opening times listed, closing times blank",
+  "hours": [
+   "Monday: from 8:00am",
+   "Tuesday: from 8:00am",
+   "Wednesday: from 8:00am",
+   "Thursday: from 8:00am",
+   "Friday: from 8:00am",
+   "Saturday: Closed",
+   "Sunday: Closed"
+  ],
+  "services": [
+   "Full Groom (Trimmed Breeds)",
+   "Full Groom (Full Coated Breeds)",
+   "Full Groom (Hand Stripping)",
+   "Colouring / highlights",
+   "Nail clipping",
+   "Puppy appointments"
+  ],
+  "phones": [
+   "01 547 9840"
+  ]
+ },
+ "janimals-dog-grooming": {
+  "_source": "price table rows have no category labels we can pair reliably; site now firewall-blocks us",
+  "hours": [],
+  "hours_note": "Our opening hours aren't listed on our website, so please call us on 07551 242242.",
+  "prices": [],
+  "services": [
+   "Dog grooming",
+   "Massage"
+  ]
+ },
+ "pazam-hair-studio": {
+  "_source": "pazamhairstudio.com header says Fri 9am-6pm, Sat 8am-5pm but the Opening Hours block says Fri 9.30am-5pm, every second Sat 9.30am-5pm",
+  "hours": [],
+  "hours_note": "Our hours vary, so please see https://pazamhairstudio.com/ or call 087 780 4475 to check."
  }
 }

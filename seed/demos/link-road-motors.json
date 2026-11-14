@@ -1,0 +1,491 @@
+{
+ "slug": "link-road-motors",
+ "website": "https://www.linkroadmotors.ie/",
+ "quality": "good",
+ "notes": "found: phone, email, address, hours, services; missing: FAQ, prices",
+ "data": {
+  "name": "Link Road Motors",
+  "website": "https://www.linkroadmotors.ie/",
+  "description": "Link Road Motors in Cork promises superb car servicing and van repair. We specialise in air conditioning service, wheel alignment, tyre repair and car repair.",
+  "phones": [
+   "021 487 4856",
+   "021 482 6482"
+  ],
+  "emails": [
+   "info@linkroadmotors.ie"
+  ],
+  "address": "Link Road, Ballincollig, CO, P31 V440",
+  "hours": [
+   "Mon-Fri, 8am-6pm"
+  ],
+  "services": [
+   "Car & van repairs",
+   "Van servicing",
+   "Clutch repair & replacement",
+   "Exhaust repair & welding",
+   "Tyre repair",
+   "Braking system check & repair",
+   "Suspension check & repair",
+   "Steering repairs",
+   "Transmission servicing & repair",
+   "Engine replacement & rebuilding"
+  ],
+  "prices": [],
+  "faqs": [],
+  "chunks": [
+   {
+    "text": "Professional and customer-first car servicing and repairs , contact Link Road Motors Limited today.",
+    "url": "https://www.linkroadmotors.ie/"
+   },
+   {
+    "text": "We promise professional and customer-oriented service throughout the entire repair process. Our access to high quality parts and equipment from recognised manufacturers help us detect and fix all possible issues with your vehicle, and ensure you get value for money.",
+    "url": "https://www.linkroadmotors.ie/"
+   },
+   {
+    "text": "With over 10 years experience and a team of highly trained technicians, we’ll have your car looking and feeling brand-new in no time.",
+    "url": "https://www.linkroadmotors.ie/"
+   },
+   {
+    "text": "To learn more about what we can do for your car, contact Link Road Motors Limited today.",
+    "url": "https://www.linkroadmotors.ie/"
+   },
+   {
+    "text": "Our car servicing process checks everything from battery and oil levels, filters, interior lights and more. Each customer is presented with a checklist of tests done that summarise the car’s issues and general condition, as well as cost.",
+    "url": "https://www.linkroadmotors.ie/"
+   },
+   {
+    "text": "If your vehicle has been in an accident or broken down, our car repair services are extensive and thorough. Our skilled team of engineers will have it back up and running in no time, as well as spotting any future issues.",
+    "url": "https://www.linkroadmotors.ie/"
+   },
+   {
+    "text": "Our car diagnostic services are up to date and graded using the latest diagnostic scanners. These tools are constantly updated, ensuring that we get the most accurate and precise reading from your car, helping resolve any issue with its internal systems.",
+    "url": "https://www.linkroadmotors.ie/"
+   },
+   {
+    "text": "For commercial customers, we perform high-quality and efficient van repair on all company vans. These vehicle repairs are designed to be completed as soon as possible, causing minimal disruption to your business’ transport needs. Add button with anchor text “Van Repair” that links to page “Van Repair”",
+    "url": "https://www.linkroadmotors.ie/"
+   },
+   {
+    "text": "We pride ourselves on our deep and meticulous air conditioning service. Although this is not the shortest process, we repair air conditioning systems to factory-grade standards, ensuring all issues are detected and that it operates smoothly.",
+    "url": "https://www.linkroadmotors.ie/"
+   },
+   {
+    "text": "Once you have received an estimate for your crash repair, panel beating, vehicle transport, or other service, you can book you appointment slot online.",
+    "url": "https://www.linkroadmotors.ie/"
+   },
+   {
+    "text": "Our timing belt replacements are preventative, and aim to keep your car in working order and free of lengthy, expensive repair processes. We replace timing belts as soon as possible before it is damage, ensuring that your car and its engine valves remain it top condition.",
+    "url": "https://www.linkroadmotors.ie/"
+   },
+   {
+    "text": "Based on our experience working with products from the world’s top tyre manufacturers, our skilled team promises efficient and value-for-money tyre repair to ensure your vehicle is road-worthy and operating correctly.",
+    "url": "https://www.linkroadmotors.ie/"
+   },
+   {
+    "text": "Our premises are located in Link Road Business Park, Ballincollig, Cork. Contact us today by phone or email to arrange a meeting with one of our highly-trained staff members.",
+    "url": "https://www.linkroadmotors.ie/"
+   },
+   {
+    "text": "Our tyre service is performed at our premises and is performed to the highest standard by our professional and experienced team.",
+    "url": "https://www.linkroadmotors.ie/"
+   },
+   {
+    "text": "Quick and efficient Car & Van repairs , contact Link Road Motors Limited today.",
+    "url": "https://www.linkroadmotors.ie/car--van-repairs"
+   },
+   {
+    "text": "Link Road Motors Limited provides a wide range of car repair services no matter what condition your vehicle is in. We cater to minor issues such as small exterior damages and as well as other various repair services.",
+    "url": "https://www.linkroadmotors.ie/car--van-repairs"
+   },
+   {
+    "text": "Our professional team is on standby to help repair all kinds of vehicle damage to get your car back on the road in no time.",
+    "url": "https://www.linkroadmotors.ie/car--van-repairs"
+   },
+   {
+    "text": "To inquire more about our car repair services, contact Link Road Motors Limited today.",
+    "url": "https://www.linkroadmotors.ie/car--van-repairs"
+   },
+   {
+    "text": "If your vehicle is in need of car scratch repair, contact Link Road Motors Limited today.",
+    "url": "https://www.linkroadmotors.ie/car--van-repairs"
+   },
+   {
+    "text": "One of the most frequent repairs done by Link Road Motors Limited is brake pad repair. After extensive use, brake pads slowly wear down, giving you a far less effective braking system when driving.",
+    "url": "https://www.linkroadmotors.ie/car--van-repairs"
+   },
+   {
+    "text": "It’s important to get your brake pads repaired before a serious accident occurs on the road. Tell-tale signs can be a slow pedal response or a strange noise from your car.",
+    "url": "https://www.linkroadmotors.ie/car--van-repairs"
+   },
+   {
+    "text": "To get a quote for brake pad repair, contact Link Road Motors Limited today.",
+    "url": "https://www.linkroadmotors.ie/car--van-repairs"
+   },
+   {
+    "text": "As well as expert car repair, Link Road Motors Limited offers superb van repair and commercial vehicle repairs. We employ the same techniques used in our car repair and car service processes, but tailor it to specific van makes and models from top manufacturers.",
+    "url": "https://www.linkroadmotors.ie/car--van-repairs"
+   },
+   {
+    "text": "Our highly-trained team is ready to help fix any issues with your company van so that your business can get right back to transporting employees and clients.",
+    "url": "https://www.linkroadmotors.ie/car--van-repairs"
+   },
+   {
+    "text": "To get a quote for our van repair service, contact Link Road Motors Limited today",
+    "url": "https://www.linkroadmotors.ie/car--van-repairs"
+   },
+   {
+    "text": "Our van service process goes through the same rigorous checks as our other service processes. We begin by checking the most common areas such as oil and air filters, batteries, exterior and interior lighting.",
+    "url": "https://www.linkroadmotors.ie/car--van-repairs"
+   },
+   {
+    "text": "However, we make sure to check any fringe issues that are present or may arise in the future. We give each customer a copy of our technician’s report that they may browse extensively once service has completed.",
+    "url": "https://www.linkroadmotors.ie/car--van-repairs"
+   },
+   {
+    "text": "To learn more about our van service process, contact Link Road Motors Limited today",
+    "url": "https://www.linkroadmotors.ie/car--van-repairs"
+   },
+   {
+    "text": "Van transportation is key for many commercial entities within the Cork area. It’s important to be able to transport clients and employees to important meetings or conferences as soon and as quickly as possible.",
+    "url": "https://www.linkroadmotors.ie/car--van-repairs"
+   },
+   {
+    "text": "At Link Road Motors Limited, we prioritise repair and service of company vehicles so that your business flow remains smooth and uninterrupted, and your fleet of vehicles remain in top condition.",
+    "url": "https://www.linkroadmotors.ie/car--van-repairs"
+   },
+   {
+    "text": "For quality taxi van repair and service, look no further than Link Road Motors Limited. Just like any of our other company vehicle repairs, we aim to prioritise your vehicles’ repair and want to get it back on the road as soon as possible.",
+    "url": "https://www.linkroadmotors.ie/car--van-repairs"
+   },
+   {
+    "text": "Taxi services are built on the foundation of quality, well serviced vehicles, and we want to help keep that foundation steady and firm.",
+    "url": "https://www.linkroadmotors.ie/car--van-repairs"
+   },
+   {
+    "text": "If your taxi van is in need of repairs, contact Link Road Motors Limited today.",
+    "url": "https://www.linkroadmotors.ie/car--van-repairs"
+   },
+   {
+    "text": "WHAT ARE MY OPTIONS FOR CAR REPAIR NEAR ME?",
+    "url": "https://www.linkroadmotors.ie/car--van-repairs"
+   },
+   {
+    "text": "For car repair in Cork, Link Road Motors is located in Link Road Business Park, Ballincollig, Co. Cork. Directions are available on our website, as well as over phone or email.",
+    "url": "https://www.linkroadmotors.ie/car--van-repairs"
+   },
+   {
+    "text": "If your vehicle has sustained serious damage in a crash, please contact us as soon as possible. We promise to give you a fully personalised quote for repair with no hidden charges.",
+    "url": "https://www.linkroadmotors.ie/car--van-repairs"
+   },
+   {
+    "text": "Our van repair services are located in Link Road Business Park, Ballincollig, Cork and can be reached easily by car. Directions are available on our website or by contacting us by email or phone.",
+    "url": "https://www.linkroadmotors.ie/car--van-repairs"
+   },
+   {
+    "text": "WHAT ARE YOUR SERVICES FOR COMMERCIAL VEHICLE REPAIR?",
+    "url": "https://www.linkroadmotors.ie/car--van-repairs"
+   },
+   {
+    "text": "We specialise in repairing company vans as soon and as effectively as possible. This includes the typical service we perform for cars such as batteries, oil and air filters as well as unusual issues that might be present or occur later.",
+    "url": "https://www.linkroadmotors.ie/car--van-repairs"
+   },
+   {
+    "text": "Factory-quality air con system repair , contact Link Road Motors Limited today.",
+    "url": "https://www.linkroadmotors.ie/air-con-system-repair"
+   },
+   {
+    "text": "Quality car air conditioning service is hard to come by, and you might find yourself needing to get it repaired frequently even after a recent service.",
+    "url": "https://www.linkroadmotors.ie/air-con-system-repair"
+   },
+   {
+    "text": "Thankfully, at Link Road Motors Limited, we conduct air conditioning repair and service to factory standards, using official documentation and high-quality equipment to help your car’s air conditioning system back to working order.",
+    "url": "https://www.linkroadmotors.ie/air-con-system-repair"
+   },
+   {
+    "text": "If your air conditioning system is having issues, contact Link Road Motors Limited today.",
+    "url": "https://www.linkroadmotors.ie/air-con-system-repair"
+   },
+   {
+    "text": "Although not seen as a high-profile repair in comparison to tires, engines or brakes, car air conditioning is a no-less important component for getting your vehicle feeling good.",
+    "url": "https://www.linkroadmotors.ie/air-con-system-repair"
+   },
+   {
+    "text": "We take extra care and time with repairing air conditioning systems, in order to make sure we get rid of any unusual issues such as odd smells in your car, poor air circulation or malfunctioning temperature control.",
+    "url": "https://www.linkroadmotors.ie/air-con-system-repair"
+   },
+   {
+    "text": "To get your car’s interior feeling and smelling great again, contact Link Road Motors Limited today.",
+    "url": "https://www.linkroadmotors.ie/air-con-system-repair"
+   },
+   {
+    "text": "Just like most electrical components in your car, air conditioning systems don’t last forever. It’s crucial that you get frequent servicing of your entire car, including the often-overlooked air con recharge.",
+    "url": "https://www.linkroadmotors.ie/air-con-system-repair"
+   },
+   {
+    "text": "Poorly charged air conditioning units are not as effective when low on energy, and it’s important for them to be regularly filled. Our expert team at Link Road Motors Limited is familiar with all good practice when it comes to air con recharges and other air conditioning solutions.",
+    "url": "https://www.linkroadmotors.ie/air-con-system-repair"
+   },
+   {
+    "text": "An improperly repaired or faulty air conditioning system can cause all sorts of issues, including nasty odours. Sometimes, the odour could be due to your air conditioner’s smell in the car itself.",
+    "url": "https://www.linkroadmotors.ie/air-con-system-repair"
+   },
+   {
+    "text": "At Link Road Motors Limited, we fully examine and inspect all air conditioning units for factory faults or serious damage. If necessary, we can consult with you about replacing the entire unit if it contains serious defects.",
+    "url": "https://www.linkroadmotors.ie/air-con-system-repair"
+   },
+   {
+    "text": "If you suspect that the air conditioner smell in your car is due to air conditioner damage, contact Link Road Motors Limited today.",
+    "url": "https://www.linkroadmotors.ie/air-con-system-repair"
+   },
+   {
+    "text": "WHERE CAN I FIND CAR AIR CONDITIONING SERVICES NEAR ME?",
+    "url": "https://www.linkroadmotors.ie/air-con-system-repair"
+   },
+   {
+    "text": "Our expert team is on hand to help repair your air conditioning services at our premises in Link Road Business Park, Ballincollig, Cork.",
+    "url": "https://www.linkroadmotors.ie/air-con-system-repair"
+   },
+   {
+    "text": "HOW OFTEN DO I NEED TO RECHARGE AIR CON?",
+    "url": "https://www.linkroadmotors.ie/air-con-system-repair"
+   },
+   {
+    "text": "Air con recharges can normally be done in intervals of 4-5 years, although different manufacturers have different recommendations. If you are unsure if yours is properly charged, please contact us today.",
+    "url": "https://www.linkroadmotors.ie/air-con-system-repair"
+   },
+   {
+    "text": "Skilful and quick tyre repair , contact Link Road Motors Limited today.",
+    "url": "https://www.linkroadmotors.ie/tyre-repair"
+   },
+   {
+    "text": "No matter your vehicle type, make or model, it’ll never reach its true potential without excellently maintained tyres. Quality tyre repair helps keep your vehicle driving and looking great.",
+    "url": "https://www.linkroadmotors.ie/tyre-repair"
+   },
+   {
+    "text": "At Link Road Motors Limited, we spare no expense on tyre repair and service. We use only the highest quality tools and materials and promise to repair your tyres quickly and effectively.",
+    "url": "https://www.linkroadmotors.ie/tyre-repair"
+   },
+   {
+    "text": "To book our tyre repair services, contact Link Road Motors Limited today.",
+    "url": "https://www.linkroadmotors.ie/tyre-repair"
+   },
+   {
+    "text": "If your tyre has been punctured, don’t panic. Driving with a punctured tyre is not recommended, and you should head to a garage right away.",
+    "url": "https://www.linkroadmotors.ie/tyre-repair"
+   },
+   {
+    "text": "Some punctures are more damaging than others, but a clear head and clear assessment from the talented technicians at Link Road Motors Limited will help you get your tyre fixed and back on the road again.",
+    "url": "https://www.linkroadmotors.ie/tyre-repair"
+   },
+   {
+    "text": "To get your tyre puncture repairs done quickly by a talented technician, contact Link Road Motors Limited today.",
+    "url": "https://www.linkroadmotors.ie/tyre-repair"
+   },
+   {
+    "text": "Whether you’re aiming to give your car a new sense of control, enhance its style or both, low profile tyres might be your wheel of choice. But sadly, just like any other tyre, it’s not invincible.",
+    "url": "https://www.linkroadmotors.ie/tyre-repair"
+   },
+   {
+    "text": "Low profile tyre repair is necessary for when damage occurs and our team at Link Road Motors Limited is familiar with all the techniques and tools needed to fix it. We’ll have your vehicle looking stylish and driving smoothly again in no time.",
+    "url": "https://www.linkroadmotors.ie/tyre-repair"
+   },
+   {
+    "text": "As part of our wheel alignment and general tyre repair services, we look at wheel balancing. If your tyres have mismatched weights, you could be causing undue stress on your suspension system when driving.",
+    "url": "https://www.linkroadmotors.ie/tyre-repair"
+   },
+   {
+    "text": "Link Road Motors Limited’s thorough wheel rebalancing service gets your wheels equalised and back to regular condition so that you get the best possible performance from your car.",
+    "url": "https://www.linkroadmotors.ie/tyre-repair"
+   },
+   {
+    "text": "For more information on caravan tyre repairs, contact Link Road Motors Limited today.",
+    "url": "https://www.linkroadmotors.ie/tyre-repair"
+   },
+   {
+    "text": "Our tyre repair service can be found in Link Road Business Park, Cork. If you suspect your tyre could be seriously damaged, please get to our garage as soon as possible for repairs.",
+    "url": "https://www.linkroadmotors.ie/tyre-repair"
+   },
+   {
+    "text": "We repair all kinds of tyres at Link Road Motors Limited, including but not limited to caravan tyres, low profile tyres, all season tyres and budget tyres.",
+    "url": "https://www.linkroadmotors.ie/tyre-repair"
+   },
+   {
+    "text": "High-quality and NCT-ready car servicing, contact Link Road Motors Limited today.",
+    "url": "https://www.linkroadmotors.ie/car-servicing"
+   },
+   {
+    "text": "For over 10 years, Link Road Motors Limited has been providing top quality car servicing to the people in Cork. Our services are routine check-ups of your car’s performance, testing exterior and interior components such as lights, batteries and filters.",
+    "url": "https://www.linkroadmotors.ie/car-servicing"
+   },
+   {
+    "text": "All customers receive a summarised report of their car’s condition, what issues were fixed, what could be become an issue in the future, as well as the cost for repairs.",
+    "url": "https://www.linkroadmotors.ie/car-servicing"
+   },
+   {
+    "text": "To book a car servicing session with us, contact Link Road Motors Limited today.",
+    "url": "https://www.linkroadmotors.ie/car-servicing"
+   },
+   {
+    "text": "Our comprehensive car servicing includes routine checks and replacements of oil filters and air filters for your vehicle. This is one of the first checks and replacements we do when servicing your car. Regular replacement of oil filters helps clean, cool and lubricate your engine, whereas air filters ensures your engine gets clear access to oxygen.",
+    "url": "https://www.linkroadmotors.ie/car-servicing"
+   },
+   {
+    "text": "Depending on your vehicle, different intervals are recommended for changing your vehicle’s oil, but typically air and oil filters are advised to be changed whenever your oil is replaced.",
+    "url": "https://www.linkroadmotors.ie/car-servicing"
+   },
+   {
+    "text": "Basic service is an engine oil & oil filter change. Check of lights, oil levels, windscreen wipers & washers, tyres, safety belts, etc.",
+    "url": "https://www.linkroadmotors.ie/car-servicing"
+   },
+   {
+    "text": "Full Service is an engine oil, oil filter, air filter and fuel filter replacement. Check of lights, oil levels, windscreen wipers & washers, tyres, safety belts, etc.",
+    "url": "https://www.linkroadmotors.ie/car-servicing"
+   },
+   {
+    "text": "Doing the all types of service we are test battery condition, reset service message on dashboard and carry out an on-ramp visual inspection of brakes, steering, suspension and under-body.",
+    "url": "https://www.linkroadmotors.ie/car-servicing"
+   },
+   {
+    "text": "If you think your air filter or oil filter needs to be replaced, contact Link Road Motors Limited today.",
+    "url": "https://www.linkroadmotors.ie/car-servicing"
+   },
+   {
+    "text": "Car batteries do have a long lifespan, but it’s important to get it checked regularly just in case. At Link Road Motors Limited, we make sure your battery is seated correctly and in healthy condition.",
+    "url": "https://www.linkroadmotors.ie/car-servicing"
+   },
+   {
+    "text": "Sometimes excessive heat or cold can put strain on the battery, affecting its condition. If your vehicle is having trouble starting, the battery might be the culprit.",
+    "url": "https://www.linkroadmotors.ie/car-servicing"
+   },
+   {
+    "text": "If you’re getting ready for your NCT in Cork. Link Road Motors Limited is an ideal choice for getting your car serviced before the test.",
+    "url": "https://www.linkroadmotors.ie/car-servicing"
+   },
+   {
+    "text": "Our car servicing is thorough and forensic, and we provided a detailed summary of your car’s condition upon completion of our service. We can further discuss improvements or possible future issues that may arise with your vehicle, in order to make sure it can pass the NCT and be considered roadworthy.",
+    "url": "https://www.linkroadmotors.ie/car-servicing"
+   },
+   {
+    "text": "To learn more about getting your car ready for the NCT in Cork, contact Link Road Motors Limited today.",
+    "url": "https://www.linkroadmotors.ie/car-servicing"
+   },
+   {
+    "text": "At Link Road Motors Limited, we offer vehicle health check services, also known as a Visual Health Check for your vehicle. This service examines your car’s major sections: the wheels and tyres, external/electrical, underbonnet, brakes & hubs and underside. We mark components within these sections as \"Urgent\", \"Advisory\" and \"OK\", as well as providing the associated cost for fixing problematic areas.",
+    "url": "https://www.linkroadmotors.ie/car-servicing"
+   },
+   {
+    "text": "These checks are not mandatory but are useful for helping prevent issues in the future which could lead to costly vehicle repairs down the line.",
+    "url": "https://www.linkroadmotors.ie/car-servicing"
+   },
+   {
+    "text": "To learn more about our Visual Health Check services, contact Link Road Motors Limited",
+    "url": "https://www.linkroadmotors.ie/car-servicing"
+   },
+   {
+    "text": "HOW CAN I GET MY CAR READY FOR THE NCT IN CORK?",
+    "url": "https://www.linkroadmotors.ie/car-servicing"
+   },
+   {
+    "text": "At Link Road Motors Limited, our car servicing is well-documented and extensive. We help detect and service common issues, as well as possible problems that may arise in the future.",
+    "url": "https://www.linkroadmotors.ie/car-servicing"
+   },
+   {
+    "text": "Our garage is located in Link Road Business Park, Ballincollig, Cork. Our location is easy to reach by car, and you can contact us if you need further directions.",
+    "url": "https://www.linkroadmotors.ie/car-servicing"
+   },
+   {
+    "text": "Preventative and reasonably priced timing belt replacements , contact Link Road Motors Limited today.",
+    "url": "https://www.linkroadmotors.ie/timing-belt-replacement"
+   },
+   {
+    "text": "When it comes to proper engine maintenance, timing belts can play a huge role. If your belt breaks suddenly, you could be looking at huge costs for repairing a broken engine as well as a new belt.",
+    "url": "https://www.linkroadmotors.ie/timing-belt-replacement"
+   },
+   {
+    "text": "At Link Road Motors Limited, our timing belt replacement is preventative. We make sure to get your car’s timing belt or timing chain replaced as soon as possible, avoiding any future engine disasters for your vehicle.",
+    "url": "https://www.linkroadmotors.ie/timing-belt-replacement"
+   },
+   {
+    "text": "To get your car’s timing belt replaced, contact Link Road Motors Limited today.",
+    "url": "https://www.linkroadmotors.ie/timing-belt-replacement"
+   },
+   {
+    "text": "Although similar in function, timing chains are different in operation to timing belts. Timing belts are cheaper to manufacture, while also generating less noise from a vehicle.",
+    "url": "https://www.linkroadmotors.ie/timing-belt-replacement"
+   },
+   {
+    "text": "However, a timing chain is advantageous because of its long lifespan. Although it is noisier, a rattling noise can be a good tell-tale sign for a replacement, unlike a timing belt. Both belt and chain will need to be replaced before breakage in order to save your engine’s condition.",
+    "url": "https://www.linkroadmotors.ie/timing-belt-replacement"
+   },
+   {
+    "text": "For timing chain replacement, contact Link Road Motors Limited today.",
+    "url": "https://www.linkroadmotors.ie/timing-belt-replacement"
+   },
+   {
+    "text": "Timing chain and timing belt replacements are not cheap. Regardless, even though this may be a high cost, the price of repairing your broken engine after a broken timing belt or chain is considerably higher. Signs that you might need a timing belt replacement include cars vibrating when at high speed.",
+    "url": "https://www.linkroadmotors.ie/timing-belt-replacement"
+   },
+   {
+    "text": "Link Road Motors Limited promises to give you value for money by providing your vehicle with a high-quality timing belt or chain well in advance of any permanent damage, keeping your vehicle’s engine in healthy condition.",
+    "url": "https://www.linkroadmotors.ie/timing-belt-replacement"
+   },
+   {
+    "text": "If your car is vibrating at high speed or is making strange noises, contact Link Road Motors Limited today.",
+    "url": "https://www.linkroadmotors.ie/timing-belt-replacement"
+   },
+   {
+    "text": "A timing belt change can cost quite a bit, but is considerably small when compared to the cost of a full engine repair. To learn more, contact us today.",
+    "url": "https://www.linkroadmotors.ie/timing-belt-replacement"
+   },
+   {
+    "text": "WHAT IS THE DIFFERENCE BETWEEN A TIMING BELT AND A TIMING CHAIN?",
+    "url": "https://www.linkroadmotors.ie/timing-belt-replacement"
+   },
+   {
+    "text": "A timing belt is considerably cheaper and quieter, but a timing chain lasts longer and its noise can alert you of any issues.",
+    "url": "https://www.linkroadmotors.ie/timing-belt-replacement"
+   },
+   {
+    "text": "Car diagnostics with the latest scanning technology , contact Link Road Motors Limited today.",
+    "url": "https://www.linkroadmotors.ie/car-diagnostics"
+   },
+   {
+    "text": "Compared to car servicing or car repairs, car diagnostics is a full examination of your vehicle’s internal systems. The technology we use is the latest car diagnostic scanners, frequently updated to ensure we get the most accurate reading.",
+    "url": "https://www.linkroadmotors.ie/car-diagnostics"
+   },
+   {
+    "text": "We also provide each customer with a fully detailed report of their car’s condition, making our process and work done completely transparent.",
+    "url": "https://www.linkroadmotors.ie/car-diagnostics"
+   },
+   {
+    "text": "For more information on our car diagnostics process, contact Link Road Motors Limited today.",
+    "url": "https://www.linkroadmotors.ie/car-diagnostics"
+   },
+   {
+    "text": "The most important element of your car when it comes to diagnostics is the engine control unit, also known as the car’s ECU. ECUs are responsible for most of your car’s complex systems, and your car usually has several for different systems.",
+    "url": "https://www.linkroadmotors.ie/car-diagnostics"
+   },
+   {
+    "text": "Common ECU types include the systems that control fuel ignition, ABS control, air conditioning units and more. Our scanners are fully equipped to pull data directly from these ECUs safely and accurately.",
+    "url": "https://www.linkroadmotors.ie/car-diagnostics"
+   },
+   {
+    "text": "To learn more about specific car ECU functions, contact Link Road Motors Limited today.",
+    "url": "https://www.linkroadmotors.ie/car-diagnostics"
+   },
+   {
+    "text": "WHERE CAN I FIND SERVICES FOR CAR DIAGNOSTICS NEAR ME?",
+    "url": "https://www.linkroadmotors.ie/car-diagnostics"
+   },
+   {
+    "text": "You can find our premises in Link Road Business Park Cork. Our garage is fully equipped to correctly access your car with our up-to-date car diagnostic technology.",
+    "url": "https://www.linkroadmotors.ie/car-diagnostics"
+   },
+   {
+    "text": "A car’s ECU or engine control unit is a small electronic system that controls a specific function of your car such as fuel ignition, braking, or air conditioner units.",
+    "url": "https://www.linkroadmotors.ie/car-diagnostics"
+   }
+  ]
+ },
+ "generated_at": "2026-11-14 18:08"
+}

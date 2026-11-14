@@ -1,0 +1,225 @@
+{
+ "slug": "who-s-a-good-dog",
+ "website": "https://www.whosagooddog.ie/",
+ "quality": "good",
+ "notes": "found: phone, email, address, hours, services, FAQ; missing: prices",
+ "data": {
+  "name": "Who's A Good Dog?",
+  "website": "https://www.whosagooddog.ie/",
+  "description": "Master Dog Grooming Salon in Raheny, Dublin 5",
+  "phones": [
+   "01 547 9840"
+  ],
+  "emails": [
+   "info@whosagooddog.ie"
+  ],
+  "address": "8 Main Street, Raheny, Dublin 5, D05 C3C6",
+  "hours": [
+   "Monday: from 8:00am",
+   "Tuesday: from 8:00am",
+   "Wednesday: from 8:00am",
+   "Thursday: from 8:00am",
+   "Friday: from 8:00am",
+   "Saturday: Closed",
+   "Sunday: Closed"
+  ],
+  "services": [
+   "Full Groom (Trimmed Breeds)",
+   "Full Groom (Full Coated Breeds)",
+   "Full Groom (Hand Stripping)",
+   "Colouring / highlights",
+   "Nail clipping",
+   "Puppy appointments"
+  ],
+  "prices": [],
+  "faqs": [
+   {
+    "q": "WHO'S A GOOD DOG?",
+    "a": "At WHO'S A GOOD DOG? we offer a range of services. We will assess your dog’s coat and discuss what style will best suit them based on your dog’s general coat condition, lifestyle, breed/crossbreed, temperament and owners commitment to at-home maintenance between grooming appointments. Recommendations will then be given about the frequency of grooming appointments based on the above criteria."
+   }
+  ],
+  "chunks": [
+   {
+    "text": "We provide expert grooming services in a friendly, calm and caring environment for small sized dogs. We only use the best top quality products, selected for your dog based on their coat and skin condition.",
+    "url": "https://www.whosagooddog.ie/"
+   },
+   {
+    "text": "All dogs are individuals and require their own tailored grooming process for their unique needs. WHO'S A GOOD DOG? will discuss best options on initial consultation. You can be assured that we treat every dog we groom as one of our own, with compassion, respect and love.",
+    "url": "https://www.whosagooddog.ie/"
+   },
+   {
+    "text": "At WHO'S A GOOD DOG? we offer a range of services. We will assess your dog’s coat and discuss what style will best suit them based on your dog’s general coat condition, lifestyle, breed/crossbreed, temperament and owners commitment to at-home maintenance between grooming appointments. Recommendations will then be given about the frequency of grooming appointments based on the above criteria.",
+    "url": "https://www.whosagooddog.ie/"
+   },
+   {
+    "text": "Full Groom (Trimmed Breeds) The full groom experience at WHO'S A GOOD DOG? for trimmed breeds includes: • Full de-tangling • Shampoo & conditioning • Coat carefully dried • Ear care • External anal gland expression • Nail clipping • Sanitary clip • Parasite check • Styled to breed standard or agreed alternative style All shampoos/conditioners are of the highest quality and designed for dogs. Selected shampoo is based on your dog's coat type and skin condition. Each dog is an individual. Please call for initial consultation and starting price for your dog. Prices are inclusive of VAT @23%",
+    "url": "https://www.whosagooddog.ie/services"
+   },
+   {
+    "text": "The full groom experience at WHO'S A GOOD DOG? for trimmed breeds includes:",
+    "url": "https://www.whosagooddog.ie/services"
+   },
+   {
+    "text": "• Styled to breed standard or agreed alternative style",
+    "url": "https://www.whosagooddog.ie/services"
+   },
+   {
+    "text": "All shampoos/conditioners are of the highest quality and designed for dogs. Selected shampoo is based on your dog's coat type and skin condition.",
+    "url": "https://www.whosagooddog.ie/services"
+   },
+   {
+    "text": "Each dog is an individual. Please call for initial consultation and starting price for your dog.",
+    "url": "https://www.whosagooddog.ie/services"
+   },
+   {
+    "text": "Best option for specific double coated breeds, coats that don’t require trimming.",
+    "url": "https://www.whosagooddog.ie/services"
+   },
+   {
+    "text": "The full groom experience at WHO'S A GOOD DOG? for full coated breeds includes:",
+    "url": "https://www.whosagooddog.ie/services"
+   },
+   {
+    "text": "• Additional leave-in conditioning products",
+    "url": "https://www.whosagooddog.ie/services"
+   },
+   {
+    "text": "Full Groom (Short/Smooth Coated Breeds) The full groom experience at WHO'S A GOOD DOG? for short/smooth coated breeds includes: • Shampoo & conditioning • Coat carefully dried • Ear care • External anal gland expression • Nail clipping • Parasite check • Removal of as much shedding coat as possible using specialised tools All shampoos/conditioners are of the highest quality and designed for dogs. Selected shampoo is based on your dog's coat type and skin condition. Each dog is an individual. Please call for initial consultation and starting price for your dog. Prices are inclusive of VAT @23%",
+    "url": "https://www.whosagooddog.ie/services"
+   },
+   {
+    "text": "The full groom experience at WHO'S A GOOD DOG? for short/smooth coated breeds includes:",
+    "url": "https://www.whosagooddog.ie/services"
+   },
+   {
+    "text": "• Removal of as much shedding coat as possible using specialised tools",
+    "url": "https://www.whosagooddog.ie/services"
+   },
+   {
+    "text": "This option is suited best to un-neutered wire-coated breeds. It involves plucking the outer coat by hand and/or specialised tools to maintain correct coat texture and colour. The process takes considerably longer than using clippers or scissors and additional costs apply.",
+    "url": "https://www.whosagooddog.ie/services"
+   },
+   {
+    "text": "The full groom experience at WHO'S A GOOD DOG? for hand stripping includes:",
+    "url": "https://www.whosagooddog.ie/services"
+   },
+   {
+    "text": "Mini Groom This option is perfect to keep your dog's coat in superb condition between trims. The mini groom experience at WHO'S A GOOD DOG? for all breeds includes: • Shampoo & conditioning • Coat carefully dried • Full de-tangling • Ear care • External anal gland expression • Nail clipping • Parasite check • Sanitary clip Additional Add-on Service • Lightly trim eyes, feet and bum area All shampoos/conditioners are of the highest quality and designed for dogs. Selected shampoo is based on your dog's coat type and skin condition. Each dog is an individual. Please call for initial consultation and starting price for your dog. Prices are inclusive of VAT @23%",
+    "url": "https://www.whosagooddog.ie/services"
+   },
+   {
+    "text": "This option is perfect to keep your dog's coat in superb condition between trims.",
+    "url": "https://www.whosagooddog.ie/services"
+   },
+   {
+    "text": "The mini groom experience at WHO'S A GOOD DOG? for all breeds includes:",
+    "url": "https://www.whosagooddog.ie/services"
+   },
+   {
+    "text": "”Definitely the best groom our cocker spaniel Zepp has ever had! ....and in the hippest most stylish salon too ;) Tom's attention to detail was just perfect.....Zepp looks great! We'll definitely be booking again. Thanks Tom”",
+    "url": "https://www.whosagooddog.ie/services"
+   },
+   {
+    "text": "”I Brought my dachshund Phoebe here and I’ll never go to another groomers again! He is so so good at what he does, Phoebe looked amazing after her grooming and smelled so good! Also I bought the perfume for dogs they sell here and it smells so so good and lasts a long time”",
+    "url": "https://www.whosagooddog.ie/services"
+   },
+   {
+    "text": "”Amazing groomer! Delighted to have found Tom. He clearly is a Master Groomer who adores his dogs. He treated my puppy so kindly and did above and beyond what I expected for a first groom. I have lots of experience over the years with 'groomers' and have now found a home. Look no further!”",
+    "url": "https://www.whosagooddog.ie/services"
+   },
+   {
+    "text": "”Brilliant experience at WHO’S A GOOD DOG?! My Wheaten isn't exactly a fan of being groomed - but Tom was great and really went above and beyond! Will defo be back - 100% recommend!”",
+    "url": "https://www.whosagooddog.ie/services"
+   },
+   {
+    "text": "”The service was excellent. I brought my dog Trixie not long after this groomer opened. Trixie stayed for a couple of hours and was very well treated. The care and skill that went in to Trixie's grooming was above my expectations. She looked her best when I collected her, and she didn't want to leave”",
+    "url": "https://www.whosagooddog.ie/services"
+   },
+   {
+    "text": "”Our dog, who is a boxer came out very happy and looking amazing today. His coat was silky and shining after his wash and groom. We definitely found our go to groomers. Would totally recommend WHO’S A GOOD DOG? Well done, thanks and best of luck with your business. We will see you again”",
+    "url": "https://www.whosagooddog.ie/services"
+   },
+   {
+    "text": "”Amazing service. Tom was a pleasure to deal with and made Bella’s first groom a lovely calm experience. The salon is immaculate and Tom offered great tips for getting Bella comfortable for her groom prior to her visit. We will definitely be using WHO’S A GOOD DOG? as our regular groomers”",
+    "url": "https://www.whosagooddog.ie/services"
+   },
+   {
+    "text": "”Outstanding dog groomer and stylish salon. My dog has never looked better and now has a proper breed cut. Tom’s attention to detail is incredible and he clearly knows his stuff”",
+    "url": "https://www.whosagooddog.ie/services"
+   },
+   {
+    "text": "For general enquiries or to book an appointment, please phone us on:",
+    "url": "https://www.whosagooddog.ie/contact-us"
+   },
+   {
+    "text": "General enquires can also be submitted via e-mail on:",
+    "url": "https://www.whosagooddog.ie/contact-us"
+   },
+   {
+    "text": "WHO'S A GOOD DOG? was established in 2022 and is owned and managed by Master Dog Groomer Tom O’Mahony. Tom Graduated from Sparsholt College in 2006 with a BTEC National Diploma in Animal Management, he then began his dog grooming career in 2007 in a prestigious dog grooming salon in Dublin, where he remained until 2022 holding the position of Head Stylist.",
+    "url": "https://www.whosagooddog.ie/the-team"
+   },
+   {
+    "text": "In 2014 Tom became fully qualified with a City & Guilds Diploma for Professional Dog Stylists. In 2018 he gained his Master Craftsman (MCG) dog grooming qualification, and furthermore in 2025 he gained his International Certified Master Groomer (ICMG) qualification, making him Irelands first double Master qualified dog groomer.",
+    "url": "https://www.whosagooddog.ie/the-team"
+   },
+   {
+    "text": "Over the years Tom has successfully competed in dog grooming competitions at a very high standard and regularly wins or is placed in various classes. He is an internationally award winning dog groomer with career highlights being awarded Reserve Dog Groomer of the Year in both 2016 and 2022 in the annual IPDGA (Irish Professional Dog Groomers Association) competition.",
+    "url": "https://www.whosagooddog.ie/the-team"
+   },
+   {
+    "text": "Tom keeps up to date with the latest grooming styles and salon practices by regularly attending educational seminars in order to ensure that the services offered by WHO'S A GOOD DOG? are the best and most up-to-date available. He also employs the safest salons practices by being a trained Canine First Aid Responder. Tom is also an active member of the IPDGA.",
+    "url": "https://www.whosagooddog.ie/the-team"
+   },
+   {
+    "text": "Internationally Award Winning Competitor",
+    "url": "https://www.whosagooddog.ie/the-team"
+   },
+   {
+    "text": "BTEC National Diploma in Animal Management",
+    "url": "https://www.whosagooddog.ie/the-team"
+   },
+   {
+    "text": "City & Guilds Diploma for Professional Dog Stylists",
+    "url": "https://www.whosagooddog.ie/the-team"
+   },
+   {
+    "text": "TQUK Level 3 Award in Education & Training",
+    "url": "https://www.whosagooddog.ie/the-team"
+   },
+   {
+    "text": "Proud owner of Niklaus the Bedlington Terrier and two Devon Rex cats called Aria and Marjorie",
+    "url": "https://www.whosagooddog.ie/the-team"
+   },
+   {
+    "text": "Jonny is responsible for the day-to-day financial management of the business as well as coordinating promotion of the WHO’S A GOOD DOG? brand through the various social media marketing channels. He is also responsible for website design and management, and for the cohesive design and brand image of all marketing materials such as business cards, company flyers and other promotional materials.",
+    "url": "https://www.whosagooddog.ie/the-team"
+   },
+   {
+    "text": "Jonny holds an Honours Degree in Business Studies (Entrepreneurship) from IADT and has worked successfully in the financial services industry since 2005.",
+    "url": "https://www.whosagooddog.ie/the-team"
+   },
+   {
+    "text": "Successful career in international finance",
+    "url": "https://www.whosagooddog.ie/the-team"
+   },
+   {
+    "text": "Batchelor of Business Honours Degree in Entrepreneurship",
+    "url": "https://www.whosagooddog.ie/the-team"
+   },
+   {
+    "text": "Niklaus is a Bedlington Terrier and was born in 2019. He can be found most days sitting in his orange chair in the salon keeping an eye on the day-to-day activities and welcoming clients and their dogs to WHO'S A GOOD DOG? . He loves meeting new people and will always stop to say hello to new friends when he is out for his daily walks. He has been known to turn a few heads when he is out and about and often gets compared to a sheep or a goat!",
+    "url": "https://www.whosagooddog.ie/the-team"
+   },
+   {
+    "text": "Inspiration for the WHO'S A GOOD DOG? company logo",
+    "url": "https://www.whosagooddog.ie/the-team"
+   },
+   {
+    "text": "Part time model, look out for his unique portrait on display in the salon",
+    "url": "https://www.whosagooddog.ie/the-team"
+   }
+  ]
+ },
+ "generated_at": "2026-11-14 18:08"
+}

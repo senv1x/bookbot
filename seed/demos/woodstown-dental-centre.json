@@ -1,0 +1,572 @@
+{
+ "slug": "woodstown-dental-centre",
+ "website": "https://woodstowndental.ie/",
+ "quality": "good",
+ "notes": "found: phone, email, address, hours, services, FAQ; missing: prices; skipped /treatments/: HTTPSConnectionPool(host='woodstowndental.ie', port=443): Read timed out. (read ; skipped /facial-aesthetics/anti-wrinkle-treatments/: HTTPSConnectionPool(host='woodstowndental.ie', port=443): Read timed out. (read ",
+ "data": {
+  "name": "Woodstown Dental Centre",
+  "website": "https://woodstowndental.ie/",
+  "description": "Woodstown Dental Centre provides Cosmetic Dentistry, General Family Dentistry and Children's Dentistry in Knocklyon, Dublin.",
+  "phones": [
+   "01 495 2523"
+  ],
+  "emails": [
+   "info@woodstowndental.ie"
+  ],
+  "address": "Knocklyon, Dublin 16, D16 T2F9",
+  "hours": [
+   "Monday: 9:00am - 5:30pm",
+   "Tuesday: 9.00am - 6.00pm",
+   "Wednesday: 9.00am - 7.00pm",
+   "Thursday: 8:30am - 5:30pm",
+   "Friday: 8:00am - 5:00pm"
+  ],
+  "services": [
+   "Dental cleaning",
+   "Crowns",
+   "Root canal",
+   "Extractions",
+   "Whitening",
+   "Dental bridges",
+   "Cosmetic bonding"
+  ],
+  "prices": [],
+  "faqs": [
+   {
+    "q": "What is a Crown?",
+    "a": "A crown is a shell of porcelain/ceramic which is placed over your tooth. Crowns need to placed over teeth which may need to be reduced in size. This is a procedure which is carried out if fillings are broken, fractured or over root treated teeth. Please see our before and after gallery."
+   },
+   {
+    "q": "What is a Porcelain Bridge?",
+    "a": "Teeth adjacent to a space/gap can be replaced by the crowning of the adjacent teeth to which an artificial tooth is bonded. These are long lasting, durable restorations. Minimal preparation of the teeth may be carried out (Adhesive bridge.) Please enquire."
+   },
+   {
+    "q": "Why are Straumann® implants so sophisticated and considered to be the implant of choice?",
+    "a": "For decades Straumann® has innovated in design, technology, materials, software, processes and treatment procedures in dental implant solutions. We have set high global standards for implants. We strive to make the best, most reliable implant solutions and you can count on our efforts to increase your chances for a healthy recovery and comfort."
+   },
+   {
+    "q": "What is a Straumann® Dental Implant?",
+    "a": "A natural tooth consists of a tooth root, which firmly sits in the jawbone, and a tooth crown, which is the visible upper part of the tooth. A dental implant replaces a natural tooth root. It is a small, but strong post made of biocompatible metals or ceramics that is inserted into the jawbone in place of a tooth root. The implant acts as a base for fixing single crowns, multiple tooth bridges, or can be used as an anchor for entire dental prostheses."
+   },
+   {
+    "q": "Is dental implant treatment more expensive than conventional treatment?",
+    "a": "The cost of dental implant treatment varies depending on the complexity of the case. Implants are a cost-effective alternative to conventional restorations and improve the quality of life. 1-3 Straumann® implants are made to be durable and long-lasting, so a Straumann® implant treatment solution is a long-term investment in your health and future comfort. Before treatment, an initial diagnosis and cost plan is determined by your dentist. Costs depend on how many implants are needed and whether sufficient bone is available. Other factors may include special surgical needs, unique lab work, pros"
+   },
+   {
+    "q": "Are there any risks when placing dental implants?",
+    "a": "Today, implant therapy is an established standard for tooth replacement. It is well documented that implants are a safe and successful method of treatment. Even though implants are very common, potential risks can vary depending on your health. Bad oral hygiene or limited healing due to pre-existing medical conditions may affect your recovery and the durability of an implant. Your dentist will do a thorough assessment if implant treatment is the right choice for you."
+   },
+   {
+    "q": "Is surgery painful?",
+    "a": "Today’s techniques are being continually improved to reduce discomfort and enhance recovery. Experts are trained to provide the best care and the most innovative techniques to insert implants. Implants are usually inserted under local anesthesia to avoid discomfort during treatment. In order to provide the fastest and best recovery, it is important to follow the recommendations of your dentist. No matter your fears, there is an array of successful techniques to prevent or alleviate pain. Do not hesitate to talk to your dentist."
+   },
+   {
+    "q": "Is there any age limitation to dental implant treatment?",
+    "a": "For young patients it is possible to insert implants as soon as your jaw has stopped growing. At the other end of the spectrum, there is no age limit, given of course that you don’t display any significant medical risk factors and are a suitable candidate for implant treatment."
+   },
+   {
+    "q": "Do I have to expose a tooth gap after implant surgery?",
+    "a": "There are different options and procedures to cover a gap after tooth extraction or implant surgery. In an immediate treatment procedure for example you will receive a provisional prosthetic restoration on the same day as the implant placement."
+   },
+   {
+    "q": "What if I don’t have enough bone?",
+    "a": "It may turn out that you don’t have enough bone available to ensure the secure placement of dental implants. With the help of bone augmentation – an established treatment used to build up bone – implants can still be placed. We offer a wide range of synthetic and natural biomaterials designed to build up bone."
+   },
+   {
+    "q": "What kind of care is required after my treatment is complete?",
+    "a": "As always, oral hygiene is very important to the health of your teeth. This is even more true after you have an implant. Diligent oral hygiene helps to ensure the healthiest and fastest recovery. You should care for your teeth on a daily basis and follow the recommendations of your dentist. And you will have to regularly visit your dentist for checkups on your implants."
+   }
+  ],
+  "chunks": [
+   {
+    "text": "call us: 01 495 2523 • email us: info@woodstowndental.ie",
+    "url": "https://woodstowndental.ie/"
+   },
+   {
+    "text": "About Us Team Practice Gallery Community",
+    "url": "https://woodstowndental.ie/"
+   },
+   {
+    "text": "Treatments General Dentistry Prevention Dental Check-Ups General Family Dentistry Dental Cleaning Fillings Crowns Root Canal Treatment Dentures Bridges Cosmetic Bonding Dietary Advice Cosmetic Dentistry Cosmetic Dentistry Smile Makeovers Cosmetic Straightening Teeth Whitening Veneers Fillings Cosmetic Bonding Inlays Porcelain Bridges Crowns Children’s Dentistry Children's Dental Care Sealants Childrens Oral Hygiene Dental Implants",
+    "url": "https://woodstowndental.ie/"
+   },
+   {
+    "text": "General Dentistry Prevention Dental Check-Ups General Family Dentistry Dental Cleaning Fillings Crowns Root Canal Treatment Dentures Bridges Cosmetic Bonding Dietary Advice",
+    "url": "https://woodstowndental.ie/"
+   },
+   {
+    "text": "Cosmetic Dentistry Cosmetic Dentistry Smile Makeovers Cosmetic Straightening Teeth Whitening Veneers Fillings Cosmetic Bonding Inlays Porcelain Bridges Crowns",
+    "url": "https://woodstowndental.ie/"
+   },
+   {
+    "text": "Children’s Dentistry Children's Dental Care Sealants Childrens Oral Hygiene",
+    "url": "https://woodstowndental.ie/"
+   },
+   {
+    "text": "Facial Aesthetics Clinicians Heart Lips Technique Anti-Wrinkle Treatments Facial Aesthetics FAQ",
+    "url": "https://woodstowndental.ie/"
+   },
+   {
+    "text": "Confident smiling woman Routine, Cosmetic & Implant Dentistry Find out more",
+    "url": "https://woodstowndental.ie/"
+   },
+   {
+    "text": "Happy child on slide Healthy Teeth and Happy Smiles Read more about Children's Dental Care",
+    "url": "https://woodstowndental.ie/"
+   },
+   {
+    "text": "Smiling mouth with beautiful new teeth Smile Makeover View our before and after gallery",
+    "url": "https://woodstowndental.ie/"
+   },
+   {
+    "text": "Woodstown Dental Centre strives to make your visit to the dentist comfortable and enjoyable. Our aim is to provide you with stylish surroundings, efficient service and excellent treatment.",
+    "url": "https://woodstowndental.ie/"
+   },
+   {
+    "text": "Our team of experienced dental professionals welcome Private and PRSI patients and offer a comprehensive range of general and cosmetic treatments from one convenient location, beside the M50.",
+    "url": "https://woodstowndental.ie/"
+   },
+   {
+    "text": "We realise that some patients prefer to avoid attending the dentist, so we strive to make your visit to the dentist as comfortable and pain free as possible. We believe that a high standard of oral health can be achieved by all patients through regular dental appointments, and by establishing a good oral health routine at home. Why not make an appointment today and experience efficient service and excellent treatment in our stylish surroundings.",
+    "url": "https://woodstowndental.ie/"
+   },
+   {
+    "text": "Call 01 495 2523 to make an appointment today. Dr. Sarah Enright",
+    "url": "https://woodstowndental.ie/"
+   },
+   {
+    "text": "Leinster Regional Winner of the Sensodyne Sensitive Dentist Award 2009, this award recognises dentists who have gone the extra mile to treat their patients with compassion and professionalism. Dr. Enright engages in continuous professional development.",
+    "url": "https://woodstowndental.ie/"
+   },
+   {
+    "text": "Dr. Enright and the team have been nominated for numerous awards including, the Irish Dentistry awards and most recently nominated for Colgate Caring Dentist 2022 and Colgate Caring Dental Team 2022 for their outstanding work in the local community.",
+    "url": "https://woodstowndental.ie/"
+   },
+   {
+    "text": "There are ample free parking spaces to the front of the practice.",
+    "url": "https://woodstowndental.ie/"
+   },
+   {
+    "text": "For emergency and late evening appointments please contact us on 01 495 2523",
+    "url": "https://woodstowndental.ie/"
+   },
+   {
+    "text": "Saturday appointments available upon request.",
+    "url": "https://woodstowndental.ie/"
+   },
+   {
+    "text": "11 Woodstown Shopping Centre, Knocklyon, Dublin 16, D16 T2F9",
+    "url": "https://woodstowndental.ie/"
+   },
+   {
+    "text": "Tel: 01 495 2523 Email: info@woodstowndental.ie",
+    "url": "https://woodstowndental.ie/"
+   },
+   {
+    "text": "Early & Late Appointments Available by Request",
+    "url": "https://woodstowndental.ie/"
+   },
+   {
+    "text": "© Woodstown Dental Centre 2026. All rights reserved. | Website Designed by Clare Furler Design",
+    "url": "https://woodstowndental.ie/"
+   },
+   {
+    "text": "© Woodstown Dental Centre 2026. All rights reserved. Website Designed by Clare Furler Design",
+    "url": "https://woodstowndental.ie/"
+   },
+   {
+    "text": "Dr. Enright provides treatment for children in a very child-friendly manner. All procedures will be explained terms the child can understand. If parents have any questions regarding their childrens oral health, they are more than welcome to ask Dr. Enright. Take a look at our kiddies waiting section!",
+    "url": "https://woodstowndental.ie/treatments/childrens-dental-care/"
+   },
+   {
+    "text": "Woodstown Dental Centre offers child-friendly dentistry.",
+    "url": "https://woodstowndental.ie/treatments/childrens-dental-care/"
+   },
+   {
+    "text": "Sealants are plastic white/clear coatings which are placed over the pits and fissures of certain teeth.",
+    "url": "https://woodstowndental.ie/treatments/childrens-dental-care/"
+   },
+   {
+    "text": "These are recommended after six years of age on the first permenant molar teeth. These protect the teeth from decay.",
+    "url": "https://woodstowndental.ie/treatments/childrens-dental-care/"
+   },
+   {
+    "text": "We recommend that you bring your child along to the dentist as early as possible.",
+    "url": "https://woodstowndental.ie/treatments/childrens-dental-care/"
+   },
+   {
+    "text": "Generally dental care is required from the age of 4 onwards. This will allow the dentist to assess your childs teeth and ensure that oral hygiene is adequate, by bringing your child along at such an early age it gives them a chance to become familiar with the dentist. Dr. Enright operates in a child friendly manner, explanations of treatments will be carried out in easily understood terms. Dr. Enright will tailor the advice required to your childs needs.",
+    "url": "https://woodstowndental.ie/treatments/childrens-dental-care/"
+   },
+   {
+    "text": "We recommend that babies teeth and gums are cleaned after feeds using water only with a soft brush or washcloth.",
+    "url": "https://woodstowndental.ie/treatments/childrens-dental-care/"
+   },
+   {
+    "text": "Children between one and two years of age use a soft toothbrush or clean washcloth only with water twice a day.",
+    "url": "https://woodstowndental.ie/treatments/childrens-dental-care/"
+   },
+   {
+    "text": "After the age of two, a fluoride toothpaste is recommended, but limiting the amount to a small pea sized amount on a soft brush.",
+    "url": "https://woodstowndental.ie/treatments/childrens-dental-care/"
+   },
+   {
+    "text": "Children must brush twice a daily (morning and just prior to bed time)and adults should ensure that the paste is spat out after each brushing session so that none is swallowed.",
+    "url": "https://woodstowndental.ie/treatments/childrens-dental-care/"
+   },
+   {
+    "text": "Chidren should not eat sugary snacks and limit eating sugary food to meal times.",
+    "url": "https://woodstowndental.ie/treatments/childrens-dental-care/"
+   },
+   {
+    "text": "Certainly, children should not eat sugary food before bed time.",
+    "url": "https://woodstowndental.ie/treatments/childrens-dental-care/"
+   },
+   {
+    "text": "Children must also be careful on their intake of acidic drinks as these are a major source of erosion to teeth.",
+    "url": "https://woodstowndental.ie/treatments/childrens-dental-care/"
+   },
+   {
+    "text": "By visiting the dentist, any problems with tooth decay or tooth erosion can be spotted early and therefore treated early.",
+    "url": "https://woodstowndental.ie/treatments/childrens-dental-care/"
+   },
+   {
+    "text": "We provide friendly dental care for you and your family",
+    "url": "https://woodstowndental.ie/treatments/general-dental-care/"
+   },
+   {
+    "text": "“The key to a beautiful smile is prevention and the emphasis of good oral hygiene and oral health. This should begin at an early age.” – Dr. Sarah Enright",
+    "url": "https://woodstowndental.ie/treatments/general-dental-care/"
+   },
+   {
+    "text": "At Woodstown Dental we provide state of the art diagnostic tools. Dr. Enright routinely uses an intra-oral camera to record disease.",
+    "url": "https://woodstowndental.ie/treatments/general-dental-care/"
+   },
+   {
+    "text": "The recommendations that Dr. Enright makes at this stage can help you to retain your teeth for longer, resulting in fewer return visits and less expense!",
+    "url": "https://woodstowndental.ie/treatments/general-dental-care/"
+   },
+   {
+    "text": "We recommend that patients attend for an annual examination.",
+    "url": "https://woodstowndental.ie/treatments/general-dental-care/"
+   },
+   {
+    "text": "Every new patient will have Xrays taken (like a picture of the mouth) Every two years small Xrays are taken which will allow the dentist to ascertain the health of the bone and teeth. These Xrays will detect decay underneath fillings and teeth. These can be taken very quickly and comfortably. Dr. Enright will also examine the teeth and associated structures.",
+    "url": "https://woodstowndental.ie/treatments/general-dental-care/"
+   },
+   {
+    "text": "A detailed treatment plan will be provided with costings. All treatments will be explained to you, if for any reason you do not understand/query treatment please contact us. We are only a phone call away!",
+    "url": "https://woodstowndental.ie/treatments/general-dental-care/"
+   },
+   {
+    "text": "Sometimes Dr. Enright may provide a dietary analysis, this is carried out if there are a lot of teeth that need fillings.",
+    "url": "https://woodstowndental.ie/treatments/general-dental-care/"
+   },
+   {
+    "text": "Dr. Enright will also carry out a screening assessment for periodontal disease. She will measure the gums and record the results. Xrays taken will reveal the bone level around the teeth. A tailored treatment plan will be made for you which is indivualised to your needs.",
+    "url": "https://woodstowndental.ie/treatments/general-dental-care/"
+   },
+   {
+    "text": "It is important to detect disease early as research has revealed that periodontal disease has been linked to heart disease, uncontrolled diabetes and pre-term babies.",
+    "url": "https://woodstowndental.ie/treatments/general-dental-care/"
+   },
+   {
+    "text": "After your course of periodontal treatment/deep cleaning, Dr. Enright will recommend follow up visits to ensure the maintenance of your gum health.",
+    "url": "https://woodstowndental.ie/treatments/general-dental-care/"
+   },
+   {
+    "text": "At this appointment Dr. Enright will take Xrays of your teeth and jaws and measure your gums and examine your teeth. A detailed treatment plan with all costings will be provided at the end of the appointment. Dr. Enright will discuss your treatment with you, should you have any queries.",
+    "url": "https://woodstowndental.ie/treatments/general-dental-care/"
+   },
+   {
+    "text": "Cleaning: A scale and polish (generally not requiring anaesthetic) is routinely carried out every six months to clean away any build-up of tartar. At the end of the session, you will be provided with a personalised plaque control regime, i.e. toothpaste, brush recommendation and demonstration",
+    "url": "https://woodstowndental.ie/treatments/general-dental-care/"
+   },
+   {
+    "text": "Periodontal treatment (LA may be required) A deep cleaning may be required for patients who suffer with gum disease (gingivitis) or periodontitis (which affects the gums, bone)",
+    "url": "https://woodstowndental.ie/treatments/general-dental-care/"
+   },
+   {
+    "text": "We recommend a scale and polish (cleaning) is carried out every six months.",
+    "url": "https://woodstowndental.ie/treatments/general-dental-care/"
+   },
+   {
+    "text": "This is due to the fact that tartar/calculus builds up on the back teeth during this period (even if brushing is adequate) An ultrasonic/powered scaler will be used to remove stains and tartar comfortably. Dr. Enright believes in prevention (and you getting the most out of your cleaning) she will go through how to brush and floss your teeth. A personalised oral hygiene plan will be given to you at the end of the appointment (detailing which brush, floss, paste and mouthrinse should be used).",
+    "url": "https://woodstowndental.ie/treatments/general-dental-care/"
+   },
+   {
+    "text": "For patients who have a history of periodontal disease (disease of the gums and supporting bone) cleanings may be recommended more frequently. Sometimes if the disease is active, 1 or more sessions of deep cleanings are required. The gums are numbed and a deep clean is carried out. You may be asked to re-attend for a reassessment to make sure the gums and supporting tissue has healed.",
+    "url": "https://woodstowndental.ie/treatments/general-dental-care/"
+   },
+   {
+    "text": "Both silver and white fillings are carried out in Woodstown Dental Centre. However white fillings are routinely used.",
+    "url": "https://woodstowndental.ie/treatments/general-dental-care/"
+   },
+   {
+    "text": "A white filling is also known as composite resin. Please see our before after gallery.",
+    "url": "https://woodstowndental.ie/treatments/general-dental-care/"
+   },
+   {
+    "text": "There is no need to be apprehensive before getting your fillings carried out. Dr. Enright understands that patients can be nervous, that is why treatments are carried out in a non fuss manner. The tooth will be numbed, generally this should only feel like a small pinch if anything! A sheet if plastic is placed over your teeth (to ensure you are comfortable and no water or debris is in your mouth during treatment). Generally fillings can take 20 minutes depending on size and number.",
+    "url": "https://woodstowndental.ie/treatments/general-dental-care/"
+   },
+   {
+    "text": "A crown is a shell of porcelain/ceramic which is placed over your tooth.",
+    "url": "https://woodstowndental.ie/treatments/general-dental-care/"
+   },
+   {
+    "text": "Crowns need to placed over teeth which may need to be reduced in size. This is a procedure which is carried out if fillings are broken, fractured or over root treated teeth. Please see our before and after gallery.",
+    "url": "https://woodstowndental.ie/treatments/general-dental-care/"
+   },
+   {
+    "text": "Root canal treats a dead, or dying nerve in the tooth.",
+    "url": "https://woodstowndental.ie/treatments/general-dental-care/"
+   },
+   {
+    "text": "Again, Dr. Enright understands if patients are nervous, this appointment is quite like a filling appointment. Generally, treatment takes one hour for two sessions. Times may vary, according to the size of the tooth.",
+    "url": "https://woodstowndental.ie/treatments/general-dental-care/"
+   },
+   {
+    "text": "The tooth is numbed and a sheet of rubber is placed over the area, the infected nerve is removed and the tooth is rinsed with bleach. A temporary antibiotic dressing is placed into the tooth. Antibiotics may be prescribed if necessary.",
+    "url": "https://woodstowndental.ie/treatments/general-dental-care/"
+   },
+   {
+    "text": "The second appointment involves the entire cleaning of the tooth and filling. Generally six months later a crown will be advised.",
+    "url": "https://woodstowndental.ie/treatments/general-dental-care/"
+   },
+   {
+    "text": "A denture is a removable replacement for a natural tooth or teeth.",
+    "url": "https://woodstowndental.ie/treatments/general-dental-care/"
+   },
+   {
+    "text": "These are provided to replace missing teeth in the mouth a traditional ‘plate’. They can be constructed of acrylic or metal. As they are not fixed to teeth they can move and must be removed to clean them and before going to bed.",
+    "url": "https://woodstowndental.ie/treatments/general-dental-care/"
+   },
+   {
+    "text": "A bridge is required when one or more teeth are missing.",
+    "url": "https://woodstowndental.ie/treatments/general-dental-care/"
+   },
+   {
+    "text": "Unlike a denture, a bridge is fixed in place and cannot be removed from the mouth. They span the space where the teeth are missing. Bridges are cemented to the natural teeth or implants surrounding the empty space. These teeth, called abutments, serve as anchors for the bridge. A replacement tooth, called a pontic, is attached to the crowns that cover the abutments.",
+    "url": "https://woodstowndental.ie/treatments/general-dental-care/"
+   },
+   {
+    "text": "‘Composite’ material (white filling material) is bonded to the tooth to reshape it or change its size. Sometimes it is useful to close a gap between teeth also.",
+    "url": "https://woodstowndental.ie/treatments/general-dental-care/"
+   },
+   {
+    "text": "Common dietary sugars can cause the teeth to soften and decay.",
+    "url": "https://woodstowndental.ie/treatments/general-dental-care/"
+   },
+   {
+    "text": "Many foods contain ‘hidden’ sugars. Dr. Enright may, in certain instances provide dietary analysis, which will identify the sugars which are hidden in your diet. With good oral hygiene and regular visits to the dentist, this should help to reduce the number of fillings required! Our aim is that prevention is better than cure!",
+    "url": "https://woodstowndental.ie/treatments/general-dental-care/"
+   },
+   {
+    "text": "We believe in conservative aesthetic dental treatments; the teeth remain healthy and functional whilst being beautifully transformed. Our aim is for you to smile with confidence.",
+    "url": "https://woodstowndental.ie/treatments/cosmetic-dentistry/"
+   },
+   {
+    "text": "Dr. Enright prides herself in using the state of the art materials, she also routinely takes before-and-after photos of her work. All the work presented on this website has been carried out by Dr. Enright.",
+    "url": "https://woodstowndental.ie/treatments/cosmetic-dentistry/"
+   },
+   {
+    "text": "You can improve your life by improving your smile…",
+    "url": "https://woodstowndental.ie/treatments/cosmetic-dentistry/"
+   },
+   {
+    "text": "We are highly skilled in providing smile makeovers. A smile makeover involves the transformation of the teeth by the utilisation of crowns and veneers.",
+    "url": "https://woodstowndental.ie/treatments/cosmetic-dentistry/"
+   },
+   {
+    "text": "A comprehensive examination and xrays are required prior to this treatment. Dr. Enright will make a mock-up of your new teeth so you can see the results before the treatment is started. A smile makeover will take two appointments from the preparation to the fitting of your new smile.",
+    "url": "https://woodstowndental.ie/treatments/cosmetic-dentistry/"
+   },
+   {
+    "text": "Please see our before and after gallery .",
+    "url": "https://woodstowndental.ie/treatments/cosmetic-dentistry/"
+   },
+   {
+    "text": "For adults who have minor misalignments who do not wish to wear train tracks for an extended period of time. A series of clear plastic aligners can treat minor crowding / malalignments.",
+    "url": "https://woodstowndental.ie/treatments/cosmetic-dentistry/"
+   },
+   {
+    "text": "For examples of clear aligner treatments, see our before and after gallery .",
+    "url": "https://woodstowndental.ie/treatments/cosmetic-dentistry/"
+   },
+   {
+    "text": "For more information on this product please contact us .",
+    "url": "https://woodstowndental.ie/treatments/cosmetic-dentistry/"
+   },
+   {
+    "text": "Badly broken down teeth can be built up with the latest aesthetic composite materials.",
+    "url": "https://woodstowndental.ie/treatments/cosmetic-dentistry/"
+   },
+   {
+    "text": "Patients who wish to replace unsightly old silver (amalgam) fillings may avail of this service. These fillings can give a truly aesthetic result with an artistic flair. Different colours of composite can be used to match your teeth. Both front and back teeth may be restored this way.",
+    "url": "https://woodstowndental.ie/treatments/cosmetic-dentistry/"
+   },
+   {
+    "text": "The aesthetic composite used actually has particles of porcelain in it which gives a truly aesthetic and long-lasting restoration.",
+    "url": "https://woodstowndental.ie/treatments/cosmetic-dentistry/"
+   },
+   {
+    "text": "After After a course of home bleaching. The teeth are brighter now.",
+    "url": "https://woodstowndental.ie/treatments/cosmetic-dentistry/"
+   },
+   {
+    "text": "Bleaching is used to improve the appearance of discoloured teeth.",
+    "url": "https://woodstowndental.ie/treatments/cosmetic-dentistry/"
+   },
+   {
+    "text": "Special trays are made to fit over the teeth. Into these trays a bleach material is placed and then the trays are worn over the teeth for two weeks. The teeth usually dramatically lighten in colour by several shades. There are also several techniques to lighten teeth that have become dark due to root fillings.",
+    "url": "https://woodstowndental.ie/treatments/cosmetic-dentistry/"
+   },
+   {
+    "text": "Dr. Enright carries out conservative preparations of your teeth, the veneer is generally the thickness of a finger-nail/contact lens. Veneers are extremely strong and durable and can give a highly aesthetic result! Generally they are recommended for stained, discoloured teeth, overcrowding and misshapen teeth. Please see our before and after gallery to see the results which can be achieved with veneers.",
+    "url": "https://woodstowndental.ie/treatments/cosmetic-dentistry/"
+   },
+   {
+    "text": "Please browse our before-and-after gallery for a true depiction of Dr. Enrights work. Dr. Enright routinely photographs her work, this can also help in educating the patient.",
+    "url": "https://woodstowndental.ie/treatments/cosmetic-dentistry/"
+   },
+   {
+    "text": "During the filling procedures, Dr. Enright routinely uses a Rubber Dam, this is a sheet of latex which stretches over the teeth. Many patients prefer this, as it keeps water and the suction out of the patients mouth. Fillings carried out this way are more predictable.",
+    "url": "https://woodstowndental.ie/treatments/cosmetic-dentistry/"
+   },
+   {
+    "text": "If you are nervous, you are more than welcome to bring your iPod along to your appointment, to listen to your favourite music.",
+    "url": "https://woodstowndental.ie/treatments/cosmetic-dentistry/"
+   },
+   {
+    "text": "This simple procedure generally does not involve Local Anaesthetic. It can be carried out in 1 appointment to change the shape, alignment and colour of teeth using an aesthetic tooth coloured material.",
+    "url": "https://woodstowndental.ie/treatments/cosmetic-dentistry/"
+   },
+   {
+    "text": "An inlay is an alternative to a conventional white filling.",
+    "url": "https://woodstowndental.ie/treatments/cosmetic-dentistry/"
+   },
+   {
+    "text": "Inlays can be made of porcelain/composite which results in a strong, beautifully functional restoration. Research has shown that inlays can restore the tooth back to its natural strength.",
+    "url": "https://woodstowndental.ie/treatments/cosmetic-dentistry/"
+   },
+   {
+    "text": "Unlike fillings, inlays are chemically bonded in place which gives a truly long lasting, durable restoration.",
+    "url": "https://woodstowndental.ie/treatments/cosmetic-dentistry/"
+   },
+   {
+    "text": "Teeth adjacent to a space/gap can be replaced by the crowning of the adjacent teeth to which an artificial tooth is bonded. These are long lasting, durable restorations. Minimal preparation of the teeth may be carried out (Adhesive bridge.) Please enquire.",
+    "url": "https://woodstowndental.ie/treatments/cosmetic-dentistry/"
+   },
+   {
+    "text": "Crowns need to placed over teeth which may need to be reduced in size. This is a procedure which is carried out if fillings are broken, fractured, or over root treated teeth. Please see our before and after gallery.",
+    "url": "https://woodstowndental.ie/treatments/cosmetic-dentistry/"
+   },
+   {
+    "text": "For decades Straumann® has innovated in design, technology, materials, software, processes and treatment procedures in dental implant solutions. We have set high global standards for implants.",
+    "url": "https://woodstowndental.ie/treatments/dental-implants/"
+   },
+   {
+    "text": "We strive to make the best, most reliable implant solutions and you can count on our efforts to increase your chances for a healthy recovery and comfort.",
+    "url": "https://woodstowndental.ie/treatments/dental-implants/"
+   },
+   {
+    "text": "A natural tooth consists of a tooth root, which firmly sits in the jawbone, and a tooth crown, which is the visible upper part of the tooth.",
+    "url": "https://woodstowndental.ie/treatments/dental-implants/"
+   },
+   {
+    "text": "A dental implant replaces a natural tooth root. It is a small, but strong post made of biocompatible metals or ceramics that is inserted into the jawbone in place of a tooth root. The implant acts as a base for fixing single crowns, multiple tooth bridges, or can be used as an anchor for entire dental prostheses.",
+    "url": "https://woodstowndental.ie/treatments/dental-implants/"
+   },
+   {
+    "text": "Our natural teeth help bone to remain strong and healthy. The forces we generate as we chew transmit through the tooth roots to the bone, which stimulates the maintenance of bone density. If a tooth is missing, the bone around it doesn’t receive this stimulation and may begin to slowly recede over time. With shrinking bone, the shape of your face may also change over time.",
+    "url": "https://woodstowndental.ie/treatments/dental-implants/"
+   },
+   {
+    "text": "Dental implants transmit chewing forces to the jawbone which helps to maintain a healthy jaw and therefore preserve your facial structure.",
+    "url": "https://woodstowndental.ie/treatments/dental-implants/"
+   },
+   {
+    "text": "A dental implant solution looks and feels like your natural teeth – there is simply no visible difference. You can feel more comfortable talking, smiling, eating and kissing too.",
+    "url": "https://woodstowndental.ie/treatments/dental-implants/"
+   },
+   {
+    "text": "Dental implants are anchored as secure as a natural tooth in the bone. Together with the prosthetic part you can bite and chew naturally again and eat the food you like.",
+    "url": "https://woodstowndental.ie/treatments/dental-implants/"
+   },
+   {
+    "text": "The cost of dental implant treatment varies depending on the complexity of the case. Implants are a cost-effective alternative to conventional restorations and improve the quality of life. 1-3",
+    "url": "https://woodstowndental.ie/treatments/dental-implants/"
+   },
+   {
+    "text": "Straumann® implants are made to be durable and long-lasting, so a Straumann® implant treatment solution is a long-term investment in your health and future comfort.",
+    "url": "https://woodstowndental.ie/treatments/dental-implants/"
+   },
+   {
+    "text": "Before treatment, an initial diagnosis and cost plan is determined by your dentist. Costs depend on how many implants are needed and whether sufficient bone is available. Other factors may include special surgical needs, unique lab work, prosthesis and the dentist’s and dental technician’s fees.",
+    "url": "https://woodstowndental.ie/treatments/dental-implants/"
+   },
+   {
+    "text": "It is best to contact your dentist directly and ask about suitable options that fit your needs.",
+    "url": "https://woodstowndental.ie/treatments/dental-implants/"
+   },
+   {
+    "text": "Vogel R, Smith-Palmer J, Valentine W. Evaluating the Health Economic Implications and Cost-Effectiveness of Dental Implants: A Literature Review. Int J Oral Maxillofac Implants 2013;28:343–356. doi: 10.11607/ jomi.2921.",
+    "url": "https://woodstowndental.ie/treatments/dental-implants/"
+   },
+   {
+    "text": "Priest, GF, Priest JE. The Economics Of Implants For Single Missing Teeth. Dental Economics 2004;94(5):130-138.",
+    "url": "https://woodstowndental.ie/treatments/dental-implants/"
+   },
+   {
+    "text": "Blackwell, R, Lowe, R, Morris, G, Priest, G, Implant Economics, A Supplement To Dental Practice Report, September 2004.",
+    "url": "https://woodstowndental.ie/treatments/dental-implants/"
+   },
+   {
+    "text": "Dental implants transmit chewing forces to the jawbone, which helps to maintain a healthy jaw and therefore preserve your facial structure.",
+    "url": "https://woodstowndental.ie/treatments/dental-implants/"
+   },
+   {
+    "text": "For decades Straumann ® has innovated in design, technology, materials, software, processes and treatment procedures in dental implant solutions. We have set high global standards for implants.",
+    "url": "https://woodstowndental.ie/treatments/dental-implants/"
+   },
+   {
+    "text": "Today, implant therapy is an established standard for tooth replacement. It is well documented that implants are a safe and successful method of treatment.",
+    "url": "https://woodstowndental.ie/treatments/dental-implants/"
+   },
+   {
+    "text": "Even though implants are very common, potential risks can vary depending on your health. Bad oral hygiene or limited healing due to pre-existing medical conditions may affect your recovery and the durability of an implant.",
+    "url": "https://woodstowndental.ie/treatments/dental-implants/"
+   },
+   {
+    "text": "Your dentist will do a thorough assessment if implant treatment is the right choice for you.",
+    "url": "https://woodstowndental.ie/treatments/dental-implants/"
+   },
+   {
+    "text": "Today’s techniques are being continually improved to reduce discomfort and enhance recovery. Experts are trained to provide the best care and the most innovative techniques to insert implants.",
+    "url": "https://woodstowndental.ie/treatments/dental-implants/"
+   },
+   {
+    "text": "Implants are usually inserted under local anesthesia to avoid discomfort during treatment. In order to provide the fastest and best recovery, it is important to follow the recommendations of your dentist. No matter your fears, there is an array of successful techniques to prevent or alleviate pain. Do not hesitate to talk to your dentist.",
+    "url": "https://woodstowndental.ie/treatments/dental-implants/"
+   },
+   {
+    "text": "For young patients it is possible to insert implants as soon as your jaw has stopped growing. At the other end of the spectrum, there is no age limit, given of course that you don’t display any significant medical risk factors and are a suitable candidate for implant treatment.",
+    "url": "https://woodstowndental.ie/treatments/dental-implants/"
+   },
+   {
+    "text": "There are different options and procedures to cover a gap after tooth extraction or implant surgery. In an immediate treatment procedure for example you will receive a provisional prosthetic restoration on the same day as the implant placement.",
+    "url": "https://woodstowndental.ie/treatments/dental-implants/"
+   },
+   {
+    "text": "It may turn out that you don’t have enough bone available to ensure the secure placement of dental implants. With the help of bone augmentation – an established treatment used to build up bone – implants can still be placed. We offer a wide range of synthetic and natural biomaterials designed to build up bone.",
+    "url": "https://woodstowndental.ie/treatments/dental-implants/"
+   },
+   {
+    "text": "As always, oral hygiene is very important to the health of your teeth. This is even more true after you have an implant. Diligent oral hygiene helps to ensure the healthiest and fastest recovery. You should care for your teeth on a daily basis and follow the recommendations of your dentist. And you will have to regularly visit your dentist for checkups on your implants.",
+    "url": "https://woodstowndental.ie/treatments/dental-implants/"
+   }
+  ]
+ },
+ "generated_at": "2026-11-14 18:07"
+}

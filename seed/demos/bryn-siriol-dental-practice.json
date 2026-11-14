@@ -1,0 +1,409 @@
+{
+ "slug": "bryn-siriol-dental-practice",
+ "website": "https://www.brynsiriol.co.uk/",
+ "quality": "good",
+ "notes": "found: phone, email, address, hours, services, FAQ, prices",
+ "data": {
+  "name": "Bryn Siriol Dental Practice",
+  "website": "https://www.brynsiriol.co.uk/",
+  "description": "Welcome to Bryn Siriol Dental Practice, a dental surgery for you and your family and based in Mold, North Wales.",
+  "phones": [
+   "01352 758707"
+  ],
+  "emails": [
+   "info@brynsiriol.co.uk"
+  ],
+  "address": "Flintshire, CH7 1RA",
+  "hours": [
+   "Monday to Thursday - 8:00am - 5:15pm",
+   "Friday - 8:00am - 2:00pm"
+  ],
+  "services": [
+   "Routine examination",
+   "X-rays",
+   "White composite fillings",
+   "Silver amalgam fillings",
+   "Crowns/Veneers",
+   "Dental extraction",
+   "Tooth whitening",
+   "Root canal treatment",
+   "Sports mouth guards",
+   "Invisalign"
+  ],
+  "prices": [
+   "Routine examination : £38",
+   "X-ray : from £15",
+   "White composite filling : from £110",
+   "Silver amalgam filling : from £90",
+   "Crowns/Veneers : from £500",
+   "(30 minutes) £69.50 - Payable on booking",
+   "Dental Extraction: from £125",
+   "(Home) from £350",
+   "Root canal treatment: from £450",
+   "from £550 – dependant on materials and number of teeth",
+   "Sports mouth guards: from £110",
+   "Invisalign: from £1995"
+  ],
+  "faqs": [
+   {
+    "q": "Need emergency treatment?",
+    "a": "If you have a dental emergency out of normal surgery hours please ring the practice and follow the advice on our answer phone. Call 01352 758707 now!"
+   },
+   {
+    "q": "Do you accommodate people with a fear of dentists?",
+    "a": "Yes our dentists are all experienced in dealing with patients that have a fear of dentists, putting patients at ease and listening to the patients concerns."
+   },
+   {
+    "q": "Can I book my children an appointment?",
+    "a": "Yes we are happy to see children and we encourage regular visits to help maintain good oral health."
+   },
+   {
+    "q": "Do you have wheelchair access?",
+    "a": "Yes we have a ramp at the front of the practice for wheelchair access. Downstairs surgeries are available there is also a stair lift for use on the stairs inside if required."
+   },
+   {
+    "q": "What are your opening hours?",
+    "a": "You can make an appointment by telephone or you can call in to make arrangements. Our normal opening hours are: Monday to Thursday - 8:00am - 5:15pm Friday - 8:00am - 2:00pm"
+   },
+   {
+    "q": "What if I need an emergency appointment?",
+    "a": "During the week call the Practice at 8am you will be triaged then given an emergency appointment dependant on your emergency needs."
+   },
+   {
+    "q": "How can I pay for my treatment/Do you offer finance?",
+    "a": "We accept all major cards (except for American express), Apple Pay and cheques. We are also able to offer 0% finance for treatments over £500 through Tabeo finance up to 12 months."
+   }
+  ],
+  "chunks": [
+   {
+    "text": "Welcome to our practice. We are a dental team who take great pride in the quality of our dentistry and strive to make every visit to the dentist a pleasant experience. For new patient enquiries please visit our dedicated page.",
+    "url": "https://www.brynsiriol.co.uk/"
+   },
+   {
+    "text": "We strongly believe in a team approach to caring for our dental patients and are sure you will find our highly trained, motivated staff to be helpful and courteous.",
+    "url": "https://www.brynsiriol.co.uk/"
+   },
+   {
+    "text": "Our aim is good dental health for you and your family. We place great emphasis on preventative dentistry to try to ensure your gums and teeth remain healthy for life. We offer a wide range of treatments including tooth coloured fillings, and tooth whitening. We have a dedicated team of hygienists who working with the dentists can try to prevent gum problems occuring, and treat any existing gum conditions you may have.",
+    "url": "https://www.brynsiriol.co.uk/"
+   },
+   {
+    "text": "Very welcoming and friendly practice. Have visited Dr Rice on multiple occasions now and he is always very thorough and takes the time to clearly explain everything which puts me at ease.",
+    "url": "https://www.brynsiriol.co.uk/"
+   },
+   {
+    "text": "Hannah & team were fantastic from start to finish, I had my front 4 teeth veneered to improve their look & am now happily smiling at everyone again!",
+    "url": "https://www.brynsiriol.co.uk/"
+   },
+   {
+    "text": "Well what can I say I had a broken tooth was filled but still suffering with the pain... the receptionists were so helpful and so kind and understanding of the pain.I phoned today and was seen again by Mr Bennett what a fabulous dentist...",
+    "url": "https://www.brynsiriol.co.uk/"
+   },
+   {
+    "text": "Bryn Siriol Dental practice offers a wide range of preventative and cosmetic dental services, supported by six oral hygienists.",
+    "url": "https://www.brynsiriol.co.uk/"
+   },
+   {
+    "text": "A guide to the current cost of dental treatment is displayed in the patient information board available in the waiting areas of the Practice. Your dentist will discuss the likely treatment cost. This estimate can vary if your treatment plan needs to be changed at that point in time.",
+    "url": "https://www.brynsiriol.co.uk/fees.php"
+   },
+   {
+    "text": "We accept cash, all debit/credit cards (except for American express), Apple Pay and cheques.",
+    "url": "https://www.brynsiriol.co.uk/fees.php"
+   },
+   {
+    "text": "You are required to pay dental fees as you go along with appointments with the exception of a Dental Hygienist appointment where payment will need to be taken at time of booking the appointment this is to reduce the number of missed appointments. (This is non refundable in the event of a late cancellation or a missed appointment)",
+    "url": "https://www.brynsiriol.co.uk/fees.php"
+   },
+   {
+    "text": "Patients who are in arrears with payments and who do not offer to pay within two weeks of receiving treatment, may not be seen again at the Practice.",
+    "url": "https://www.brynsiriol.co.uk/fees.php"
+   },
+   {
+    "text": "If you have overpaid for your course of treatment, we will make every effort to settle the overpayment as soon as is possible. Refunds will be issued by cheques or credit /debit card refunds following internal authorisation. You may be entitled to a refund if you initially decided to proceed with a course of treatment, but then changed your mind not to proceed. In such cases, as each course of treatment is different, we check your details and will refund any overpayments.",
+    "url": "https://www.brynsiriol.co.uk/fees.php"
+   },
+   {
+    "text": "Routine examination : £38 X-ray : from £15 White composite filling : from £110 Silver amalgam filling : from £90 Crowns/Veneers : from £500 Hygienist: (30 minutes) £69.50 - Payable on booking Dental Extraction: from £125 Tooth whitening: (Home) from £350 Root canal treatment: from £450 Dentures: from £550 – dependant on materials and number of teeth Sports mouth guards: from £110 Invisalign: from £1995",
+    "url": "https://www.brynsiriol.co.uk/fees.php"
+   },
+   {
+    "text": "Hygienist: (30 minutes) £69.50 - Payable on booking",
+    "url": "https://www.brynsiriol.co.uk/fees.php"
+   },
+   {
+    "text": "Dentures: from £550 – dependant on materials and number of teeth",
+    "url": "https://www.brynsiriol.co.uk/fees.php"
+   },
+   {
+    "text": "Full estimate will be provided with your tailored treatment plan. Pay as you go or 0% finance is available over £500 (please speak to your dentist at the start of treatment about the finance so this can be approved before treatment commences)",
+    "url": "https://www.brynsiriol.co.uk/fees.php"
+   },
+   {
+    "text": "We offer 0% finance for treatments over £500 allowing you to spread the cost into manageable monthly payments. Application is very easily completed, entirely online and will require you to answer a few questions, such as details about yourself, including age, home address, income and anything that might affect your monthly expenditure.",
+    "url": "https://www.brynsiriol.co.uk/fees.php"
+   },
+   {
+    "text": "We do not review or make decisions on your finance loan application - this is done by Tabeo.",
+    "url": "https://www.brynsiriol.co.uk/fees.php"
+   },
+   {
+    "text": "Step 1 - Receive your quotation following on from consultation - discuss payment options.",
+    "url": "https://www.brynsiriol.co.uk/fees.php"
+   },
+   {
+    "text": "Step 2 - Receive link to Tabeo finance - apply for finance loan via link.",
+    "url": "https://www.brynsiriol.co.uk/fees.php"
+   },
+   {
+    "text": "Step 4 - 2 weeks after approval of the finance you are able to commence your treatment.",
+    "url": "https://www.brynsiriol.co.uk/fees.php"
+   },
+   {
+    "text": "Interested in finance? Contact one of the friendly team at Bryn Siriol Dental Practice on 01352 758707 or email info@brynsiriol.co.uk",
+    "url": "https://www.brynsiriol.co.uk/fees.php"
+   },
+   {
+    "text": "Our team of experienced dentists and hygienists at Bryn Siriol Dental Practice are here to look after you and your teeth. Come and meet them, and read a little about our Partners and Associate members at the Practice.",
+    "url": "https://www.brynsiriol.co.uk/fees.php"
+   },
+   {
+    "text": "If you have a dental emergency out of normal surgery hours please ring the practice and follow the advice on our answer phone.",
+    "url": "https://www.brynsiriol.co.uk/fees.php"
+   },
+   {
+    "text": "Bryn Siriol Dental practice offers a wide range of preventative and cosmetic dental services, supported by our highly trained and dedicated professional team. Some of these are listed below.",
+    "url": "https://www.brynsiriol.co.uk/treatments.php"
+   },
+   {
+    "text": "At Bryn Siriol high quality dental care is the foundation of everything we do. We offer a thorough and comprehensive examination of your mouth, teeth and surrounding structures. Periodically we may take radiographs (x-rays) to check for signs of decay not readily visible to the eye. These will be carried out in line with guidelines and clinical needs.",
+    "url": "https://www.brynsiriol.co.uk/treatments.php"
+   },
+   {
+    "text": "Your dentist will provide detailed explanations regarding any recommended restorative care during your examination appointment. Our aim is to keep you well-informed and engaged in your oral health journey.",
+    "url": "https://www.brynsiriol.co.uk/treatments.php"
+   },
+   {
+    "text": "Through consistent examinations, proactive interventions, and personalised preventative advice, we strive to uphold the optimal condition of your oral health year after year.",
+    "url": "https://www.brynsiriol.co.uk/treatments.php"
+   },
+   {
+    "text": "Our dedicated team of hygienists collaborate seamlessly with our dentists to deliver comprehensive oral health care and guidance. Professionally trained in treating and preventing gum disease, they play a vital role in maintaining your oral well-being.",
+    "url": "https://www.brynsiriol.co.uk/treatments.php"
+   },
+   {
+    "text": "Our hygienists remove plaque and tartar from your teeth and offer valuable insights into effective brushing, flossing, and home care. For more advanced gum disease, they may perform periodontal therapy — a specialised procedure targeting the tooth’s root surface. Once gum disease is managed, regular visits for cleaning and monitoring become imperative to sustaining optimal oral health.",
+    "url": "https://www.brynsiriol.co.uk/treatments.php"
+   },
+   {
+    "text": "Root canal therapy is carried out by all dentists within the Practice but if your tooth structure is more complex, we are able to refer you in-house to one of our Msc qualified colleagues for the treatment.",
+    "url": "https://www.brynsiriol.co.uk/treatments.php"
+   },
+   {
+    "text": "Experience the transformative effects of Invisalign treatment at Bryn Siriol. Utilising a series of discreet, removable clear aligners personalised for your teeth, this method gradually shifts your teeth towards their desired position. Enjoy a life-friendly approach to achieving your perfect smile.",
+    "url": "https://www.brynsiriol.co.uk/treatments.php"
+   },
+   {
+    "text": "Dr Aston is a gold level Invisalign provider at Bryn Siriol with many years of experience.",
+    "url": "https://www.brynsiriol.co.uk/treatments.php"
+   },
+   {
+    "text": "Dr Chris Rice is an Invisalign provider at comprehensive level and fixed braces to diploma level.",
+    "url": "https://www.brynsiriol.co.uk/treatments.php"
+   },
+   {
+    "text": "Dr Hannah Rice is Invisalign provider at comprehensive level.",
+    "url": "https://www.brynsiriol.co.uk/treatments.php"
+   },
+   {
+    "text": "Discover a range of transformative cosmetic dental treatments at Bryn Siriol Dental Practice, tailored to elevate your smile’s aesthetic appeal, including professional teeth Whitening, Composite Bonding, Ceramic Smile makeovers and facial aesthetics treatments. Schedule a consultation to explore which options align with your aesthetic goals.",
+    "url": "https://www.brynsiriol.co.uk/treatments.php"
+   },
+   {
+    "text": "Discover a range of transformative cosmetic dental treatments at Bryn Siriol, tailored to elevate your smile’s aesthetic appeal. Including whitening, composite bonding, ceramic smile makeovers and facial aesthetics treatments.",
+    "url": "https://www.brynsiriol.co.uk/treatments.php"
+   },
+   {
+    "text": "We take great pride in the quality of our dentistry and want to make your visits a pleasant experience. You'll find your comments and questions on any aspect of our practice are always welcomed, and we will be pleased to discuss your individual needs at any time.",
+    "url": "https://www.brynsiriol.co.uk/faqs.php"
+   },
+   {
+    "text": "This website will answer some basic questions, but if you require and additional information, please don't hesitate to contact us .",
+    "url": "https://www.brynsiriol.co.uk/faqs.php"
+   },
+   {
+    "text": "Yes our dentists are all experienced in dealing with patients that have a fear of dentists, putting patients at ease and listening to the patients concerns.",
+    "url": "https://www.brynsiriol.co.uk/faqs.php"
+   },
+   {
+    "text": "Yes we are happy to see children and we encourage regular visits to help maintain good oral health.",
+    "url": "https://www.brynsiriol.co.uk/faqs.php"
+   },
+   {
+    "text": "Yes we have a ramp at the front of the practice for wheelchair access. Downstairs surgeries are available there is also a stair lift for use on the stairs inside if required.",
+    "url": "https://www.brynsiriol.co.uk/faqs.php"
+   },
+   {
+    "text": "You can make an appointment by telephone or you can call in to make arrangements. Our normal opening hours are:",
+    "url": "https://www.brynsiriol.co.uk/faqs.php"
+   },
+   {
+    "text": "During the week call the Practice at 8am you will be triaged then given an emergency appointment dependant on your emergency needs.",
+    "url": "https://www.brynsiriol.co.uk/faqs.php"
+   },
+   {
+    "text": "We accept all major cards (except for American express), Apple Pay and cheques. We are also able to offer 0% finance for treatments over £500 through Tabeo finance up to 12 months.",
+    "url": "https://www.brynsiriol.co.uk/faqs.php"
+   },
+   {
+    "text": "Bryn Siriol Dental Practice Gwernaffield Road, Mold, Flintshire, CH7 1RA",
+    "url": "https://www.brynsiriol.co.uk/contact.php"
+   },
+   {
+    "text": "We want to make your visits a pleasant experience and are happy to answer your questions on any aspect of our practice. Some of those questions may be answered here.",
+    "url": "https://www.brynsiriol.co.uk/contact.php"
+   },
+   {
+    "text": "Patients that fail to attend more than one appointment may not be offered further appointments at the Practice.",
+    "url": "https://www.brynsiriol.co.uk/fta-policy.php"
+   },
+   {
+    "text": "Please be aware if you fail to attend your Dental appointment with the Dentist or Hygienist you will be subject to a charge.",
+    "url": "https://www.brynsiriol.co.uk/fta-policy.php"
+   },
+   {
+    "text": "If you are unable to attend your appointment please give the Practice as much notice as possible. You will be subject to a charge if the cancellation is short notice.",
+    "url": "https://www.brynsiriol.co.uk/fta-policy.php"
+   },
+   {
+    "text": "We also expect our patients to attend for Dental examinations at regular intervals as advised by their Dentist.",
+    "url": "https://www.brynsiriol.co.uk/fta-policy.php"
+   },
+   {
+    "text": "If you would like to book in as a new private patient of the practice please complete the form below. One of the team will be in touch to arrange a consultation appointment at which time they will take payment to secure the booking.",
+    "url": "https://www.brynsiriol.co.uk/newpatients.php"
+   },
+   {
+    "text": "Fields marked with an asterisk are mandatory:",
+    "url": "https://www.brynsiriol.co.uk/newpatients.php"
+   },
+   {
+    "text": "John Jones grew up in Llandudno, North Wales. He qualified from Newcastle upon Tyne Dental school in 2003, after which he worked as an associate in Chester for 3 years, before joining the Bryn Siriol partnership in 2006.",
+    "url": "https://www.brynsiriol.co.uk/team.php"
+   },
+   {
+    "text": "John obtained his MJDF (Royal college of surgeons, London) in 2011. He has a special interest in endodontics and completed his Msc in endodontics in 2015. When not at work or University, John loves spending time with his family, and enjoys mountain biking whilst traveling around in his campervan.",
+    "url": "https://www.brynsiriol.co.uk/team.php"
+   },
+   {
+    "text": "Russell Bennett spent his childhood living in North Wales. He qualified from Liverpool Dental School in 1991, after which he gained experience working in the hospital orthodontic department and providing services for anxious adults and children. For over 18 years he worked in a Dental Practice in Denbigh, from where he travelled to Manchester to undertake a Masters Degree in Advanced Restorative Dentistry (cosmetic dentistry) and also attained the Diploma in General Dental Practice from the Royal College of Surgeons.",
+    "url": "https://www.brynsiriol.co.uk/team.php"
+   },
+   {
+    "text": "Russell joined the practice as a partner in 2011 and worked exclusively at the Practice since then. Always willing to take on any challenge and try his best to help his patients.",
+    "url": "https://www.brynsiriol.co.uk/team.php"
+   },
+   {
+    "text": "Dr Aston graduated with honours and distinctions from The University of Liverpool in 2006.",
+    "url": "https://www.brynsiriol.co.uk/team.php"
+   },
+   {
+    "text": "Following dental school he held posts at a number of high profile cosmetic dental practices across the North West before joining Bryn Siriol as a partner in 2015.",
+    "url": "https://www.brynsiriol.co.uk/team.php"
+   },
+   {
+    "text": "His areas of special interest include Cosmetic smile design and orthodontics. He has been certified as an Invisalign provider since 2007, completing hundreds of cases and achieving Gold provider status in 2023.",
+    "url": "https://www.brynsiriol.co.uk/team.php"
+   },
+   {
+    "text": "Clint holds a black belt in Brazilian Jiu jitsu, is a keen musician and has an Honours degree in Biochemistry from the University of Liverpool.",
+    "url": "https://www.brynsiriol.co.uk/team.php"
+   },
+   {
+    "text": "BDS (Hons), BSc (Hons), PG Dip Orth, PGCE Clin Ed.",
+    "url": "https://www.brynsiriol.co.uk/team.php"
+   },
+   {
+    "text": "Chris graduated from Liverpool University Dental School in 2009 with honours and distinctions in restorative dentistry and oral diseases.",
+    "url": "https://www.brynsiriol.co.uk/team.php"
+   },
+   {
+    "text": "Prior to dental school Chris studied biology at The University of Manchester.",
+    "url": "https://www.brynsiriol.co.uk/team.php"
+   },
+   {
+    "text": "Since qualification Chris has worked in general dental practice and has helped in the teaching and training of junior dentists. More recently, Chris has completed a diploma in Orthodontics and provides Invisalign treatments.",
+    "url": "https://www.brynsiriol.co.uk/team.php"
+   },
+   {
+    "text": "Chris met his wife Hannah at dental school and together they become the third dentist couple to work at Bryn Siriol Dental Practice.",
+    "url": "https://www.brynsiriol.co.uk/team.php"
+   },
+   {
+    "text": "Hannah studied dentistry at Liverpool University and graduated in 2010 with honours.",
+    "url": "https://www.brynsiriol.co.uk/team.php"
+   },
+   {
+    "text": "Since graduation Hannah has worked in both general and cosmetic dental practices. She has completed further training in advanced restorative and aesthetic dentistry to diploma level.",
+    "url": "https://www.brynsiriol.co.uk/team.php"
+   },
+   {
+    "text": "Hannah has a keen interest in minimally invasive dentistry in addition to the all-round care of her patients. Hannah can provide additional treatments in Invisalign braces, composite bonding, smile make overs and facial aesthetics, including anti-wrinkle and fillers treatments.",
+    "url": "https://www.brynsiriol.co.uk/team.php"
+   },
+   {
+    "text": "Hannah has a professional Instagram account @dr.hannahrice which she invites you to follow. Here you can view examples of her cosmetic cases.",
+    "url": "https://www.brynsiriol.co.uk/team.php"
+   },
+   {
+    "text": "Outside of dentistry, Hannah enjoys personal fitness and spending time with her young family.",
+    "url": "https://www.brynsiriol.co.uk/team.php"
+   },
+   {
+    "text": "Anthony studied dentistry at the University of Manchester and graduated in 1986.",
+    "url": "https://www.brynsiriol.co.uk/team.php"
+   },
+   {
+    "text": "Since graduating Anthony worked in Chester for three years and has worked at Bryn Siriol since 1991 providing a full range of dental treatments.",
+    "url": "https://www.brynsiriol.co.uk/team.php"
+   },
+   {
+    "text": "Outside work Anthony enjoys skiing and fishing.",
+    "url": "https://www.brynsiriol.co.uk/team.php"
+   },
+   {
+    "text": "Since graduating with Honours from the University of Liverpool in 2015, Grace has worked in general practice. Her kind, calm and passionate nature all help her patients feel at ease. Outside of work she loves spending time with her family, cooking and doing yoga.",
+    "url": "https://www.brynsiriol.co.uk/team.php"
+   },
+   {
+    "text": "Claire completed her undergraduate degree in human anatomy and cell.",
+    "url": "https://www.brynsiriol.co.uk/team.php"
+   },
+   {
+    "text": "Biology at the university of Liverpool in 2011. After this she obtained her dental degree in 2015 also from the University of Liverpool. In 2018/19 Claire moved to Dundee to complete her master's in forensic Dentistry.",
+    "url": "https://www.brynsiriol.co.uk/team.php"
+   },
+   {
+    "text": "She works in general practice but is a fully qualified sedationist and has an interest in oral surgery receiving referrals from other GDPs. Outside of this her additional role is supporting the police force and coroners within the northwest area of the UK as a forensic odontologist. Furthermore she provides training to newly qualified dentists in this specialist area.",
+    "url": "https://www.brynsiriol.co.uk/team.php"
+   },
+   {
+    "text": "Outside of work Claire enjoys exploring new places with her family and two dogs.",
+    "url": "https://www.brynsiriol.co.uk/team.php"
+   },
+   {
+    "text": "Laura qualified as a dentist in Liverpool in 2015 and has worked in general practice ever since. Laura feels very lucky to be in the job that she gets immense satisfaction from knowing she has enabled her patients to become pain free and improve their dental health, well-being and confidence.",
+    "url": "https://www.brynsiriol.co.uk/team.php"
+   },
+   {
+    "text": "Since completing dental school, Laura has undertaken further training in facial aesthetics which includes anti wrinkle treatments, dermal filler and skin rejuvenation therapies.",
+    "url": "https://www.brynsiriol.co.uk/team.php"
+   },
+   {
+    "text": "Laura is married with two young children who keep her very busy outside of work! They enjoy spending time together and with their extended family and friends and, love to travel too.",
+    "url": "https://www.brynsiriol.co.uk/team.php"
+   }
+  ]
+ },
+ "generated_at": "2026-11-14 18:07"
+}

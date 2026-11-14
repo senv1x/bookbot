@@ -1,0 +1,89 @@
+{
+ "slug": "janimals-dog-grooming",
+ "website": "https://www.janimalsdoggrooming.com/",
+ "quality": "good",
+ "notes": "found: phone, email, address, services, prices; missing: hours, FAQ",
+ "data": {
+  "name": "Janimals Dog Grooming",
+  "website": "https://www.janimalsdoggrooming.com/",
+  "description": "For Dog Grooming in West Yorkshire look no further, we can cater for all your needs with a range of top class services.",
+  "phones": [
+   "07551 242242"
+  ],
+  "emails": [
+   "puppielove1001@live.co.uk"
+  ],
+  "address": "Wyke, BD12 8AX",
+  "hours": [],
+  "services": [
+   "Dog grooming",
+   "Massage"
+  ],
+  "prices": [],
+  "faqs": [],
+  "chunks": [
+   {
+    "text": "Janimals Dog Grooming centre was started in 1981 and is one of the leading Dog Grooming businesses in West Yorkshire. 2005 Marked their Silver jubilee year, and they continue to provide a service dedicated to high quality dog grooming in Bradford.",
+    "url": "https://www.janimalsdoggrooming.com/"
+   },
+   {
+    "text": "The Salon is open to clients inspection at all times.",
+    "url": "https://www.janimalsdoggrooming.com/"
+   },
+   {
+    "text": "Authority registered and fully insured. They do not administer sedatives, tape noses or use painful or harmful methods of restraint.",
+    "url": "https://www.janimalsdoggrooming.com/"
+   },
+   {
+    "text": "Open for appointments TUESDAY TO SATURDAY",
+    "url": "https://www.janimalsdoggrooming.com/"
+   },
+   {
+    "text": "Specialists In Lhasa Apsos, Shih Tzu And Border Terriers",
+    "url": "https://www.janimalsdoggrooming.com/"
+   },
+   {
+    "text": "Special Shampoos for Specific Skin Problems",
+    "url": "https://www.janimalsdoggrooming.com/"
+   },
+   {
+    "text": "Janimals Dog Grooming centre has over 40 years experience and is one of the leading Dog Grooming businesses in West Yorkshire. 2005 Marked their Silver jubilee year, and they continue to provide a service dedicated to high quality dog grooming in Bradford.",
+    "url": "https://www.janimalsdoggrooming.com/"
+   },
+   {
+    "text": "Heritage House Mary Street Wyke BD12 8AX",
+    "url": "https://www.janimalsdoggrooming.com/"
+   },
+   {
+    "text": "Janimals Dog Grooming © 2026 | All Rights Reserved | Privacy Policy | Built by",
+    "url": "https://www.janimalsdoggrooming.com/"
+   },
+   {
+    "text": "This is our prices page displaying our Price guide. For more information please do not hesitate to contact us and we will be more than happy to help.",
+    "url": "https://www.janimalsdoggrooming.com/page/prices"
+   },
+   {
+    "text": "Please use the map below to find our location. For further help please do not hesitate to contact us and we will be more than happy to help.",
+    "url": "https://www.janimalsdoggrooming.com/page/location-map"
+   },
+   {
+    "text": "Thermostatic power shower for extra cleansing",
+    "url": "https://www.janimalsdoggrooming.com/page/facilities"
+   },
+   {
+    "text": "Warm-air skin massage to loosen dead hair and stimulate the coat",
+    "url": "https://www.janimalsdoggrooming.com/page/facilities"
+   },
+   {
+    "text": "Drying cabinet provides temperature controlled all-round warm airflow, allows for free movement and comfortable drying of medium to large breeds",
+    "url": "https://www.janimalsdoggrooming.com/page/facilities"
+   },
+   {
+    "text": "This is our notice board page and will be updated on a regular basis with our latest news.",
+    "url": "https://www.janimalsdoggrooming.com/page/notice-board"
+   }
+  ],
+  "hours_note": "Our opening hours aren't listed on our website, so please call us on 07551 242242."
+ },
+ "generated_at": "2026-11-14 18:08"
+}

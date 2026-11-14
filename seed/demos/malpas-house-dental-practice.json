@@ -1,0 +1,244 @@
+{
+ "slug": "malpas-house-dental-practice",
+ "website": "https://www.dentistnorthallerton.co.uk/",
+ "quality": "good",
+ "notes": "found: phone, email, address, hours, services, prices; missing: FAQ; skipped /new-patients/: HTTPSConnectionPool(host='www.dentistnorthallerton.co.uk', port=443): Max retrie; skipped /new-patients: HTTPSConnectionPool(host='www.dentistnorthallerton.co.uk', port=443): Max retrie; skipped /treatments/general-dentistry/: HTTPSConnectionPool(host='www.dentistnorthallerton.co.uk', port=443): Read timed",
+ "data": {
+  "name": "Malpas House Dental Practice",
+  "website": "https://www.dentistnorthallerton.co.uk/",
+  "description": "Dentist Northallerton",
+  "phones": [
+   "01609 772549"
+  ],
+  "emails": [
+   "reception@dentistnorthallerton.co.uk"
+  ],
+  "address": "North Yorkshire, DL7 8SE",
+  "hours": [
+   "Monday 8:45am - 5:45pm",
+   "Tuesday 8:45am - 5:15pm",
+   "Wednesday 8:45am - 5:15pm",
+   "Thursday 8:45am - 5:45pm",
+   "Friday 8:45am - 5:15pm",
+   "Saturday By Appointment Only"
+  ],
+  "services": [
+   "Consultation",
+   "Dental Implants",
+   "Dental Plans",
+   "Hygiene / scale & polish",
+   "Teeth whitening",
+   "Orthodontics",
+   "Crowns",
+   "Veneers",
+   "Dentures",
+   "Emergency appointments",
+   "Consultations"
+  ],
+  "prices": [
+   "New patient consultation including two radiographs: £80",
+   "Non-registered emergency appointment: £80",
+   "Malpas House Plan 1 (one exam/scale and polish a year): £10.90/month",
+   "Malpas House Plan 2 (two exams/scale and polish a year): £16.90/month",
+   "Examination: £70 (included in plan)",
+   "Emergency: £55 (plan: from £40)",
+   "Scale and Polish: £70 (included in plan)",
+   "Scale (extra to plan): from £70 (plan: from £60)",
+   "Small radiograph: £10 (included in plan)",
+   "Fillings: from £140 (plan: from £110)",
+   "Extraction: from £170 (plan: from £140)",
+   "Root canal: from £480 (plan: from £400)",
+   "Crowns: from £720 (plan: from £600)",
+   "Bridges: from £1000 (plan: from £800)",
+   "Teeth whitening: from £450 (plan: from £450)",
+   "Partial plastic denture: from £600 (plan: from £500)",
+   "Partial metal frame denture: from £1500 (plan: from £1300)",
+   "Clear braces: from £3600 (plan: from £3600)",
+   "Dental Implants: from £3400 (plan: from £3400)"
+  ],
+  "faqs": [],
+  "chunks": [
+   {
+    "text": "We welcome new patients at Malpas House Dental Practice and we aim to make every aspect of your dental journey as pleasant and comfortable as possible. For many years, we have had the privilege of serving multiple generations of the same families. This is testament to our commitment to long-term preventative dental care.",
+    "url": "https://www.dentistnorthallerton.co.uk/"
+   },
+   {
+    "text": "We are proud to look after many patients from the Northallerton area, throughout Yorkshire and all over the UK and are dedicated to providing exemplary general, cosmetic and restorative dentistry for all of your family members. Our family owned and run dental practice is built on a foundation of ongoing dental care, tailored to your needs, ensuring that each patient receives the highest standard of treatment.",
+    "url": "https://www.dentistnorthallerton.co.uk/"
+   },
+   {
+    "text": "If you have any questions then please contact our Reception Team via telephone, email or the form:",
+    "url": "https://www.dentistnorthallerton.co.uk/"
+   },
+   {
+    "text": "Our team of dentists at Malpas House Dental Practice in Northallerton are here to carry out a full general clinical assessment. We’ll also provide you with advice on maintaining your dental health.",
+    "url": "https://www.dentistnorthallerton.co.uk/"
+   },
+   {
+    "text": "We’re here to provide a full cosmetic clinical assessment and discuss how treatments such as whitening, veneers, and composite bonding can help you achieve the smile you desire.",
+    "url": "https://www.dentistnorthallerton.co.uk/"
+   },
+   {
+    "text": "At the Malpas House Dental Practice in Northallerton, we can replace missing teeth with single or multiple dental implants. Our highly skilled team ensures that each implant is fitted comfortably with precision and care.",
+    "url": "https://www.dentistnorthallerton.co.uk/"
+   },
+   {
+    "text": "Clear removable aligners straighten teeth without the use of traditional metal braces. The aligners are custom-made, removable and nearly invisible, making them a discreet and comfortable option for achieving a confident smile.",
+    "url": "https://www.dentistnorthallerton.co.uk/"
+   },
+   {
+    "text": "We are a modern 5 surgery dental practice with a dedicated, knowledgeable, experienced and talented team. We use the latest technology, offering a wide range of treatments in a professional and relaxed environment.",
+    "url": "https://www.dentistnorthallerton.co.uk/"
+   },
+   {
+    "text": "All of our team members endeavour to help nervous patients feel at ease. Don’t let dental fear get in the way of your oral health. We can provide you with a comfortable and personalised dental experience.",
+    "url": "https://www.dentistnorthallerton.co.uk/"
+   },
+   {
+    "text": "Enhance your smile and your smile confidence",
+    "url": "https://www.dentistnorthallerton.co.uk/"
+   },
+   {
+    "text": "Talented and knowledgeable team with years of experience",
+    "url": "https://www.dentistnorthallerton.co.uk/"
+   },
+   {
+    "text": "Dedicated to meeting the needs of each of our patients",
+    "url": "https://www.dentistnorthallerton.co.uk/"
+   },
+   {
+    "text": "Warm and welcoming modern facilities in an accessible location",
+    "url": "https://www.dentistnorthallerton.co.uk/"
+   },
+   {
+    "text": "When it comes to caring for your teeth and gums, we believe value for money is crucial. Our patients trust us to provide high-quality, affordable treatments and patient-focused care with long-lasting results.",
+    "url": "https://www.dentistnorthallerton.co.uk/"
+   },
+   {
+    "text": "Malpas House Dental Practice, 11 South Parade, Northallerton, North Yorkshire DL7 8SE",
+    "url": "https://www.dentistnorthallerton.co.uk/"
+   },
+   {
+    "text": "When it comes to caring for your teeth and gums, we believe value for money is crucial. Our patients trust us to provide high-quality, affordable treatments and patient-focused care with long-lasting results. Have a look at our fees below which reflect our dental skills, experience and knowledge to see how we combine quality with affordability. You will receive an estimate before any treatment begins. The amount you pay is based on the complexity of any treatment, together with the materials you choose.",
+    "url": "https://www.dentistnorthallerton.co.uk/prices/fees/"
+   },
+   {
+    "text": "Malpas House Plan 1 – one exam/scale and polish/year = £10.90/month includes 20% treatment discount and emergency cover",
+    "url": "https://www.dentistnorthallerton.co.uk/prices/fees/"
+   },
+   {
+    "text": "Malpas House Plan 2 – two exams/scale and polish/year = £16.90/month includes 20% treatment discount and emergency cover",
+    "url": "https://www.dentistnorthallerton.co.uk/prices/fees/"
+   },
+   {
+    "text": "Children are seen free of charge until 18 years old if parents are a member of our dental plan.",
+    "url": "https://www.dentistnorthallerton.co.uk/prices/fees/"
+   },
+   {
+    "text": "We can only quote for specific treatments when you have been seen by one of our dentists, as all treatments are tailored to your individual needs. We reserve the right to charge for non-attendance or cancellations within 24 hours of your appointment.",
+    "url": "https://www.dentistnorthallerton.co.uk/prices/fees/"
+   },
+   {
+    "text": "Call us on 01609 772549 or fill out the form below.",
+    "url": "https://www.dentistnorthallerton.co.uk/contact/"
+   },
+   {
+    "text": "Wide range of general and cosmetic dental treatments",
+    "url": "https://www.dentistnorthallerton.co.uk/contact/"
+   },
+   {
+    "text": "Dental plans to spread the cost of your dental care",
+    "url": "https://www.dentistnorthallerton.co.uk/contact/"
+   },
+   {
+    "text": "Family appointments and support for nervous patients",
+    "url": "https://www.dentistnorthallerton.co.uk/contact/"
+   },
+   {
+    "text": "Our team is equipped to handle a wide range of dental emergencies, from severe toothaches to broken teeth so please give us a call to find out how we can look after you.",
+    "url": "https://www.dentistnorthallerton.co.uk/contact/"
+   },
+   {
+    "text": "At Malpas House Dental Practice in Northallerton, we can replace missing teeth with single or multiple dental implants. Our highly skilled team ensures that each implant is fitted comfortably with precision and care, restoring not just your smile, but your smile confidence too. We will make the process as smooth and comfortable as possible.",
+    "url": "https://www.dentistnorthallerton.co.uk/treatments/implants/"
+   },
+   {
+    "text": "There are many reasons adults lose teeth, including tooth decay, gum disease and trauma. However, in many cases, dental implants can be offered which helping to restore both the appearance and function of the tooth. Dental implants look remarkably similar to your natural teeth.",
+    "url": "https://www.dentistnorthallerton.co.uk/treatments/implants/"
+   },
+   {
+    "text": "Reasons why dental implants are the superior choice:",
+    "url": "https://www.dentistnorthallerton.co.uk/treatments/implants/"
+   },
+   {
+    "text": "Function and feel like natural teeth so you will be able to bite, chew, speak and smile with confidence.",
+    "url": "https://www.dentistnorthallerton.co.uk/treatments/implants/"
+   },
+   {
+    "text": "Increase your confidence by enhancing the appearance of your smile.",
+    "url": "https://www.dentistnorthallerton.co.uk/treatments/implants/"
+   },
+   {
+    "text": "Replace loose dentures and missing teeth with a stable and reliable alternative.",
+    "url": "https://www.dentistnorthallerton.co.uk/treatments/implants/"
+   },
+   {
+    "text": "Maintain your bone structure to limit the bone loss that often naturally accompanies missing teeth",
+    "url": "https://www.dentistnorthallerton.co.uk/treatments/implants/"
+   },
+   {
+    "text": "Improve chewing and speaking, making daily activities easier and more enjoyable.",
+    "url": "https://www.dentistnorthallerton.co.uk/treatments/implants/"
+   },
+   {
+    "text": "Preserve tooth tissue by eliminating the need for invasive procedures on surrounding teeth.",
+    "url": "https://www.dentistnorthallerton.co.uk/treatments/implants/"
+   },
+   {
+    "text": "Enjoy a long-term solution designed for durability and reliability.",
+    "url": "https://www.dentistnorthallerton.co.uk/treatments/implants/"
+   },
+   {
+    "text": "Our experienced team is known for their friendly approach and commitment to quality with a genuine passion for patient care. We understand that the decision to get dental implants can be daunting, but our compassionate team is here to guide you every step of the way.",
+    "url": "https://www.dentistnorthallerton.co.uk/treatments/implants/"
+   },
+   {
+    "text": "A small incision will be made in your gum to expose the bone where the implant will be placed. Using a specialised drill, our implant dentist Dr Parvinder Nijjar will carefully create a space in the jawbone for the implant. The titanium implant is then inserted into the bone. Finally, the gum is stitched up and a temporary crown may be placed over the implant to protect it during the healing process. Your finished crown will be attached at a later date, when the bone around the implant is fully healed.",
+    "url": "https://www.dentistnorthallerton.co.uk/treatments/implants/"
+   },
+   {
+    "text": "They are suitable for most people with teeth missing, provided they meet certain criteria. You will need to have healthy gums and sufficient bone density to support the implant. However, even if bone loss has occurred, procedures like bone grafting can make implants a possible option for you. Our implant dentist Dr Parvinder Nijjar will be able to tell you more after your consultation.",
+    "url": "https://www.dentistnorthallerton.co.uk/treatments/implants/"
+   },
+   {
+    "text": "Our implant dentist Dr Parvinder Nijjar will be able to advise you at your consultation, but a full set of natural-looking dentures can be anchored in place with as few as four dental implants. Implant retained dentures are ideal for anyone suffering from loose or ill-fitting dentures and can be life changing. They offer peace of mind so you can avoid embarrassing situations where your removable denture may let you down.",
+    "url": "https://www.dentistnorthallerton.co.uk/treatments/implants/"
+   },
+   {
+    "text": "Our team combines years of expertise with a genuine passion for patient care. We understand that the decision to get dental implants can be daunting, but our compassionate team is here to guide you every step of the way.",
+    "url": "https://www.dentistnorthallerton.co.uk/treatments/implants/"
+   },
+   {
+    "text": "Our implant dentist Dr Parvinder Nijjar will conduct a thorough examination of your mouth including X-rays and 3D imaging. This will help to assess your suitability and to create a personalised treatment plan tailored to your needs. We will discuss the procedure in detail and address any concerns or queries you may have.",
+    "url": "https://www.dentistnorthallerton.co.uk/treatments/implants/"
+   },
+   {
+    "text": "Space for the implant, a small titanium post, will be created in the jawbone. The implant will be placed into the bone and the gum then stitched. Depending on which teeth are being replaced you may receive a temporary replacement at this appointment.",
+    "url": "https://www.dentistnorthallerton.co.uk/treatments/implants/"
+   },
+   {
+    "text": "Our implant dentist Dr Parvinder Nijjar will advise you how to look after the implant site during the healing process and we will make arrangements to see you to complete the next steps of your implant journey.",
+    "url": "https://www.dentistnorthallerton.co.uk/treatments/implants/"
+   },
+   {
+    "text": "“I have been coming here every six months for 4 years now- everyone is very professional and friendly, appointments are on time and well organised, I wouldn’t go anywhere else!”",
+    "url": "https://www.dentistnorthallerton.co.uk/treatments/implants/"
+   },
+   {
+    "text": "To book an appointment or for enquiries please fill in the form, or call 01609 772549",
+    "url": "https://www.dentistnorthallerton.co.uk/treatments/implants/"
+   }
+  ]
+ },
+ "generated_at": "2026-11-14 18:07"
+}

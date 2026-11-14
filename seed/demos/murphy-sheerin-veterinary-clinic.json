@@ -1,0 +1,92 @@
+{
+ "slug": "murphy-sheerin-veterinary-clinic",
+ "website": "https://www.murphysheerinvets.ie/",
+ "quality": "good",
+ "notes": "found: phone, email, address, hours, services, FAQ; missing: prices; skipped /Meet-the-Team.php: HTTPSConnectionPool(host='www.murphysheerinvets.ie', port=443): Read timed out. ",
+ "data": {
+  "name": "Murphy Sheerin Veterinary Clinic",
+  "website": "https://www.murphysheerinvets.ie/",
+  "description": "",
+  "phones": [
+   "059 6481441"
+  ],
+  "emails": [
+   "info@murphysheerinvets.ie"
+  ],
+  "address": "Bawnogues, Baltinglass, Wicklow W91W2P7, Ireland | 0596481441",
+  "hours": [
+   "Monday to Friday: 9am - 5.30pm (closed for lunch 1-2pm)",
+   "Saturday: 9am - 4pm (closed for lunch 1-2pm)"
+  ],
+  "services": [
+   "Vaccination care",
+   "Wellness care",
+   "Surgeries & procedures",
+   "Nutritional Counselling",
+   "Pain management",
+   "Dental care"
+  ],
+  "prices": [],
+  "faqs": [
+   {
+    "q": "Why Murphy Sheerin Vets?",
+    "a": "We are a family practice established in 1947 with a lifetime of providing the best healthcare for your animals big and small. Our staff are dedicated and hardworking providing a 24/7 service for any pet or farm animal emergency you may have. Office Hours 9-5.30 Mon to Friday Closed for lunch 1-2pm Sat 9-4pm Closed lunch 1-2pm 24 hour emergency service available please phone 059 6481441 Learn More"
+   }
+  ],
+  "chunks": [
+   {
+    "text": "We are a six vet mixed practice covering Kildare and West Wicklow. We cater for all your pet and farm animal needs in a relaxed and friendly environment. We offer a wide range of services for pets including both routine and emergency care, surgery, digital radiography and in house haematology and biochemistry blood testing. We also supply a nutrition advice service and are Hills and Royal Canin stockists of both prescription and non prescription diets.",
+    "url": "https://www.murphysheerinvets.ie/"
+   },
+   {
+    "text": "Full general health check for your pet with of one of our experienced veterinary surgeons.",
+    "url": "https://www.murphysheerinvets.ie/"
+   },
+   {
+    "text": "Wide range of services including routine neutering, radiography, blood testing, soft tissue surgery and dentals.",
+    "url": "https://www.murphysheerinvets.ie/"
+   },
+   {
+    "text": "Free weight watchers clinic with our nurse Una. Also dietary advice for both healthy pets and pets with special dietary requirements eg diabetic or renal or liver disease.",
+    "url": "https://www.murphysheerinvets.ie/"
+   },
+   {
+    "text": "Pain management for pets with chronic pain due to age related arthritis or secondary to disease or surgery.",
+    "url": "https://www.murphysheerinvets.ie/"
+   },
+   {
+    "text": "We offer full vaccination programmes for dogs, cats and rabbits. We also have Rabies vaccinations as part of our Pet Passport Scheme.",
+    "url": "https://www.murphysheerinvets.ie/"
+   },
+   {
+    "text": "We offer a free dental check with our nurse Una. When required we can perform routine cleaning and extractions for your pet.",
+    "url": "https://www.murphysheerinvets.ie/"
+   },
+   {
+    "text": "Fantastic team of vets, very professional and caring. Wouldn't go anywhere else with my pets. Sarah B",
+    "url": "https://www.murphysheerinvets.ie/"
+   },
+   {
+    "text": "Excellent Vet practice. Lucky to have top Vets so close. Big & small animal. John W",
+    "url": "https://www.murphysheerinvets.ie/"
+   },
+   {
+    "text": "The best bunch of people ever at this practice. They actually have empathy for owners and genuinely care about all the animals. Ella",
+    "url": "https://www.murphysheerinvets.ie/"
+   },
+   {
+    "text": "We are a family practice established in 1947 with a lifetime of providing the best healthcare for your animals big and small. Our staff are dedicated and hardworking providing a 24/7 service for any pet or farm animal emergency you may have.",
+    "url": "https://www.murphysheerinvets.ie/"
+   },
+   {
+    "text": "9-5.30 Mon to Friday Closed for lunch 1-2pm",
+    "url": "https://www.murphysheerinvets.ie/"
+   },
+   {
+    "text": "24 hour emergency service available please phone 059 6481441",
+    "url": "https://www.murphysheerinvets.ie/"
+   }
+  ]
+ },
+ "generated_at": "2026-11-14 18:08"
+}

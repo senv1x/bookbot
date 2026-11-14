@@ -177,6 +177,13 @@ def _add(lst, item, limit):
 
 def _parse(url, html, acc, is_service_page):
     soup = BeautifulSoup(html, "html.parser")
+    # Cloudflare email obfuscation: the address is on the page, just XOR-encoded in data-cfemail
+    for el in soup.select("[data-cfemail]"):
+        try:
+            h = el["data-cfemail"]; k = int(h[:2], 16)
+            el.replace_with("".join(chr(int(h[i:i + 2], 16) ^ k) for i in range(2, len(h), 2)))
+        except Exception:
+            pass
     for x in _jsonld(soup):
         ts = [t.lower() for t in _types(x)]
         if any(t in ("faqpage",) for t in ts):

@@ -1,0 +1,110 @@
+{
+ "slug": "kennedys-garage",
+ "website": "https://kennedysgarage.ie/",
+ "quality": "good",
+ "notes": "found: phone, email, address, hours, services; missing: FAQ, prices",
+ "data": {
+  "name": "Kennedys Garage",
+  "website": "https://kennedysgarage.ie/",
+  "description": "",
+  "phones": [
+   "051-387122",
+   "087-8392337"
+  ],
+  "emails": [
+   "office@kennedysgarage.ie"
+  ],
+  "address": "Brown Street, Portlaw, Co. Waterford, X91 X430",
+  "hours": [
+   "Mon-Fri 9:00AM – 5:30PM"
+  ],
+  "services": [
+   "Diesel Particulate Filter - DPF",
+   "Service",
+   "DPF Doctor",
+   "Diagnostics",
+   "Exhausts"
+  ],
+  "prices": [],
+  "faqs": [],
+  "chunks": [
+   {
+    "text": "We ensure that your vehicle gets the service it deserves with fully trained technicians. Our team member will carry out a comprehensive visual inspection to enable you to know in advance what to expect from your next NCT.",
+    "url": "https://kennedysgarage.ie/"
+   },
+   {
+    "text": "Kennedys garage is the registered DPF Specialist for Waterford County. A DPF IS A Diesel Particulate Filter which is fitted in your exhaust system to filter any unwanted particles entering the environment.",
+    "url": "https://kennedysgarage.ie/"
+   },
+   {
+    "text": "We are an Independent garage specialising in diagnostics . Our highly trained and motivated team are driven by the desire to find affordable and timely vehicle solutions for our customers . The team at Kennedys garage have a wealth of hands on technical knowledge from general servicing of all makes and models to diagnostics and DPF repairs . Our success has been built on consistent service, competitive pricing and excellent communication between our customers and technicians.",
+    "url": "https://kennedysgarage.ie/"
+   },
+   {
+    "text": "Experience Reliable Car Repairs and Maintenance Services",
+    "url": "https://kennedysgarage.ie/"
+   },
+   {
+    "text": "Our team has received specialist training as part of the DPF Doctor Network . This has enabled them to find the route cause of your DPF issue . This includes fault finding and also DPF cleaning where necessary.",
+    "url": "https://kennedysgarage.ie/our-services/"
+   },
+   {
+    "text": "· Identify the root cause of your DPF problem through our assessment",
+    "url": "https://kennedysgarage.ie/our-services/"
+   },
+   {
+    "text": "· Inform you of exactly what work is required.",
+    "url": "https://kennedysgarage.ie/our-services/"
+   },
+   {
+    "text": "· If required, we will perform our 3 Stage in-situ DPF clean",
+    "url": "https://kennedysgarage.ie/our-services/"
+   },
+   {
+    "text": "· Confirm the repair by analysing engine data",
+    "url": "https://kennedysgarage.ie/our-services/"
+   },
+   {
+    "text": "· Offer helpful advice about looking after your DPF",
+    "url": "https://kennedysgarage.ie/our-services/"
+   },
+   {
+    "text": "· We aim to provide a first-time fix every time.",
+    "url": "https://kennedysgarage.ie/our-services/"
+   },
+   {
+    "text": "We ensure that your vehicle gets the service it deserves with fully trained technicians.",
+    "url": "https://kennedysgarage.ie/our-services/"
+   },
+   {
+    "text": "Our team member will carry out a comprehensive visual inspection to enable you to know in advance what to expect from your next NCT.",
+    "url": "https://kennedysgarage.ie/our-services/"
+   },
+   {
+    "text": "Please contact the office for competitive pricing .",
+    "url": "https://kennedysgarage.ie/our-services/"
+   },
+   {
+    "text": "We would love to hear from you. Feel free to reach out using the contact form.",
+    "url": "https://kennedysgarage.ie/contact-us/"
+   },
+   {
+    "text": "Address: Brown Street, Portlaw, Co. Waterford, X91 X430",
+    "url": "https://kennedysgarage.ie/contact-us/"
+   },
+   {
+    "text": "We are an Independent garage specialising in diagnostics . Our highly trained and motivated team are driven by the desire to find affordable and timely vehicle solutions for our customers .",
+    "url": "https://kennedysgarage.ie/about-us/"
+   },
+   {
+    "text": "The team at Kennedys garage have a wealth of hands on technical knowledge from general servicing of all makes and models to diagnostics and DPF repairs .",
+    "url": "https://kennedysgarage.ie/about-us/"
+   },
+   {
+    "text": "Our success has been built on consistent service, competitive pricing and excellent communication between our customers and technicians.",
+    "url": "https://kennedysgarage.ie/about-us/"
+   }
+  ]
+ },
+ "generated_at": "2026-11-14 18:08"
+}

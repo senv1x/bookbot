@@ -1,0 +1,75 @@
+{
+ "slug": "the-dog-house-gloucester",
+ "website": "https://www.thedoghouseglos.co.uk/",
+ "quality": "good",
+ "notes": "found: phone, email, address, services, prices; missing: hours, FAQ",
+ "data": {
+  "name": "The Dog House Gloucester",
+  "website": "https://www.thedoghouseglos.co.uk/",
+  "description": "The Dog House is a professional dog grooming service in Cam, Dursley. If your friend needs a groom, get in touch.",
+  "phones": [
+   "07917851907"
+  ],
+  "emails": [
+   "kristy@thedoghouseglos.co.uk",
+   "kristyloudoyle@hotmail.co.uk"
+  ],
+  "address": "15 Upthorpe, Cam, Dursley, GL11 5HR",
+  "hours": [],
+  "services": [
+   "Dog grooming"
+  ],
+  "prices": [
+   "Grooming prices start from £20 but vary depending on the size of dog, breed and coat condition."
+  ],
+  "faqs": [],
+  "chunks": [
+   {
+    "text": "Welcome to The Dog House Gloucester, we are a grooming parlour based in Cam, Dursley. This is a place where your dogs can come to get pampered and professionally groomed. We are in a purpose-built building, designed with your pets’ welfare and comfort in mind.",
+    "url": "https://www.thedoghouseglos.co.uk/"
+   },
+   {
+    "text": "My name is Kristy Martin, and I am the founder of The Dog House Gloucester. I have always had a passion for dogs, so in 2020, in the middle of a pandemic, I retrained to become a dog groomer! I successfully passed a CPD & IAP diploma in dog grooming and then studied my OCN Level 3 dog grooming diploma.",
+    "url": "https://www.thedoghouseglos.co.uk/"
+   },
+   {
+    "text": "Dog grooming services include bathing and drying, clipping/styling and nail clipping. We will give all dogs a health check prior to grooming.",
+    "url": "https://www.thedoghouseglos.co.uk/"
+   },
+   {
+    "text": "They recommend all dogs get groomed regularly, about every 8-10 weeks. For any information or help with any aspect of dog grooming or to book an appointment, please call or email.",
+    "url": "https://www.thedoghouseglos.co.uk/"
+   },
+   {
+    "text": "I welcome all breed types including but not limited to; Spaniels, Labradors, Dachshund, Bichon, Labradoodle, Bull breeds and Mixed Breeds.",
+    "url": "https://www.thedoghouseglos.co.uk/"
+   },
+   {
+    "text": "Grooming prices start from £20 but vary depending on the size of dog, breed and coat condition.",
+    "url": "https://www.thedoghouseglos.co.uk/"
+   },
+   {
+    "text": "All grooms are different and bespoke, what’s included, depends completely on the breed of your dog. Typically, they will have a bath using specialist shampoo according to their needs. I will then dry them either with a stand dryer or a blaster.",
+    "url": "https://www.thedoghouseglos.co.uk/"
+   },
+   {
+    "text": "I will complete a health check. This helps to assess things like matting, any lumps or bumps that we need to be mindful of, skin complaints, etc. If the dog’s fur needs a cut, I will either use clippers or scissors. Also, I will brush and de-shed the dog if it requires a brush out.",
+    "url": "https://www.thedoghouseglos.co.uk/"
+   },
+   {
+    "text": "To ask questions or arrange a session, please contact us via any of the following methods.",
+    "url": "https://www.thedoghouseglos.co.uk/"
+   },
+   {
+    "text": "Address: 15 Upthorpe, Cam, Dursley, GL11 5HR",
+    "url": "https://www.thedoghouseglos.co.uk/"
+   },
+   {
+    "text": "To contact us about or dog grooming service, please either email or call using the details below or use our contact form. All sessions are by appointment only.",
+    "url": "https://www.thedoghouseglos.co.uk/contact/"
+   }
+  ],
+  "hours_note": "Our opening hours aren't listed on our website, so please call us on 07917851907."
+ },
+ "generated_at": "2026-11-14 18:08"
+}

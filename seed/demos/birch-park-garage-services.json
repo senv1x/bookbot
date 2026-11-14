@@ -1,0 +1,81 @@
+{
+ "slug": "birch-park-garage-services",
+ "website": "https://www.birchparkgarageservices.co.uk/",
+ "quality": "good",
+ "notes": "found: phone, email, address, services; missing: hours, FAQ, prices; skipped /index.html: HTTPSConnectionPool(host='www.birchparkgarageservices.co.uk', port=443): Max ret",
+ "data": {
+  "name": "Birch Park Garage Services",
+  "website": "https://www.birchparkgarageservices.co.uk/",
+  "description": "Providing high quality garage services in and around York for over a decade. Repairs and servicing for cars and light commercials vehicles.",
+  "phones": [
+   "01904 629499"
+  ],
+  "emails": [
+   "info@birchparkgarageservices.co.uk"
+  ],
+  "address": "Unit 1D Birch Park, off Huntington Rd, York YO31 9BL",
+  "hours": [],
+  "services": [
+   "Cars & light commercial vehicles",
+   "MOT testing",
+   "Tyres",
+   "Diagnostics",
+   "Exhausts",
+   "Clutch repair"
+  ],
+  "prices": [],
+  "faqs": [],
+  "chunks": [
+   {
+    "text": "Tel: 01904 629499 Email: info@birchparkgarageservices.co.uk Unit 1D Birch Park, off Huntington Rd, York YO31 9BL",
+    "url": "https://www.birchparkgarageservices.co.uk/"
+   },
+   {
+    "text": "We have been providing high quality garage services in and around York for the last decade focusing on affordable fitting, repairs and servicing for cars and light commercial vehicles. Our fully trained team of mechanics ensure all our jobs are carried out to the highest possible standard with a full guarantee, giving our customers peace of mind.. Our services include: servicing, engine diagnostics, exhaust fitting and repairs, welding repairs, clutch fitting, MOTs and tyre supply and fitting for cars and light commercials. \" For a one off repair or continuous care \"",
+    "url": "https://www.birchparkgarageservices.co.uk/"
+   },
+   {
+    "text": "Design & Built by Pinnacle Web Design York",
+    "url": "https://www.birchparkgarageservices.co.uk/"
+   },
+   {
+    "text": "We recommend you to call or pop in, so we can discuss your exact requirements.",
+    "url": "https://www.birchparkgarageservices.co.uk/contact.html"
+   },
+   {
+    "text": "Starting out in 2010 we opened our doors for business to supply quality garage services in and around York. Initially starting out as a MOT testing station ( which we still are ) we then branched into garage services due to customer demand and now have a knowledgeable and helpful team. Although our team is small we like it that way to offer a personal service for all your automotive needs. We are happy to advise on any matters or concerns you may have with your vehicle.",
+    "url": "https://www.birchparkgarageservices.co.uk/about.html"
+   },
+   {
+    "text": "Our fully equipped workshop has a comprehensive range of specialist tools and automotive products to ensure that we only offer the very best in service.",
+    "url": "https://www.birchparkgarageservices.co.uk/services.html"
+   },
+   {
+    "text": "We offer MOTs for class IV and VII vehicles, cars, vans and motorhomes. Give us a call to book your vehicle in for its test.",
+    "url": "https://www.birchparkgarageservices.co.uk/services.html"
+   },
+   {
+    "text": "Using our in-house diagnostic IT software we can identify and rectify a whole range of ECU problems, from running incorrect mixtures to misfires, or you require a full or partial service we cover all bases.",
+    "url": "https://www.birchparkgarageservices.co.uk/services.html"
+   },
+   {
+    "text": "If you require a full top of the range stainless system or a simple exhaust repair we have the tools and suppliers for the job. We can supply and fit a wide range of OEM exhausts or pattern budget systems.",
+    "url": "https://www.birchparkgarageservices.co.uk/services.html"
+   },
+   {
+    "text": "If you are in need of a new clutch then we can supply and fit a wide range of clutches for cars and light commercial vehicles. No matter what your budget we will be able to fit a clutch to get you back on the road.",
+    "url": "https://www.birchparkgarageservices.co.uk/services.html"
+   },
+   {
+    "text": "In need of a advanced expert for a welding job? Then you are in the right place. From large structure welding to a small exhaust weld, our welding professionals can carry out a fix to get you back on the road.",
+    "url": "https://www.birchparkgarageservices.co.uk/services.html"
+   },
+   {
+    "text": "We can supply and fit a large range of makes and sizes of car and light commercial tyres. We will be able to cater for for budget, be that a top of the range top brand tyre to budget tyres.",
+    "url": "https://www.birchparkgarageservices.co.uk/services.html"
+   }
+  ],
+  "hours_note": "Our opening hours aren't listed on our website, so please call us on 01904 629499."
+ },
+ "generated_at": "2026-11-14 18:08"
+}

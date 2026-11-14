@@ -1,0 +1,125 @@
+{
+ "slug": "edmonstone-garage-ltd",
+ "website": "https://edmonstonegarage.co.uk/",
+ "quality": "good",
+ "notes": "found: phone, email, address, hours, services; missing: FAQ, prices",
+ "data": {
+  "name": "Edmonstone Garage Ltd",
+  "website": "https://edmonstonegarage.co.uk/",
+  "description": "Homepage for Edmonstone Garage Ltd with contact details and MOT checker.",
+  "phones": [
+   "0131 654 9722"
+  ],
+  "emails": [
+   "enquiries@edmonstonegarage.co.uk"
+  ],
+  "address": "Dalkeith, EH22 1QX",
+  "hours": [
+   "Monday - Friday: 08:30 - 17:30",
+   "Saturday - Sunday: Closed"
+  ],
+  "services": [
+   "MOT testing",
+   "Exhausts",
+   "Clutch repair",
+   "Wheel alignment"
+  ],
+  "prices": [],
+  "faqs": [],
+  "chunks": [
+   {
+    "text": "We are an independent, family run business with over 10 years experience and friendly customer service. Based in Danderhall, our mechanics are fully trained to repair and service all makes and models of vehicle, specialising in alignments.",
+    "url": "https://edmonstonegarage.co.uk/"
+   },
+   {
+    "text": "We pride ourselves on going above and beyond for our customers. No matter what you need - from answering basic maintenance and repair questions to carrying out inspections - our team is always here for you.",
+    "url": "https://edmonstonegarage.co.uk/"
+   },
+   {
+    "text": "The team at Edmonstone Garage are all highly trained and experienced technicians, dedicated to providing outstanding customer service.",
+    "url": "https://edmonstonegarage.co.uk/"
+   },
+   {
+    "text": "Our highly trained experts are known for delivering superior results that will get you back on the road as soon as possible.",
+    "url": "https://edmonstonegarage.co.uk/"
+   },
+   {
+    "text": "We are Edmonstone Garage Ltd, a family owned and run garage, MOT and Wheel Alignment Centre. We have been providing professional and honest services to our local community and surrounding areas since 2010, although our garage centre has been in the family since 1947.",
+    "url": "https://edmonstonegarage.co.uk/about-us"
+   },
+   {
+    "text": "Between our directors and staff, we have years of experience in the automotive industry and take great pride in supplying our customers with expert, honest and reliable service.",
+    "url": "https://edmonstonegarage.co.uk/about-us"
+   },
+   {
+    "text": "Throughout the years we have had a strong interest in cars, especially in drifting where our Mark competes in both the Scottish and British Drifting Championships.",
+    "url": "https://edmonstonegarage.co.uk/about-us"
+   },
+   {
+    "text": "We continue to invest in our premises and equipment to provide the best possible service and quality of work.",
+    "url": "https://edmonstonegarage.co.uk/about-us"
+   },
+   {
+    "text": "Short bio for each person, brief, informative and engaging.",
+    "url": "https://edmonstonegarage.co.uk/about-us"
+   },
+   {
+    "text": "”I have used Edmonstone Garage for the past 6 years and find it hard to look elsewhere due to outstanding service, honest information and just outright helpfulness. Highly recommended from myself anyway!”",
+    "url": "https://edmonstonegarage.co.uk/about-us"
+   },
+   {
+    "text": "”Took my bike in for an MOT and can't recommend this place enough. Great guys and quick service. Will definitely be back.”",
+    "url": "https://edmonstonegarage.co.uk/about-us"
+   },
+   {
+    "text": "”Brilliant and speedy service from the guys today when I took my car for its MOT. They couldn't have been more friendly and helpful. Can't recommend them highly enough!”",
+    "url": "https://edmonstonegarage.co.uk/about-us"
+   },
+   {
+    "text": "We provide MOT services for all makes and models of class 4 vehicles and class 1 and 2 motorcycles. Our Vehicle test centre is approved by the DVSA and our MOT testers are authorised examiners trained by the DVSA and adhere to their regulations and guidelines.",
+    "url": "https://edmonstonegarage.co.uk/mot-testing"
+   },
+   {
+    "text": "Class 4 MOT test is for cars up to 8 passenger seats and light goods vehicles up to 3000kg",
+    "url": "https://edmonstonegarage.co.uk/mot-testing"
+   },
+   {
+    "text": "MOT stands for Ministry of Transport. This is the government department responsible for checking vehicle roadworthiness. The test was introduced in 1960.The purpose of an MOT is to check the vehicles safety, roadworthiness and exhaust emissions.",
+    "url": "https://edmonstonegarage.co.uk/mot-testing"
+   },
+   {
+    "text": "The Vehicle MOT test includes checks on:",
+    "url": "https://edmonstonegarage.co.uk/mot-testing"
+   },
+   {
+    "text": "It does not look at the condition of the engine, gearbox or clutch. You can watch the MOT from our viewing area but you are not allowed to interrupt the tester.",
+    "url": "https://edmonstonegarage.co.uk/mot-testing"
+   },
+   {
+    "text": "If your vehicle passes its MOT you will get a certificate from the test centre and it will be recorded in the MOT database. You might also get a list of “minor” or “advisory” problems to fix in the future.",
+    "url": "https://edmonstonegarage.co.uk/mot-testing"
+   },
+   {
+    "text": "Your vehicle will fail if the test result lists “dangerous” or “major” problems with your vehicle. You might not be allowed to drive until you fix the problems. You might also get a list of “minor” or “advisory” problems to fix in the future.",
+    "url": "https://edmonstonegarage.co.uk/mot-testing"
+   },
+   {
+    "text": "If your vehicle fails the MOT You will get a “refusal of MOT certificate” from the test centre. It will be recorded in the MOT database. You can take your vehicle away if your current MOT certificate is still valid or no dangerous problems were listed in the MOT, otherwise you will need to get it repaired before you can drive it. You can be fined up to £2,500, be banned from driving and get 3 penalty points for driving a vehicle that has failed its MOT because of a dangerous problem.",
+    "url": "https://edmonstonegarage.co.uk/mot-testing"
+   },
+   {
+    "text": "We can price and carry out any repairs needed if your vehicle has failed, which includes a free re-test if the repairs are carried out within 10 working days from the fail date",
+    "url": "https://edmonstonegarage.co.uk/mot-testing"
+   },
+   {
+    "text": "Call us to discuss any repairs you would like carried out.",
+    "url": "https://edmonstonegarage.co.uk/repairs"
+   },
+   {
+    "text": "You can reach us on 0131 654 9722 or via email!",
+    "url": "https://edmonstonegarage.co.uk/repairs"
+   }
+  ]
+ },
+ "generated_at": "2026-11-14 18:07"
+}

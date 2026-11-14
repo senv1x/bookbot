@@ -1,0 +1,363 @@
+{
+ "slug": "ivybridge-dental-centre",
+ "website": "https://www.ivybridgedental.co.uk/",
+ "quality": "good",
+ "notes": "found: phone, email, address, hours, services, prices; missing: FAQ",
+ "data": {
+  "name": "Ivybridge Dental Centre",
+  "website": "https://www.ivybridgedental.co.uk/",
+  "description": "Trusted family dentist in Ivybridge. Providing NHS & private dental care including check-ups, hygiene, restorative treatments, and Invisalign. Call 01752 894 142.",
+  "phones": [
+   "01752 894 142"
+  ],
+  "emails": [
+   "hello@ivybridgedental.co.uk"
+  ],
+  "address": "Cedar Rise, Fore St, Ivybridge, Devon, PL21 9AE, United Kingdom",
+  "hours": [
+   "Monday - Thursday: 9.00am – 5.30pm",
+   "Friday: 9.00am – 5.00pm"
+  ],
+  "services": [
+   "Dental Implants",
+   "Invisalign®",
+   "Boutique Tooth Whitening",
+   "Check-ups",
+   "Hygiene & Prevention",
+   "Preventative",
+   "Restorative",
+   "Referrals",
+   "Practice Accreditations",
+   "Cosmetic Treatments"
+  ],
+  "prices": [
+   "Children’s Dental Health Check – New Patient – £20-£40",
+   "Children’s Dental Health Check (ongoing) – £20-£40",
+   "Bonding / Reshaping – £240 per tooth",
+   "Cosmetic Veneer – £786 per tooth",
+   "Bridge (fixed replacement) – £786 per tooth",
+   "Dental Implant (including implant + crown) – £3300",
+   "Full set of removable acrylic dentures for both arches: £1,600"
+  ],
+  "faqs": [],
+  "chunks": [
+   {
+    "text": "\"Welcome to our dental practice in the heart of Ivybridge. We are proud to build upon its long standing reputation for offering excellent dental care to the South Hams community\" Katie & Peter",
+    "url": "https://www.ivybridgedental.co.uk/"
+   },
+   {
+    "text": "Local couple Katie & Peter Reville took over the business in May 2021and Peter is our Principal Dentist. Peter has served the local community for over 17 years and Katie comes from a background in energy advice and community development.",
+    "url": "https://www.ivybridgedental.co.uk/"
+   },
+   {
+    "text": "We have a team of friendly and experienced dentists, hygienists, dental nurses and front of house staff, many of whom have been with the practice for over 10 years.",
+    "url": "https://www.ivybridgedental.co.uk/"
+   },
+   {
+    "text": "Dental implants provide a long-lasting, natural-looking replacement for missing teeth. Dental implants can be used to provide fixed replacement of missing teeth or to secure dentures.",
+    "url": "https://www.ivybridgedental.co.uk/"
+   },
+   {
+    "text": "We are proud to offer Invisalign® clear aligner treatment for patients seeking a discreet way to straighten their teeth. Suitable for mild to moderate cases, Invisalign® provides a comfortable and convenient alternative to traditional braces.",
+    "url": "https://www.ivybridgedental.co.uk/"
+   },
+   {
+    "text": "We offer the award-winning Boutique Whitening system for patients seeking a brighter, whiter smile. We provide custom-made trays with a tailored whitening kit to achieve safe, effective results from home.",
+    "url": "https://www.ivybridgedental.co.uk/"
+   },
+   {
+    "text": "\"Peter Reville and his team are simply the best! His care and attention to detail is fabulous, I feel totally comfortable and at ease with him. Can’t recommend highly enough.\"",
+    "url": "https://www.ivybridgedental.co.uk/"
+   },
+   {
+    "text": "Our practice has operated from its unique purpose-built premises since 2011. We have five dental surgeries, a spacious waiting area, a patient lift and a small parking area for patients with limited mobility.",
+    "url": "https://www.ivybridgedental.co.uk/"
+   },
+   {
+    "text": "The building was constructed with sustainability in mind and won a Royal Institute British Architects (RIBA) Award. We try to practice in a sustainable way wherever possible. We have a green roof for biodiversity and solar panels to generate electricity.",
+    "url": "https://www.ivybridgedental.co.uk/"
+   },
+   {
+    "text": "From routine check-ups to advanced restorative work, we offer a full range of dental treatments",
+    "url": "https://www.ivybridgedental.co.uk/treatments"
+   },
+   {
+    "text": "Our experienced dentists provide all routine dental treatments such as fillings, root canals and crowns. We also offer implants, the Invisalign Go teeth straightening system and Boutique tooth whitening. For orthodontics and complex oral surgery/root canal procedures we partner with local specialists to ensure you receive the best possible care.",
+    "url": "https://www.ivybridgedental.co.uk/treatments"
+   },
+   {
+    "text": "Dental implants provide a long-lasting, natural-looking replacement for missing teeth. Our Principal Dentist, Peter Reville, has extensive experience in implant treatments, helping patients restore both function and confidence in their smile.",
+    "url": "https://www.ivybridgedental.co.uk/treatments"
+   },
+   {
+    "text": "We offer the award-winning Boutique Whitening system for patients seeking a brighter, whiter smile. Following a check-up to confirm suitability, we provide custom-fitted trays and a tailored whitening kit to achieve safe, effective results from home.",
+    "url": "https://www.ivybridgedental.co.uk/treatments"
+   },
+   {
+    "text": "Our Fee Guide outlines current fees (April 2026). Our dentists will provide you with a treatment plan and cost estimate before care begins and these last up to 6 months. Payment is due at the time of the appointment/when treatment is provided and taken upfront for new patient consultations and following missed appointments.",
+    "url": "https://www.ivybridgedental.co.uk/treatments"
+   },
+   {
+    "text": "Biteguards to prevent jaw pain and tooth wear",
+    "url": "https://www.ivybridgedental.co.uk/treatments"
+   },
+   {
+    "text": "Whether you’re a new or existing patient, our friendly team is ready to help.",
+    "url": "https://www.ivybridgedental.co.uk/treatments"
+   },
+   {
+    "text": "We provide all patients with cost estimates for any treatment we recommend and are committed to clarity on our pricing. Finance options are available for treatments costing over £350 through our partners Medenta Finance.",
+    "url": "https://www.ivybridgedental.co.uk/pricing"
+   },
+   {
+    "text": "Our Fee Guide is correct as of April 2026.",
+    "url": "https://www.ivybridgedental.co.uk/pricing"
+   },
+   {
+    "text": "Payment is required when the appointment or treatment is provided but is taken upfront for new patient consultations.",
+    "url": "https://www.ivybridgedental.co.uk/pricing"
+   },
+   {
+    "text": "Regular oral health assessments to keep your smile strong, including full examinations, X-rays, and early detection of any potential dental problems.",
+    "url": "https://www.ivybridgedental.co.uk/pricing"
+   },
+   {
+    "text": "Enhance your smile’s appearance with treatments like tooth whitening, bonding, veneers, and Invisalign — achieving natural, beautiful results.",
+    "url": "https://www.ivybridgedental.co.uk/pricing"
+   },
+   {
+    "text": "Prevent dental problems before they start with professional hygiene appointments, fissure sealants, and custom mouth guards to protect your teeth.",
+    "url": "https://www.ivybridgedental.co.uk/pricing"
+   },
+   {
+    "text": "Immediate, compassionate help for unexpected dental problems, including same-day pain relief, emergency repairs, and priority care when you need it most.",
+    "url": "https://www.ivybridgedental.co.uk/pricing"
+   },
+   {
+    "text": "Repair and restore your smile with fillings, crowns, bridges, veneers, or root canal therapy — customised solutions to bring back strength and function.",
+    "url": "https://www.ivybridgedental.co.uk/pricing"
+   },
+   {
+    "text": "Replace missing teeth with implants, dentures, or bridges — restoring confidence, natural chewing function, and a complete, healthy smile you’ll love.",
+    "url": "https://www.ivybridgedental.co.uk/pricing"
+   },
+   {
+    "text": "Safe, expert surgical care including extractions and advanced procedures, all carried out with a focus on comfort, reassurance, and gentle precision.",
+    "url": "https://www.ivybridgedental.co.uk/pricing"
+   },
+   {
+    "text": "Our Dental plans enable patients to spread the cost of routine dental appointments with a monthly direct debit. Please ask our reception team for more info on our plans.",
+    "url": "https://www.ivybridgedental.co.uk/pricing"
+   },
+   {
+    "text": "Regular oral health assessments to keep your smile strong — including full examinations, X-rays, and early detection of dental issues.",
+    "url": "https://www.ivybridgedental.co.uk/pricing"
+   },
+   {
+    "text": "A comprehensive initial examination including full mouth x-rays and clinical assessment. Establishes a baseline for oral health and helps plan further treatment.",
+    "url": "https://www.ivybridgedental.co.uk/pricing"
+   },
+   {
+    "text": "A regular dental health check for existing patients, including examination of teeth, gums, and mouth to identify any issues early.",
+    "url": "https://www.ivybridgedental.co.uk/pricing"
+   },
+   {
+    "text": "A gentle, child-friendly dental check for new patients, including small x-rays if needed to assess developing teeth.",
+    "url": "https://www.ivybridgedental.co.uk/pricing"
+   },
+   {
+    "text": "A routine check-up for children who are already registered, to monitor growth, hygiene, and early detection of cavities.",
+    "url": "https://www.ivybridgedental.co.uk/pricing"
+   },
+   {
+    "text": "An at-home aligner-based whitening system that gradually lightens tooth shade over a series of applications.",
+    "url": "https://www.ivybridgedental.co.uk/pricing"
+   },
+   {
+    "text": "Cosmetic resin is applied to adjust the shape, length, or contour of a tooth for improved aesthetics.",
+    "url": "https://www.ivybridgedental.co.uk/pricing"
+   },
+   {
+    "text": "Clear aligner system (Invisalign Go) to straighten teeth discreetly over a series of custom aligners.",
+    "url": "https://www.ivybridgedental.co.uk/pricing"
+   },
+   {
+    "text": "A thin porcelain shell bonded to the front of a tooth to improve shape, size, and colour.",
+    "url": "https://www.ivybridgedental.co.uk/pricing"
+   },
+   {
+    "text": "Help prevent dental problems before they start with professional hygiene appointments, fissure sealants, and custom mouth guards to protect your teeth.",
+    "url": "https://www.ivybridgedental.co.uk/pricing"
+   },
+   {
+    "text": "Professional cleaning session including plaque and tartar removal, polishing, and home care advice. (Registered patients only.)",
+    "url": "https://www.ivybridgedental.co.uk/pricing"
+   },
+   {
+    "text": "Custom-fitted guard for sports protection or to prevent teeth grinding at night.",
+    "url": "https://www.ivybridgedental.co.uk/pricing"
+   },
+   {
+    "text": "Protective resin coating applied to the chewing surfaces of molars to seal grooves and prevent decay.",
+    "url": "https://www.ivybridgedental.co.uk/pricing"
+   },
+   {
+    "text": "Fast, compassionate care for unexpected dental problems — including same-day pain assessments and emergency repairs.",
+    "url": "https://www.ivybridgedental.co.uk/pricing"
+   },
+   {
+    "text": "Evaluation of dental pain, facial swelling and sensitivity, providing initial advice and prescribing further treatment if needed. Registered patients only.",
+    "url": "https://www.ivybridgedental.co.uk/pricing"
+   },
+   {
+    "text": "Repair or adjustment of existing dentures; cost depends on complexity and whether impressions are required.",
+    "url": "https://www.ivybridgedental.co.uk/pricing"
+   },
+   {
+    "text": "Restore your teeth’s function and appearance with fillings, root canal therapy, crowns, bridges, or veneers — tailored to your needs.",
+    "url": "https://www.ivybridgedental.co.uk/pricing"
+   },
+   {
+    "text": "Repair of cavities using white resin composite; cost varies by size and location of filling.",
+    "url": "https://www.ivybridgedental.co.uk/pricing"
+   },
+   {
+    "text": "Removal of infected nerve tissue in a front (single-root) tooth, cleaning, and sealing the root canal.",
+    "url": "https://www.ivybridgedental.co.uk/pricing"
+   },
+   {
+    "text": "Treatment for a molar or premolar with multiple roots, requiring more time and complexity.",
+    "url": "https://www.ivybridgedental.co.uk/pricing"
+   },
+   {
+    "text": "Full coverage restoration placed over a damaged or weakened tooth to restore strength, shape, and appearance.",
+    "url": "https://www.ivybridgedental.co.uk/pricing"
+   },
+   {
+    "text": "A fixed prosthetic to replace a missing tooth using adjacent teeth as supports.",
+    "url": "https://www.ivybridgedental.co.uk/pricing"
+   },
+   {
+    "text": "Porcelain veneer used to restore or improve appearance/structure of a tooth.",
+    "url": "https://www.ivybridgedental.co.uk/pricing"
+   },
+   {
+    "text": "Reinforcement placed into a root canal–treated tooth to support a crown when little natural tooth remains.",
+    "url": "https://www.ivybridgedental.co.uk/pricing"
+   },
+   {
+    "text": "Replace missing teeth with options like implants, dentures, or bridges — restoring your confidence, chewing ability, and smile.",
+    "url": "https://www.ivybridgedental.co.uk/pricing"
+   },
+   {
+    "text": "Evaluation (clinical and radiographic) to determine suitability for an implant.",
+    "url": "https://www.ivybridgedental.co.uk/pricing"
+   },
+   {
+    "text": "Placement of a titanium implant into the jawbone plus a crown for a natural-looking, permanent restoration.",
+    "url": "https://www.ivybridgedental.co.uk/pricing"
+   },
+   {
+    "text": "A removable acrylic prosthesis replacing missing teeth in either the upper or lower jaw.",
+    "url": "https://www.ivybridgedental.co.uk/pricing"
+   },
+   {
+    "text": "A full set of removable acrylic dentures for both arches.",
+    "url": "https://www.ivybridgedental.co.uk/pricing"
+   },
+   {
+    "text": "Gentle, expert surgical care, from extractions to complex procedures — delivered with comfort and precision.",
+    "url": "https://www.ivybridgedental.co.uk/pricing"
+   },
+   {
+    "text": "Removal of a tooth that is visible and easily accessible, under local anaesthetic.",
+    "url": "https://www.ivybridgedental.co.uk/pricing"
+   },
+   {
+    "text": "Removal of an impacted or broken tooth, or one requiring surgical access.",
+    "url": "https://www.ivybridgedental.co.uk/pricing"
+   },
+   {
+    "text": "The small print regarding our Finance option. Ivybridge Dental Centre Ltd trading as Ivybridge Dental Centre is a credit broker not a lender. Registered in England & Wales: 06766637. Registered Address: Cedar Rise, Fore Street, Ivybridge, Devon PL21 9AE. Telephone: 01752 894142.",
+    "url": "https://www.ivybridgedental.co.uk/pricing"
+   },
+   {
+    "text": "Medenta Finance Limited, authorised and regulated by the Financial Conduct Authority No: 715523. Registered in Scotland, No: SC276679. Registered address: 50 Lothian Road, Festival Square, Edinburgh, EH3 9WJ. Tel: 01691 684175. Medenta act as a credit broker, not a lender and will introduce practices to V12 Retail Finance Limited for which Medenta will receive an introduction commission from Secure Trust Bank plc, V12 Retail Finance Limited's parent company.",
+    "url": "https://www.ivybridgedental.co.uk/pricing"
+   },
+   {
+    "text": "V12 Retail Finance Limited is authorised and regulated by the Financial Conduct Authority. Registration number:679653. Registered office: Yorke House, Arleston Way, Solihull, B90 4LH. Correspondence address: 25-26 Neptune Court, Vanguard Way, Cardiff, CF24 5PJ. V12 Retail Finance Limited act as a credit broker, not a lender, and only offers credit products from Secure Trust Bank PLC. Secure Trust Bank PLC trading as V12 Retail Finance is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority. Registration number: 204550. Registered office: Yorke House, Arleston Way, Solihull, B90 4LH",
+    "url": "https://www.ivybridgedental.co.uk/pricing"
+   },
+   {
+    "text": "Terms and conditions apply. Written quotations are available on request from Secure Trust Bank PLC. Credit facilities are subject to status and affordability checks and only available to UK residents over the age of 18. Secure Trust Bank PLC reserves the right to decline any application. APR and repayment details are correct at time of publication. Telephone calls are recorded for training and compliance purposes.",
+    "url": "https://www.ivybridgedental.co.uk/pricing"
+   },
+   {
+    "text": "Get answers to the most common questions about our services, payment options and appointments.",
+    "url": "https://www.ivybridgedental.co.uk/faq"
+   },
+   {
+    "text": "Please call our reception team on 01752 894142 or visit the practice to book or rearrange appointments. Our diary is constantly changing and this is the easiest way to find a suitable appointment for you.",
+    "url": "https://www.ivybridgedental.co.uk/faq"
+   },
+   {
+    "text": "Parents/guardians are responsible for booking appointments for their children who are 18ys or younger. Over 18s must take responsibility for booking and remembering their own appointments, unless there is a medical reason for a parent/carer to book on their behalf. This is for data protection and safeguarding purposes.",
+    "url": "https://www.ivybridgedental.co.uk/faq"
+   },
+   {
+    "text": "Your dentist will determine how often you need to see them based on your oral health and best practice guidelines. We recommend most adults, have a check-up once per year. Some patients with healthy mouths only need to visit dentist every 2 years.",
+    "url": "https://www.ivybridgedental.co.uk/faq"
+   },
+   {
+    "text": "No, to manage our diary and patient expectations, we are currently not accepting any new patients and do not hold a waiting list. We review the situation on a regular basis and will update our website when we have capacity to take on more patients.",
+    "url": "https://www.ivybridgedental.co.uk/faq"
+   },
+   {
+    "text": "If we do not see a patient for a routine check-up in over 2 years we will remove them from our patient list. This is to ensure our dentists have manageable lists of active patients to care for. We cannot guarantee reinstatement to our patient list.",
+    "url": "https://www.ivybridgedental.co.uk/faq"
+   },
+   {
+    "text": "If children are not brought to their appointments this is counted as a safeguarding issue. We will contact the parent/guardian to rebook the missed appointment and if this is unsuccessful, the child’s dentist will decide if we need to raise any concerns with other health professionals or the local safe guarding team.",
+    "url": "https://www.ivybridgedental.co.uk/faq"
+   },
+   {
+    "text": "Our dental plans cover the cost of a routine check-up and a specific number of appointments with our hygienist every 12months. If these appointments are booked and then missed, or cancelled on the same day, they may be forfeited for that 12 month period. Patients can pay privately for replacement appointments or wait until the next 12 month plan cycle starts.",
+    "url": "https://www.ivybridgedental.co.uk/faq"
+   },
+   {
+    "text": "To book or amend an appointment please give us a call on 01752 894142. Our diary is constantly changing and this is the easiest way to find suitable appointments. If you would like to join us as a new private patient please give us a call. Unfortunately we are not accepting new NHS patients. To find an NHS dentist that is taking on new patients please visit this site here .",
+    "url": "https://www.ivybridgedental.co.uk/contact"
+   },
+   {
+    "text": "If you have a dental emergency outside our opening hours, you can either call 111 for advice, visit their webpage or call our out of hours service provider The 24/7 Dentist on 03301 759 995 . They operate out of a practice in Plymouth and there will be a charge if the dentist needs to see you.",
+    "url": "https://www.ivybridgedental.co.uk/contact"
+   },
+   {
+    "text": "Phone: 01752 894 142 Email: hello@ivybridgedental.co.uk",
+    "url": "https://www.ivybridgedental.co.uk/contact"
+   },
+   {
+    "text": "Monday - Thursday: 9.00am – 5.30pm Friday: 9.00am – 5.00pm",
+    "url": "https://www.ivybridgedental.co.uk/contact"
+   },
+   {
+    "text": "Cedar Rise, Fore St, Ivybridge, Devon, PL21 9AE, United Kingdom",
+    "url": "https://www.ivybridgedental.co.uk/contact"
+   },
+   {
+    "text": "The Practice has a small parking bay for patients with a blue badge only. There is no general parking for patients at the practice. Local carparks are available at Erme Court near the Town Hall (free for two hours) and at Leonards Road or Glanvilles Mill.",
+    "url": "https://www.ivybridgedental.co.uk/contact"
+   },
+   {
+    "text": "Our friendly and experienced dental team provide expert treatment, personalised support and a welcoming atmosphere where your comfort always comes first.",
+    "url": "https://www.ivybridgedental.co.uk/team"
+   },
+   {
+    "text": "Our experienced dental team combines clinical expertise with a friendly, reassuring approach. From highly qualified dentists to skilled hygienists and support staff, we work together to provide personalised care in a welcoming environment. At Ivybridge Dental, you can trust that your oral health is always in safe hands.",
+    "url": "https://www.ivybridgedental.co.uk/team"
+   }
+  ]
+ },
+ "generated_at": "2026-11-14 18:07"
+}

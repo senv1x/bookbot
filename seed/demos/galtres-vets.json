@@ -1,0 +1,185 @@
+{
+ "slug": "galtres-vets",
+ "website": "https://www.galtresvets.co.uk/",
+ "quality": "good",
+ "notes": "found: phone, email, address, hours, services, prices; missing: FAQ",
+ "data": {
+  "name": "Galtres Vets",
+  "website": "https://www.galtresvets.co.uk/",
+  "description": "",
+  "phones": [
+   "01347 838888"
+  ],
+  "emails": [
+   "reception@galtresvets.co.uk"
+  ],
+  "address": "North Yorkshire, YO61 1SF",
+  "hours": [
+   "Monday-Friday: 8:30-18:30",
+   "Saturday: 9:00-12:00"
+  ],
+  "services": [
+   "Consultations",
+   "Vaccinations",
+   "Microchipping",
+   "Pregnancy scans",
+   "Animal Health Certificates for travel",
+   "Out of hours emergency care"
+  ],
+  "prices": [
+   "Small animal first consultation: £50.00",
+   "Small animal follow up consultation: £44.00",
+   "Small animal repeat prescription check: £40.00",
+   "Small animal nurse consultation: £29.00",
+   "Flea and worming consultation: £15.00",
+   "Small animal out of hours consultation (weekend day times and evenings before 10pm): £160.00",
+   "Small animal out of hours consultation (overnight after 10pm): £205.00",
+   "Dog booster vaccination (excluding kennel cough): £57.00",
+   "Kennel cough vaccination (injectable or intra-nasal): £31.50",
+   "Cat booster vaccination: £57.00",
+   "Rabbit vaccination (myxo and RHD): £72.72",
+   "Rabbit YurVac vaccination: £25.00",
+   "Puppy vaccination course: £87.00",
+   "Kitten vaccination course: £89.00",
+   "Small animal microchip: £15.00",
+   "Rabies vaccination: £60.00",
+   "Animal Health Certificate (AHC) for travel to Europe: £150.00",
+   "Small animal pregnancy scan: £59.70",
+   "Written prescription charge (one item): £21.00",
+   "Written prescription charge (more than one item): £33.50",
+   "Written prescription charge for controlled drug: £17.00"
+  ],
+  "faqs": [],
+  "chunks": [
+   {
+    "text": "We are a small, friendly, independent veterinary practice providing equine and small animal care, based in Flawith, near Easingwold, North Yorkshire. We cover a large area around our practice for visits and have excellent inpatient facilities at the surgery.",
+    "url": "https://www.galtresvets.co.uk/"
+   },
+   {
+    "text": "Our services include consultations and visits, including equine zone visits, mobile nurse clinics, equine and small animal health schemes. Full surgical and inpatient facilities including stables, radiography, ultrasonography, endoscopy, gastroscopy, dentistry, surgery, vettings (pre-purchase examinations) and second opinions.",
+    "url": "https://www.galtresvets.co.uk/"
+   },
+   {
+    "text": "We have 14 staff in total, including 7 vets, and we also provide 24-hour emergency cover, so we are here for you when you need us the most. The Practice is owned by experienced vets, Malcolm and Joyce Whitehead and Emily Beachill. For more details on who works at the practice CLICK HERE",
+    "url": "https://www.galtresvets.co.uk/"
+   },
+   {
+    "text": "If you have any non-urgent enquiries, please email or telephone the office between 8.30am and 6pm Monday to Friday on 01347 838888 . One of our friendly staff will be available and happy to help you. Please find our access statement HERE .",
+    "url": "https://www.galtresvets.co.uk/"
+   },
+   {
+    "text": "Here at Galtres, we are doing our part in the fight against global warming. Check out our sustainability report HERE",
+    "url": "https://www.galtresvets.co.uk/"
+   },
+   {
+    "text": "To read our Galtres Veterinary Surgery Privacy Notice click HERE",
+    "url": "https://www.galtresvets.co.uk/"
+   },
+   {
+    "text": "We appreciate your visit to our website and we will regularly update certain events and links on this site so please return from time to time and see what we’ve been up to.",
+    "url": "https://www.galtresvets.co.uk/"
+   },
+   {
+    "text": "Here at Galtres Vets we want to be as transparent as possible with our pricing structure so our clients can feel confident in making their pets healthcare choices.",
+    "url": "https://www.galtresvets.co.uk/prices/small-animals"
+   },
+   {
+    "text": "Please find below our current price list of routine treatments and services available, effective as of October 2026.",
+    "url": "https://www.galtresvets.co.uk/prices/small-animals"
+   },
+   {
+    "text": "Small animal repeat prescription check (medication reviews required every 3 months for long term medications)",
+    "url": "https://www.galtresvets.co.uk/prices/small-animals"
+   },
+   {
+    "text": "Flea and worming consultation (required to prescribe 12 months of prescription strength flea and wormer, if pet has not been seen otherwise in the last 12 months)",
+    "url": "https://www.galtresvets.co.uk/prices/small-animals"
+   },
+   {
+    "text": "Small animal out of hours consultation (weekend day times and evenings before 10pm)",
+    "url": "https://www.galtresvets.co.uk/prices/small-animals"
+   },
+   {
+    "text": "(weekend day times and evenings before 10pm)",
+    "url": "https://www.galtresvets.co.uk/prices/small-animals"
+   },
+   {
+    "text": "Small animal out of hours consultation (overnight after 10pm)",
+    "url": "https://www.galtresvets.co.uk/prices/small-animals"
+   },
+   {
+    "text": "Dog booster vaccination (excluding kennel cough)",
+    "url": "https://www.galtresvets.co.uk/prices/small-animals"
+   },
+   {
+    "text": "Kennel cough vaccination (injectable or intra-nasal)",
+    "url": "https://www.galtresvets.co.uk/prices/small-animals"
+   },
+   {
+    "text": "Animal Health Certificate (AHC) for travel to Europe (*** terms apply, please contact us to check if this is the document you require)",
+    "url": "https://www.galtresvets.co.uk/prices/small-animals"
+   },
+   {
+    "text": "Written prescription charge (more than one item)",
+    "url": "https://www.galtresvets.co.uk/prices/small-animals"
+   },
+   {
+    "text": "Written prescription charge for controlled drug (limited to 28 day supply)",
+    "url": "https://www.galtresvets.co.uk/prices/small-animals"
+   },
+   {
+    "text": "Opening hours: Monday-Friday 8:30-18:30, and Saturday 9:00-12:00.",
+    "url": "https://www.galtresvets.co.uk/contact-us"
+   },
+   {
+    "text": "Find us on Facebook at: https://www.facebook.com/GaltresVets/",
+    "url": "https://www.galtresvets.co.uk/contact-us"
+   },
+   {
+    "text": "Galtres Veterinary Surgery, Applegarth, Flawith, Alne, North Yorkshire, YO61 1SF",
+    "url": "https://www.galtresvets.co.uk/contact-us"
+   },
+   {
+    "text": "We are a friendly, independent veterinary practice, providing veterinary care to both equine and small animals.",
+    "url": "https://www.galtresvets.co.uk/about-us/vets"
+   },
+   {
+    "text": "Our small but dedicated team is committed to providing the best possible veterinary care, and will treat your animals as if they were their own. Our vets have many years experience, and enjoy getting to know you and your animals to provide individual and personalised care.",
+    "url": "https://www.galtresvets.co.uk/about-us/vets"
+   },
+   {
+    "text": "Our practice at Flawith is fully equipped with operating theatre for both horses and small animals, in-house blood analysis machines, stables and stocks, kennels including isolation, digital X-ray, ultrasound and endoscopy.",
+    "url": "https://www.galtresvets.co.uk/about-us/vets"
+   },
+   {
+    "text": "We are proud to provide our own out of hours service – one of our vets is always available 24 hours a day, 365 days a year.",
+    "url": "https://www.galtresvets.co.uk/about-us/vets"
+   },
+   {
+    "text": "Debbie has worked at Galtres for many years, and now works for us part time, spending the rest of her time with her family in Derbyshire. Debbie has many years experience and enjoys both small animal and equine work, and has particular interest in equine lameness work-ups. Outside of work Debbie is kept busy looking after daughter Abbie, and looking after her horse Douglas.",
+    "url": "https://www.galtresvets.co.uk/about-us/vets"
+   },
+   {
+    "text": "Emily recently became co- owner of Galtres Vets Ltd. She is originally from Thirsk, and after graduating from Nottingham University spent a short while working on the Yorkshire coast, before returning to home to work at Galtres. Emily enjoys both equine and small animal, and has particular interests in equine gastroscopy and gastric ulcers, and small animal medicine. Outside of work Emily has a very naughty cat called KitKat, who was hand-reared from a kitten at the surgery, and a very spoilt cavalier King Charles spaniel called Winston!",
+    "url": "https://www.galtresvets.co.uk/about-us/vets"
+   },
+   {
+    "text": "Lucy has worked for Galtres for many years, and after a short stint away having her children, she is now back working for us part time. Lucy is very experienced in both equine and small animals. She holds a certificate in Equine Internal Medicine, and performs our equine anaesthetics. She also has a particular interest in racehorse work. Outside of work Lucy is kept busy with her 2 children Hew and Willow, and a selection of racehorses and ponies!",
+    "url": "https://www.galtresvets.co.uk/about-us/vets"
+   },
+   {
+    "text": "Originally from Leicestershire, Cara qualified from Glasgow in 2023 and started at Galtres soon after. She’s passionate about small animal surgery and equine dentistry and outside of work she enjoys running and walking her Border Terrier, Bertie.",
+    "url": "https://www.galtresvets.co.uk/about-us/vets"
+   },
+   {
+    "text": "Another of our vets to hail from Thirsk, Amy recently qualified from Liverpool, having worked with us for a few years part time whilst studying. She has a keen interest in imaging. Amy has a Cocker Spaniel called Rue, who she loves to take on adventures around the UK, she also loves to bake and ride.",
+    "url": "https://www.galtresvets.co.uk/about-us/vets"
+   },
+   {
+    "text": "Kristina, our newest vet to join the team, graduated from Cambridge University in 2026. She is back enjoying Yorkshire life as she originally hails from Ripon. In her spare time she enjoys running and walking her Cocker Spaniels, Forrest and Rafa.",
+    "url": "https://www.galtresvets.co.uk/about-us/vets"
+   }
+  ]
+ },
+ "generated_at": "2026-11-14 18:08"
+}

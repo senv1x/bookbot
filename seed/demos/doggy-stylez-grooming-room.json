@@ -1,0 +1,291 @@
+{
+ "slug": "doggy-stylez-grooming-room",
+ "website": "https://doggystylez.ie/",
+ "quality": "good",
+ "notes": "found: phone, email, address, hours, services, prices; missing: FAQ",
+ "data": {
+  "name": "Doggy Stylez Grooming Room",
+  "website": "https://doggystylez.ie/",
+  "description": "Professional and friendly dog groomer located in Allenwood, Kildare. We provide a variety of dog grooming services for your furry friends.",
+  "phones": [
+   "089 955 6335"
+  ],
+  "emails": [
+   "dstylez1406@gmail.com"
+  ],
+  "address": "Allenwood",
+  "hours": [
+   "Monday: 09:00-15:00",
+   "Tuesday: please contact us",
+   "Wednesday, Thursday: 09:00-17:30",
+   "Friday: 09:00-13:00",
+   "Saturday, Sunday: please contact us"
+  ],
+  "services": [
+   "Smooth coat groom",
+   "Mini Groom",
+   "Full Groom",
+   "Puppys First Groom",
+   "Timaha Clay Treatment",
+   "Emi Pet Teeth Cleaning",
+   "Blueberry Facial"
+  ],
+  "prices": [
+   "Smooth coat – from €40 (final price based on dog's size, coat type and temperament)",
+   "Mini Groom – from €50 (final price based on dog's size, temperament & coat condition)",
+   "Full Groom – from €60 (final price based on dog's size, temperament & coat condition)",
+   "Puppys First Groom (14-32 weeks old) – from €45",
+   "Timaha Clay Treatment (add-on to any groom) – €8",
+   "Emi Pet Teeth Cleaning (add-on to any groom) – €20",
+   "Blueberry Facial (add-on to any groom) – €5"
+  ],
+  "faqs": [],
+  "chunks": [
+   {
+    "text": "Winner of Specialist Pet Service of the Year 2023",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "Welcome to Doggy Stylez, where your furry friend receives top-notch grooming care tailored to their needs. Meet Janet, our skilled groomer who holds an iPet Level 3 Diploma in Dog Grooming and Salon Management. With her expertise and dedication, Janet was honored with the Specialist Pet Service of the Year award in 2023, recognising her exceptional work with anxious and elderly dogs.",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "At Doggy Stylez, we prioritise individualised attention, providing a one-on-one grooming experience for both your dog and Janet. We understand that every pup is unique, which is why we allocate extra time for grooming appointments, ensuring breaks can be taken if needed.",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "Unlike traditional grooming setups, we believe in creating a stress-free environment. That's why we don't use crates, instead, dogs are free to explore and relax in our enclosed garden before and after their grooming session. Our commitment to quality extends to the products we use. We only use the finest shampoos, conditioners, colognes, and grooming tools.",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "Step into our grooming room, equipped with state of the art bath facilities, dryers, and clippers, all designed to provide the utmost comfort and efficiency for your pet's grooming experience. Janet's passion for dogs drives her to continually invest in the company, ensuring that each client receives nothing but the best.",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "Unike some other salons, we provide extra time and attention to ensure your pet's comfort and well being throughout the grooming process. At Doggy Stylez, your pet's satisfaction and happiness are priceless, and we spare no effort in delivering a grooming experience that exceeds expectations.",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "Our Full groom service includes a pre-health check where we'll give your furry friend a once-over to make sure they're in good shape. We'll check their teeth, ears, eyes, and overall body condition.",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "Next up, we'll give those ears a good cleaning to remove any wax or debris. Then it's time for a nail clipping and filing to make sure those paws are safe and comfortable.",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "Your pet will then enjoy a bath with high-quality, pet-friendly shampoo, effectively removing dirt, grime, and odors. We follow this with a conditioner tailored to your pet's specific fur type.",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "After towel drying, we use a warm dryer for a complete fluff dry. The grooming session concludes with a haircut, where we trim and style the coat according to your specifications or breed standards, and we also trim the hygiene area and pads for added comfort.",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "Regularly cleaning your pets teeth is the most important factor in preventing dental disease. The Emi-Pet tooth brush is vibration free and noise free so your pet will find it an easy and pleasant experience. Each dog has their own toothbrush head which can be kept at the salon or taken home with you. There is a Piezo-Chip located in the head of the brush that creates up to 96 million air oscillations per minute and when it comes into contact with the emi-pet toothpaste, creates millions of microscopic nano bubbles that continually implode. This creates a suction effect which removes impurities such as germs, bacteria plaque and tartar.",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "Our Timaha clay mask and blueberry facial treatments give your dog a gentle, spa style refresh. The mineral rich clay mask helps draw out impurities, soothe irritation, and restore softness and shine to the coat, making it ideal for sensitive skin. The blueberry facial is a tear free, antioxidant rich cleanser that brightens the face, gently reduces staining around the eyes and muzzle, and leaves a naturally fresh scent. Together, they provide a soothing, nourishing boost for a clean, healthy, radiant finish.",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "Please contact us if you cannot find an answer to your question.",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "We recommend that you bring your dog to us every 4-8 weeks for grooming. But, depending on your pup's breed and coat type, some may require more frequent visits to keep them looking and feeling their best.",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "For those pups with coats that easily become matted, we suggest more frequent visits, ranging from 2-6 weeks. However, if you prefer a longer coat and can't make it to the salon that often, we recommend opting for a shorter style to ensure your pup stays comfortable and healthy.",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "Both our mini and full grooming services include all the good stuff - a luxurious double shampoo and conditioning, brushing and combing to remove tangles, deshedding to keep their coats shiny and healthy, and trimming around their delicate bits like their feet, eyes, bottoms, and private areas. Plus, we'll give those nails a little trim too!",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "A mini groom is perfect for those pups who just need a little sprucing up. We won't take any length off during this service, and we can only do it if there's no matting present. It's a great way to keep your pup looking and feeling their best between full grooms.",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "A full groom is a more comprehensive service that includes taking length off your pup's coat. How much we take off will depend on the style you want and the condition of your pups coat. We'll work with you to create a look that you love.",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "Can't see their skin easily because of all the hair? Matted! Combing through their hair is causing a tangled mess? Definitely matted! Has it been over 4-6 weeks since their last professional grooming? They may be matted, especially with certain coat types.",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "Can't see their skin easily because of all the hair? Matted!",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "Combing through their hair is causing a tangled mess? Definitely matted!",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "Has it been over 4-6 weeks since their last professional grooming? They may be matted, especially with certain coat types.",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "We know you want your pup to be happy and comfortable, so it's important to prevent matting by scheduling regular grooming appointments and daily combing. Matting can be super painful for your pup and cause all sorts of problems like hiding parasites and debris, trapping thorns and grass seeds, and even leading to skin infections.",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "If your dog is severely matted, we'll have to use clippers and scissors to remove the mats, which means getting very close to the skin. This process can be stressful and even cause nicks and scratches to the skin. But don't worry, we take our time and do our best to prevent any discomfort.",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "After we remove the mats, your pup may feel a pins and needles sensation as blood rushes back to the skin, causing some bruising and discomfort. They may drag their bottom, lick excessively, rub around, scratch, or even hide away for a bit.",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "In some cases, matting can be so severe that it's not safe for us to groom your pup. In those cases, we'll recommend a visit to the vet.",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "The time your furry friend will spend with us for their pampering session will vary from 1 to 3 hours, depending on what kind of grooming they need and dog size. Small/Medium dogs usually 1.5hrs and large dogs 2 hours+. We promise to make their stay as comfortable as possible. Your dog will get plenty of water breaks, toilet breaks, kisses and cuddles in between their grooming session.",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "While we'd love to have you stay and watch us work our magic on your furry friend, for safety and insurance reasons, we can't allow it (except for nail trims). We don't want anything to distract us from giving your pup the best grooming experience possible, so we'll take great care of them while you take a little break. Trust us, your pup will be in good hands!",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "At Doggy Stylez, we understand that schedules can change, but we kindly ask that you provide at least 30 hours' notice if you need to cancel or reschedule your appointment. This allows us to fill the appointment slot with another client who may be waiting for services.",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "Any appointments cancelled with less than 30 hours' notice will incur a 50% charge of the grooming fee. Any no shows will be charged 100% of the service cost. We take our business seriously and rely on your commitment to your scheduled appointment. When clients fail to show up or cancel last minute, it directly affects our ability to provide services to others and affects our income.",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "In the event that a client has a no show, no future appointments will be made until the full cost of the previous grooming fee is paid. We understand that emergencies happen, but consistent no-shows are not acceptable.",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "If you need to reschedule your appointment, please do so at least 30 hours in advance to avoid cancellation fees. We value your business and want to provide you with the best possible experience.",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "We may request a 50% deposit to secure your appointment. We happily accept cash or Revolut @jandogs",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "We want to create a calm and enjoyable environment for all pups, so we reserve the right to politely decline service to any dog that may exhibit aggressive behaviour.",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "While we take every precaution to ensure the safety and comfort of your dog, we cannot be held responsible for any pre-existing medical conditions that may become aggravated during the grooming process. Rest assured, we will do everything in our power to make your pup feel their best.",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "We love showcasing our adorable clients on our website and social media, so we may snap a few pics of your pup during their visit. If you'd rather not have your pup in the spotlight, just let us know.",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "We are constantly striving to improve our services, so we reserve the right to update our pricing and offerings as needed.",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "If you are more than 10 minutes late for your appointment, your booking may need to be cancelled and the full grooming fee will still apply, as the time has been reserved exclusively for your pet.",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "As Doggy Stylez operates on a one-on-one grooming basis, it is essential that dogs are collected promptly at the agreed time. A late pick-up fee will apply for collections made more than 10 minutes past the arranged time, as delays impact the next scheduled appointment.",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "The determination of whether a dog is matted is at the discretion of our experienced groomer. The groomer will assess the condition of the coat and make the best decision for the well-being of the dog.",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "If a dog is found to be matted, additional fees will apply, starting at €15 on top of the regular grooming price. This additional charge is to account for the extra time and maintenance of equipment ie: getting the blade and scissors resharpened after matting removal.",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "In accordance with the principles of the Animal Welfare Act 2006, we prioritise the health and comfort of your pet. Therefore, if a dog is matted, our grooming policy involves clipping the coat short. This decision is made to avoid causing unnecessary pain or discomfort to your dog.",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "Removing mats involves using sharp tools around a moving dog which can accidentally cause cuts or abrasions to the dog's skin. After mat removal, the dog's skin may be more sensitive, leading to post-grooming itchiness. This can cause the dog to scratch or bite at the affected areas.",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "By proceeding with the grooming process, you acknowledge that you understand these risks and release Doggy Stylez from any liability associated with the removal of matting.",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "While we strive to provide accurate pricing information, please note that the final price for your grooming session will be determined by our groomer on the day of the appointment. Factors such as your dog's size, coat condition and behaviour will be taken into consideration in determining the final price. Additionally, if matting is found during the grooming process, there may be additional fees.",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "Thank you for your cooperation and understanding. We look forward to providing you and your furry friend with the best possible grooming services.",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "To book an appointment please WhatsApp Janet on 089 955 6335",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "Whats App: 089 955 6335 | E: dstylez1406@gmail.com",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "Copyright © 2026 Doggy Stylez - All Rights Reserved.",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "Use 'Book Online' tab to check for any cancellations.",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "We use cookies to analyze website traffic and optimize your website experience. By accepting our use of cookies, your data will be aggregated with all other user data.",
+    "url": "https://doggystylez.ie/"
+   },
+   {
+    "text": "This is grooming for smooth coated breeds like a staffie, frenchie, pug, lurcher, bull dog. Includes a double de shedding shampoo, a warm blow dry, nail trim, ear clean, spray of cologne, finished off with a bandana.",
+    "url": "https://doggystylez.ie/services"
+   },
+   {
+    "text": "For double/long/fluffy coats - This is a maintenance groom in between full grooms. This service does not include length off. Includes ear clean, nail trim, double conditioning shampoo, warm blow dry, face, paw and hygiene trim, spritz of cologne topped off with a bandana. **Not available for all dogs, depending on coat**",
+    "url": "https://doggystylez.ie/services"
+   },
+   {
+    "text": "This is clipping and scissoring for long fluffy coats. Includes ear clean, nail trim, double conditioning shampoo, warm blow dry, face, paw and hygiene trim, clipping and scissoring to your style requirement, spritz of cologne, finished off with a bow. **Matted Dogs will incur additional fees**",
+    "url": "https://doggystylez.ie/services"
+   },
+   {
+    "text": "Puppys First Groom is all about getting them comfortable in the salon environment and the dog groomer. They'll enjoy a bath with a puppy friendly shampoo, a gentle blow dry and their first nail trim or file.",
+    "url": "https://doggystylez.ie/services"
+   },
+   {
+    "text": "The below tretaments can be added on to any groom",
+    "url": "https://doggystylez.ie/services"
+   },
+   {
+    "text": "Give your dog’s coat the ultimate rejuvenation with our Timaha Clay Treatment. This deeply nourishing formula strengthens the coat from root to tip, leaving it naturally soft with a long-lasting, healthy shine. Enriched with fruit extracts, it hydrates and repairs damaged coats while the mineral-rich clay purifies and gently removes excess oils.",
+    "url": "https://doggystylez.ie/services"
+   },
+   {
+    "text": "A fresh, sweet scent adds a spa-like touch, and the deodoris",
+    "url": "https://doggystylez.ie/services"
+   },
+   {
+    "text": "This is suitable for dogs with mild to moderate tartar build up, it can help heal gum disease, freshen breath, and reduce tartar.",
+    "url": "https://doggystylez.ie/services"
+   },
+   {
+    "text": "A blueberry facial for a dog gently cleanses the face, helps remove tear stains, and exfoliates the skin, leading to a brighter coat and improved skin health. It also provides a relaxing, aromatherapy like experience for the dog. The treatment uses a gentle solution that moisturises, combats irritation, and enhances the natural color of the fur.",
+    "url": "https://doggystylez.ie/services"
+   },
+   {
+    "text": "**Our price list is just a guide! Your pup's size, coat condition and behaviour might lead to some paw-sible extra charges**",
+    "url": "https://doggystylez.ie/services"
+   }
+  ]
+ },
+ "generated_at": "2026-11-14 18:08"
+}
