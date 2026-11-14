@@ -8,6 +8,20 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, ROOT)
 from server import slugify  # noqa: E402
 
+def call(method, url, **kw):
+    """HTTP with retries: free hosts cold-start and proxies drop TLS sessions now and then."""
+    for attempt in range(5):
+        try:
+            r = requests.request(method, url, timeout=90, **kw)
+            if r.status_code == 429:
+                time.sleep(20); continue
+            return r
+        except requests.RequestException:
+            if attempt == 4:
+                raise
+            time.sleep(3 * (attempt + 1))
+
+
 QS = ["What are your opening hours?", "What services do you offer?", "How much does it cost?", "How can I contact you?"]
 
 
@@ -24,16 +38,16 @@ def main():
         slug = slugify(row["business"])
         seed = json.load(open(os.path.join(ROOT, "seed", "demos", slug + ".json"), encoding="utf-8"))
         d = seed["data"]
-        page = requests.get(f"{a.server}/demo/{slug}", timeout=90)
+        page = call("GET", f"{a.server}/demo/{slug}")
         loads = page.status_code == 200 and html.escape(d["name"]) in page.text
         answers = []
         for q in QS:
             time.sleep(a.delay)
-            r = requests.post(f"{a.server}/api/chat", json={"bot": slug, "message": q}, timeout=90).json()
+            r = call("POST", f"{a.server}/api/chat", json={"bot": slug, "message": q}).json()
             answers.append((q, r.get("source"), r.get("answer", "")))
         good = [x for x in answers if x[1] not in ("handoff", "hours-none", "prices-none", None)]
         time.sleep(a.delay)
-        b = requests.post(f"{a.server}/api/chat", json={"bot": slug, "message": "I'd like to book an appointment"}, timeout=90).json()
+        b = call("POST", f"{a.server}/api/chat", json={"bot": slug, "message": "I'd like to book an appointment"}).json()
         notes = [seed["notes"]]
         days = [m.lower()[:3] for h in d.get("hours", []) for m in re.findall(r"^(monday|tuesday|wednesday|thursday|friday|saturday|sunday|mon|tue|wed|thu|fri|sat|sun)\b", h, re.I)]
         if len(days) != len(set(days)):
