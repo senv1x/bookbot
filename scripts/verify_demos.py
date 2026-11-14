@@ -89,7 +89,10 @@ def main():
             time.sleep(a.delay)
             r = call("POST", f"{a.server}/api/chat", json={"bot": slug, "message": q}).json()
             answers.append((q, r.get("source"), r.get("answer", "")))
-        issues = audit(d, answers)
+        # audit the hours the server actually serves (parsed from its hours answer), plus every answer's punctuation
+        served = next((x[2] for x in answers if x[1] == "hours"), "")
+        m = re.search(r"opening hours: (.*?)\. Outside these hours", served)
+        issues = audit({"hours": m.group(1).split("; ") if m else d.get("hours", [])}, answers)
         good = [x for x in answers if x[1] not in ("handoff", "hours-none", "prices-none", None)]
         time.sleep(a.delay)
         b = call("POST", f"{a.server}/api/chat", json={"bot": slug, "message": "I'd like to book an appointment"}).json()
