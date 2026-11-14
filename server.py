@@ -172,7 +172,8 @@ class H(BaseHTTPRequestHandler):
         if p == "/":
             return self.send(200, pages.landing())
         if p == "/healthz":
-            return self.json(200, {"ok": True, "llm": "openai" if os.getenv("OPENAI_API_KEY") else "rules", "smtp": bool(os.getenv("SMTP_HOST"))})
+            return self.json(200, {"ok": True, "llm": "openai" if os.getenv("OPENAI_API_KEY") else "rules", "smtp": bool(os.getenv("SMTP_HOST")),
+                                   "commit": (os.getenv("RENDER_GIT_COMMIT") or "")[:7]})
         if p == "/widget.js":
             return self.static("widget.js")
         if p.startswith("/static/"):

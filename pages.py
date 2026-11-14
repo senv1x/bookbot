@@ -13,7 +13,8 @@ PLANS = [
 
 
 def base_url():
-    return (os.getenv("PUBLIC_BASE_URL") or "").rstrip("/")
+    # PUBLIC_BASE_URL wins; on Render, RENDER_EXTERNAL_URL is set automatically
+    return (os.getenv("PUBLIC_BASE_URL") or os.getenv("RENDER_EXTERNAL_URL") or "").rstrip("/")
 
 
 def layout(title, body, desc="BookBot answers questions and captures booking requests on your website, 24/7.", extra_head=""):

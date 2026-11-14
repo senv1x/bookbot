@@ -14,7 +14,7 @@ services:
       - key: PYTHON_VERSION
         value: 3.12.7
       - key: PUBLIC_BASE_URL
-        sync: false
+        value: https://bookbot-q8jm.onrender.com
       - key: OPENAI_API_KEY
         sync: false
       - key: SMTP_HOST
