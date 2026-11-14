@@ -1,0 +1,390 @@
+{
+ "slug": "paul-s-hairdressing",
+ "website": "https://www.paulshairdressing.co.uk/420-downham-way",
+ "quality": "good",
+ "notes": "found: phone, email, address, hours, services, FAQ, prices",
+ "data": {
+  "name": "Paul's Hairdressing",
+  "website": "https://www.paulshairdressing.co.uk/420-downham-way",
+  "description": "Ladies and gents salon at 420 Downham Way, Bromley BR1, near Grove Park and Bellingham. Men walk in, cuts £18; senior cuts £12 Tuesdays.",
+  "phones": [
+   "+442086970207",
+   "+442084606424",
+   "+442086978288"
+  ],
+  "emails": [
+   "paul@paulshairdressing.co.uk"
+  ],
+  "address": "420 Downham Way, Bromley, BR1 5HR",
+  "hours": [
+   "Monday, Tuesday, Wednesday, Thursday: 09:00-18:00",
+   "Friday: 09:00-19:00",
+   "Saturday: 08:30-17:30",
+   "Monday to Thursday 9am to 6pm, Friday 9am to 7pm, and Saturday 8:30am to 5:30pm.",
+   "Mon to Wed 9:00am to 6:00pm",
+   "Thu 10:00am to 8:00pm",
+   "Fri 9:00am to 6:00pm",
+   "Sat 8:30am to 5:30pm",
+   "Sun Closed",
+   "Mon to Thu 9:00am to 6:00pm"
+  ],
+  "services": [
+   "Cut & finish",
+   "Perm",
+   "Blow dry",
+   "Perm & volume",
+   "Wet cut",
+   "Cut, shampoo & set",
+   "Shampoo & set",
+   "Tint & gloss, full head",
+   "Tint & gloss, regrowth",
+   "Hair up"
+  ],
+  "prices": [
+   "Senior citizens have a Tuesday price of £12 for a barber's cut, and we're open until 7pm on Fridays.",
+   "Senior citizens' barber cuts are £12 on Tuesdays.",
+   "A quick tidy-up of sideburns and neckline with a cut-throat finish, £15.",
+   "ghd curls upgrade from £15",
+   "Hair up from £50",
+   "A dry cut with clippers and scissors is £18, and a wash, cut and finish is £24. A beard trim is £10.",
+   "Full head highlights or lowlights are £90, half head £70. Perm and volume is £70.",
+   "A sharp skin fade for £25.",
+   "A traditional cut-throat wet shave with a hot towel, £25.",
+   "A dry cut with clippers and scissors is £18. A wash, cut and finish is £24. A skin fade is £25.",
+   "Yes. A beard trim is £12, a beard trim with a cut-throat finish is £14, and a traditional hot towel wet shave is £25."
+  ],
+  "faqs": [
+   {
+    "q": "Call a salon",
+    "a": "Which salon? 19A East Street Barbers Open six days a week 020 8460 6424 Tap to call 420 Downham Way Ladies & gents salon Open six days a week 020 8697 0207 Tap to call"
+   },
+   {
+    "q": "Can I walk in?",
+    "a": "Men can walk in for a cut. Ladies, please call 020 8697 0207 to book."
+   },
+   {
+    "q": "How much is a men’s haircut in Downham?",
+    "a": "A dry cut with clippers and scissors is £18, and a wash, cut and finish is £24. A beard trim is £10."
+   },
+   {
+    "q": "Are there senior and children’s prices?",
+    "a": "Yes. Senior citizens pay £12 for a barber's cut on Tuesdays and £15 Monday to Friday. Young gents (14 and under) are £10 on weekdays, and children under 12 from £16 for a cut. Ladies’ senior prices run Monday to Thursday, from £22 for a cut."
+   },
+   {
+    "q": "How much are highlights and perms?",
+    "a": "Full head highlights or lowlights are £90, half head £70. Perm and volume is £70."
+   },
+   {
+    "q": "When are you open?",
+    "a": "Monday to Thursday 9am to 6pm, Friday 9am to 7pm, and Saturday 8:30am to 5:30pm."
+   },
+   {
+    "q": "Not quite right?",
+    "a": "Barbers · Walk-ins welcome"
+   },
+   {
+    "q": "Call a salon",
+    "a": "Which salon? 19A East Street Barbers Open six days a week 020 8460 6424 Tap to call 420 Downham Way Ladies & gents salon Open six days a week 020 8697 0207 Tap to call"
+   },
+   {
+    "q": "Call a salon",
+    "a": "Which salon? 19A East Street Barbers Open six days a week 020 8460 6424 Tap to call 420 Downham Way Ladies & gents salon Open six days a week 020 8697 0207 Tap to call"
+   },
+   {
+    "q": "Call",
+    "a": "Which salon? 19A East Street Barbers Open six days a week 020 8460 6424 Tap to call 420 Downham Way Ladies & gents salon Open six days a week 020 8697 0207 Tap to call"
+   },
+   {
+    "q": "Barbers or salon?",
+    "a": "Two salons, one family, two different kinds of visit. Tap to call, or check who's open right now."
+   },
+   {
+    "q": "Call a salon",
+    "a": "Which salon? 19A East Street Barbers Open six days a week 020 8460 6424 Tap to call 420 Downham Way Ladies & gents salon Open six days a week 020 8697 0207 Tap to call"
+   },
+   {
+    "q": "Call",
+    "a": "Which salon? 19A East Street Barbers Open six days a week 020 8460 6424 Tap to call 420 Downham Way Ladies & gents salon Open six days a week 020 8697 0207 Tap to call"
+   },
+   {
+    "q": "Call a salon",
+    "a": "Which salon? 19A East Street Barbers Open six days a week 020 8460 6424 Tap to call 420 Downham Way Ladies & gents salon Open six days a week 020 8697 0207 Tap to call"
+   },
+   {
+    "q": "Do I need an appointment at the barbers?",
+    "a": "No. 19A East Street is walk-in: just come in during opening hours."
+   },
+   {
+    "q": "How much is a men’s haircut?",
+    "a": "A dry cut with clippers and scissors is £18. A wash, cut and finish is £24. A skin fade is £25."
+   },
+   {
+    "q": "Do you do hot towel shaves and beard trims?",
+    "a": "Yes. A beard trim is £12, a beard trim with a cut-throat finish is £14, and a traditional hot towel wet shave is £25."
+   },
+   {
+    "q": "Are there prices for pensioners and children?",
+    "a": "Yes. Senior citizens pay £13 for a dry cut, Monday to Friday. Young gents are £15 under 11 and £18 over 11, Monday to Friday. At weekends and on bank holidays the standard prices apply."
+   },
+   {
+    "q": "When are you open late?",
+    "a": "Thursdays until 8pm. Monday to Wednesday and Friday we are open 9am to 6pm, and Saturday 8:30am to 5:30pm."
+   },
+   {
+    "q": "Call a salon",
+    "a": "Which salon? 19A East Street Barbers Open six days a week 020 8460 6424 Tap to call 420 Downham Way Ladies & gents salon Open six days a week 020 8697 0207 Tap to call"
+   }
+  ],
+  "chunks": [
+   {
+    "text": "A ladies and gents salon in Downham, Bromley BR1. Men can walk in; ladies, call to book. Handy if you’re in Downham, Grove Park or Bellingham.",
+    "url": "https://www.paulshairdressing.co.uk/420-downham-way"
+   },
+   {
+    "text": "Our Downham Way salon is for ladies and gents. Men can walk in: a dry cut is £18, and there are beard trims, a neck and sides tidy-up with a cut-throat finish, and traditional hot towel wet shaves.",
+    "url": "https://www.paulshairdressing.co.uk/420-downham-way"
+   },
+   {
+    "text": "For ladies there are cuts, blow dries, colour, perms and hair up. A cut and finish is £45 and full head highlights or lowlights are £90. Call the salon to book.",
+    "url": "https://www.paulshairdressing.co.uk/420-downham-way"
+   },
+   {
+    "text": "Senior citizens have a Tuesday price of £12 for a barber's cut, and we're open until 7pm on Fridays.",
+    "url": "https://www.paulshairdressing.co.uk/420-downham-way"
+   },
+   {
+    "text": "Men walk in; ladies call to book. All at one address.",
+    "url": "https://www.paulshairdressing.co.uk/420-downham-way"
+   },
+   {
+    "text": "Senior citizens' barber cuts are £12 on Tuesdays.",
+    "url": "https://www.paulshairdressing.co.uk/420-downham-way"
+   },
+   {
+    "text": "A quick tidy-up of sideburns and neckline with a cut-throat finish, £15.",
+    "url": "https://www.paulshairdressing.co.uk/420-downham-way"
+   },
+   {
+    "text": "Open until 7pm on Fridays, and from 8:30am on Saturdays.",
+    "url": "https://www.paulshairdressing.co.uk/420-downham-way"
+   },
+   {
+    "text": "Hair cut £18 Basic dry cut with clippers and scissors",
+    "url": "https://www.paulshairdressing.co.uk/420-downham-way"
+   },
+   {
+    "text": "Basic dry cut with clippers and scissors",
+    "url": "https://www.paulshairdressing.co.uk/420-downham-way"
+   },
+   {
+    "text": "Neck & sides tidy-up £15 Sideburns, ears and neckline, with a cut-throat finish",
+    "url": "https://www.paulshairdressing.co.uk/420-downham-way"
+   },
+   {
+    "text": "Sideburns, ears and neckline, with a cut-throat finish",
+    "url": "https://www.paulshairdressing.co.uk/420-downham-way"
+   },
+   {
+    "text": "Beard trim with cut-throat finish £14 Sharp lines worked in from the cheek to the throat",
+    "url": "https://www.paulshairdressing.co.uk/420-downham-way"
+   },
+   {
+    "text": "Sharp lines worked in from the cheek to the throat",
+    "url": "https://www.paulshairdressing.co.uk/420-downham-way"
+   },
+   {
+    "text": "Traditional wet shave £25 A hot towel, cut-throat shave",
+    "url": "https://www.paulshairdressing.co.uk/420-downham-way"
+   },
+   {
+    "text": "Young gents (14 and under), Monday to Friday £10",
+    "url": "https://www.paulshairdressing.co.uk/420-downham-way"
+   },
+   {
+    "text": "Young gents (14 and under), weekends £15",
+    "url": "https://www.paulshairdressing.co.uk/420-downham-way"
+   },
+   {
+    "text": "Baby cut (4 and under), Monday to Friday £7",
+    "url": "https://www.paulshairdressing.co.uk/420-downham-way"
+   },
+   {
+    "text": "Anything else, call 420 Downham Way on 020 8697 0207.",
+    "url": "https://www.paulshairdressing.co.uk/420-downham-way"
+   },
+   {
+    "text": "Men can walk in for a cut. Ladies, please call 020 8697 0207 to book.",
+    "url": "https://www.paulshairdressing.co.uk/420-downham-way"
+   },
+   {
+    "text": "A dry cut with clippers and scissors is £18, and a wash, cut and finish is £24. A beard trim is £10.",
+    "url": "https://www.paulshairdressing.co.uk/420-downham-way"
+   },
+   {
+    "text": "Yes. Senior citizens pay £12 for a barber's cut on Tuesdays and £15 Monday to Friday. Young gents (14 and under) are £10 on weekdays, and children under 12 from £16 for a cut. Ladies’ senior prices run Monday to Thursday, from £22 for a cut.",
+    "url": "https://www.paulshairdressing.co.uk/420-downham-way"
+   },
+   {
+    "text": "Full head highlights or lowlights are £90, half head £70. Perm and volume is £70.",
+    "url": "https://www.paulshairdressing.co.uk/420-downham-way"
+   },
+   {
+    "text": "Monday to Thursday 9am to 6pm, Friday 9am to 7pm, and Saturday 8:30am to 5:30pm.",
+    "url": "https://www.paulshairdressing.co.uk/420-downham-way"
+   },
+   {
+    "text": "In Bromley town centre? Walk in to our barbers at 19A East Street.",
+    "url": "https://www.paulshairdressing.co.uk/420-downham-way"
+   },
+   {
+    "text": "Two salons, one family. Gents, pop into either salon, no appointment needed. For a ladies' cut, colour or blow dry, give Downham Way a ring.",
+    "url": "https://www.paulshairdressing.co.uk/"
+   },
+   {
+    "text": "19A East Street Barbers Open six days a week 020 8460 6424 Tap to call",
+    "url": "https://www.paulshairdressing.co.uk/"
+   },
+   {
+    "text": "420 Downham Way Ladies & gents salon Open six days a week 020 8697 0207 Tap to call",
+    "url": "https://www.paulshairdressing.co.uk/"
+   },
+   {
+    "text": "Paul's is an independent, family-run group of ladies and gents salons. The first opened in Bromley in 1978. 48 years on there are two: walk-in barbers on East Street, and a ladies and gents salon on Downham Way.",
+    "url": "https://www.paulshairdressing.co.uk/"
+   },
+   {
+    "text": "Two salons, one family, two different kinds of visit. Tap to call, or check who's open right now.",
+    "url": "https://www.paulshairdressing.co.uk/"
+   },
+   {
+    "text": "Clipper cuts, skin fades, beard trims and hot towel shaves. Walk in, no appointment needed.",
+    "url": "https://www.paulshairdressing.co.uk/"
+   },
+   {
+    "text": "Cuts, blow dries, colour, highlights, perms and hair up for special occasions, for ladies and gents. Men can walk in; ladies, call to book.",
+    "url": "https://www.paulshairdressing.co.uk/"
+   },
+   {
+    "text": "Clipper cuts, skin fades, beard trims and hot towel shaves at the barbers. Cuts, blow dries, colour, perms and hair up for ladies and gents on Downham Way. Senior and children’s prices at both.",
+    "url": "https://www.paulshairdressing.co.uk/"
+   },
+   {
+    "text": "Paul's started with one salon in Bromley in 1978. It's still independent and still family run, and it has sister businesses too: The Boutique Spa, and RP for Men barbershops in Beckenham and Locksbottom.",
+    "url": "https://www.paulshairdressing.co.uk/"
+   },
+   {
+    "text": "Find your nearest Paul's below. Both salons are open six days a week. Gents can pop into either salon; for ladies' appointments, give Downham Way a ring.",
+    "url": "https://www.paulshairdressing.co.uk/salon-locations"
+   },
+   {
+    "text": "Wash, cut & finish £24 Includes hair cleanse",
+    "url": "https://www.paulshairdressing.co.uk/salon-locations"
+   },
+   {
+    "text": "Monday to Friday. Standard prices at weekends and on bank holidays.",
+    "url": "https://www.paulshairdressing.co.uk/salon-locations"
+   },
+   {
+    "text": "Clipper cuts, skin fades, beard trims and hot towel shaves. No appointment needed: just walk in.",
+    "url": "https://www.paulshairdressing.co.uk/19a-east-street"
+   },
+   {
+    "text": "Our barbers at 19A East Street is walk-in, so there's nothing to book. Come in when it suits you, six days a week, and until 8pm on Thursdays.",
+    "url": "https://www.paulshairdressing.co.uk/19a-east-street"
+   },
+   {
+    "text": "A dry cut with clippers and scissors is £18, or £24 with a wash and finish. Skin fades are £25. For the beard there's a trim, a trim with a cut-throat finish to sharpen the lines from cheek to throat, or the full traditional wet shave with a hot towel.",
+    "url": "https://www.paulshairdressing.co.uk/19a-east-street"
+   },
+   {
+    "text": "Senior citizens get their own prices Monday to Friday, and there are prices for young gents and first haircuts too.",
+    "url": "https://www.paulshairdressing.co.uk/19a-east-street"
+   },
+   {
+    "text": "No appointment needed. Pop in whenever suits you.",
+    "url": "https://www.paulshairdressing.co.uk/19a-east-street"
+   },
+   {
+    "text": "A traditional cut-throat wet shave with a hot towel, £25.",
+    "url": "https://www.paulshairdressing.co.uk/19a-east-street"
+   },
+   {
+    "text": "Open until 8pm on Thursdays, and from 8:30am on Saturdays.",
+    "url": "https://www.paulshairdressing.co.uk/19a-east-street"
+   },
+   {
+    "text": "Anything else, call 19A East Street on 020 8460 6424.",
+    "url": "https://www.paulshairdressing.co.uk/19a-east-street"
+   },
+   {
+    "text": "No. 19A East Street is walk-in: just come in during opening hours.",
+    "url": "https://www.paulshairdressing.co.uk/19a-east-street"
+   },
+   {
+    "text": "A dry cut with clippers and scissors is £18. A wash, cut and finish is £24. A skin fade is £25.",
+    "url": "https://www.paulshairdressing.co.uk/19a-east-street"
+   },
+   {
+    "text": "Yes. A beard trim is £12, a beard trim with a cut-throat finish is £14, and a traditional hot towel wet shave is £25.",
+    "url": "https://www.paulshairdressing.co.uk/19a-east-street"
+   },
+   {
+    "text": "Yes. Senior citizens pay £13 for a dry cut, Monday to Friday. Young gents are £15 under 11 and £18 over 11, Monday to Friday. At weekends and on bank holidays the standard prices apply.",
+    "url": "https://www.paulshairdressing.co.uk/19a-east-street"
+   },
+   {
+    "text": "Thursdays until 8pm. Monday to Wednesday and Friday we are open 9am to 6pm, and Saturday 8:30am to 5:30pm.",
+    "url": "https://www.paulshairdressing.co.uk/19a-east-street"
+   },
+   {
+    "text": "After a cut and blow dry, or colour? Our Downham Way salon is for ladies and gents, and men can walk in there too.",
+    "url": "https://www.paulshairdressing.co.uk/19a-east-street"
+   },
+   {
+    "text": "An independent, family-run group of two Bromley salons: walk-in barbers at 19A East Street and a ladies and gents salon at 420 Downham Way. Independent since the first one opened in 1978.",
+    "url": "https://www.paulshairdressing.co.uk/about-us"
+   },
+   {
+    "text": "It started with one salon in Bromley in 1978. 48 years later Paul's is still independent and still family run, with two salons of its own and two sister businesses nearby.",
+    "url": "https://www.paulshairdressing.co.uk/about-us"
+   },
+   {
+    "text": "Whether it's a quick clipper cut at the barbers or a full colour at the salon, the idea is the same: the look you want, done properly, by people who've been doing it in Bromley for a long time.",
+    "url": "https://www.paulshairdressing.co.uk/about-us"
+   },
+   {
+    "text": "Paul's has two sister businesses nearby, run as their own companies.",
+    "url": "https://www.paulshairdressing.co.uk/about-us"
+   },
+   {
+    "text": "Pop in or give us a call. We'd love to meet you.",
+    "url": "https://www.paulshairdressing.co.uk/about-us"
+   },
+   {
+    "text": "Whether you're an experienced stylist or just starting out, if you've got the enthusiasm and the passion, we'd like to hear from you.",
+    "url": "https://www.paulshairdressing.co.uk/recruitment"
+   },
+   {
+    "text": "We work closely with a number of well-renowned colleges, so the training happens both in the salon and in the classroom.",
+    "url": "https://www.paulshairdressing.co.uk/recruitment"
+   },
+   {
+    "text": "Full apprenticeships that take you to NVQ Level 2, with training in the salon and in the classroom through the colleges we work with.",
+    "url": "https://www.paulshairdressing.co.uk/recruitment"
+   },
+   {
+    "text": "Already qualified and after a new challenge? We are always looking for good people at every level.",
+    "url": "https://www.paulshairdressing.co.uk/recruitment"
+   },
+   {
+    "text": "Specialist day courses in styling and colouring, so the learning does not stop once you qualify.",
+    "url": "https://www.paulshairdressing.co.uk/recruitment"
+   },
+   {
+    "text": "Send us your CV with a covering letter telling us about your experience and why you want to work at Paul's. Or give us a call.",
+    "url": "https://www.paulshairdressing.co.uk/recruitment"
+   }
+  ]
+ },
+ "generated_at": "2026-11-14 16:43"
+}

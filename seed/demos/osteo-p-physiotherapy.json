@@ -1,0 +1,103 @@
+{
+ "slug": "osteo-p-physiotherapy",
+ "website": "https://www.osteo-p.com/physiotherapy",
+ "quality": "good",
+ "notes": "found: phone, email, address, hours, services, prices; missing: FAQ; skipped /book: HTTPSConnectionPool(host='www.osteo-p.com', port=443): Read timed out. (read tim",
+ "data": {
+  "name": "Osteo-P Physiotherapy",
+  "website": "https://www.osteo-p.com/physiotherapy",
+  "description": "Mobile Physiotherapy in your home or workplace, Enniskerry , North Wicklow and South Dublin. Specialist in Sports Injuries, back, neck pain and Osteoporosis. One hour consultations, Full evaluation, treatment and management. Best exercises for osteoporosisi and bone health",
+  "phones": [
+   "089 602 1425"
+  ],
+  "emails": [
+   "info@osteo-p.com"
+  ],
+  "address": "Monastery Enniskerry, Wicklow Ireland",
+  "hours": [
+   "Mo 09:00-14:00, Tu 09:00-21:00, We 09:00-14:00, Th 09:00-14:00, Fr 09:00-14:00",
+   "Operating Hours: Monday to Friday 9am -6pm"
+  ],
+  "services": [
+   "New patient initial consultation",
+   "Back and Neck Pain",
+   "Hip and Knee Pain",
+   "Foot and Ankle Pain",
+   "Sport Injuries",
+   "Osteoporosis",
+   "Functional Screening",
+   "Injury Rehabilitation",
+   "Falls Prevention",
+   "Parkinson’s Disease"
+  ],
+  "prices": [
+   "New patient initial evaluation: €90 — 1-hour home visit with a personalised exercise plan.",
+   "Follow-up consultations: €85 — 1-hour home visit with exercise review.",
+   "New patient initial consultation: €90 — 1-hour home visit with a personalised exercise plan."
+  ],
+  "faqs": [],
+  "chunks": [
+   {
+    "text": "New patient initial evaluation: €90 — 1-hour home visit with a personalised exercise plan.",
+    "url": "https://www.osteo-p.com/physiotherapy"
+   },
+   {
+    "text": "Follow-up consultations: €85 — 1-hour home visit with exercise review.",
+    "url": "https://www.osteo-p.com/physiotherapy"
+   },
+   {
+    "text": "Pre and Post Surgical Orthopaedic Conditions",
+    "url": "https://www.osteo-p.com/physiotherapy"
+   },
+   {
+    "text": "Osteoporosis/Bone Health/Falls Prevention",
+    "url": "https://www.osteo-p.com/physiotherapy"
+   },
+   {
+    "text": "You will first discuss your condition with your physiotherapist including the history, symptoms and any other ongoing health conditions.",
+    "url": "https://www.osteo-p.com/physiotherapy"
+   },
+   {
+    "text": "You will be asked to perform certain movements that will allow your physiotherapist to examine your condition.",
+    "url": "https://www.osteo-p.com/physiotherapy"
+   },
+   {
+    "text": "Your physiotherapist will then discuss the findings of your assessment in detail and provide information and advice regarding your condition.",
+    "url": "https://www.osteo-p.com/physiotherapy"
+   },
+   {
+    "text": "Exercises and advice will be prescribed to improve your condition by your physiotherapist",
+    "url": "https://www.osteo-p.com/physiotherapy"
+   },
+   {
+    "text": "New patient initial consultation: €90 — 1-hour home visit with a personalised exercise plan.",
+    "url": "https://www.osteo-p.com/services"
+   },
+   {
+    "text": "Pre and Post Reconstruction and Joint Replacement",
+    "url": "https://www.osteo-p.com/services"
+   },
+   {
+    "text": "Justine Brook is an Enniskerry based Chartered Physiotherapist with over thirty years of experience. She graduated in 1991 from Leeds School of Physiotherapy and has worked in England, Ireland and America. She started working in private practice in Ireland in 1997 specialising in Sports and Orthopaedic Medicine. She then travelled to study in Australia and was awarded a Masters degree from the University of Western Australia in Perth in 2003.",
+    "url": "https://www.osteo-p.com/about"
+   },
+   {
+    "text": "Justine has a wealth of experience treating sport injuries and has acted as physiotherapist at Inter County level for both GAA football and hurling. She was physiotherapist to the Wicklow Senior football team in 1999 to 2000, the Dublin Senior football team in 2001 and the Dublin Senior hurling team in 2004. In 2018 she was involved in the screening, treating and developing of corrective programmes for the Wexford Senior hurling team.",
+    "url": "https://www.osteo-p.com/about"
+   },
+   {
+    "text": "In 2014 she completed and is certified in a specialised training programme with FMS (Functional Movement Screen) with Gray Cook which she uses to evaluate patients with complex movement dysfunctions. She has attended and continues to attend multiple postgraduate courses on musculoskeletal injuries, osteoporosis, PD warrior training for the management of Parkinson’s Disease and strength and conditioning from some of the leading specialists in the world. Justine is passionate in delivering the most appropriate, current and research based management and treatment programmes to her patients.",
+    "url": "https://www.osteo-p.com/about"
+   },
+   {
+    "text": "As a qualified Pilates instructor she specialises in Clinical Pilates. She works with clients with a history of sports injuries, spinal pain, osteoporosis, joint and myofascial injuries. She also teaches progressive resistance strength training and falls preventive strategies for individuals and small groups based on current research.",
+    "url": "https://www.osteo-p.com/about"
+   },
+   {
+    "text": "Justine uses her knowledge and practice in strength training and Pilates to help her continue to enjoy her own participation in running and open water swimming.",
+    "url": "https://www.osteo-p.com/about"
+   }
+  ]
+ },
+ "generated_at": "2026-11-14 16:43"
+}

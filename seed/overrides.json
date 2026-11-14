@@ -1,0 +1,12 @@
+{
+ "_comment": "Hand-curated fixes for demo assistants, applied by scripts/make_demos.py after scraping. Only facts visible on each business's own website.",
+ "barna-village-dental": {"services": ["Check-ups", "Hygiene / scale & polish", "Fillings", "Teeth whitening", "Orthodontics", "Root canal treatment", "Crowns", "Veneers", "Dentures", "Extractions"]},
+ "easy-tyres-autos-ltd": {"services": ["New tyres", "Used tyres", "Car servicing (all makes and models)", "Brakes", "Exhausts", "Auto parts"]},
+ "roker-park-vets": {"services": ["Consultations", "Vaccinations", "Diagnostic imaging", "Neutering", "Microchipping", "Nurse clinics", "Out-of-hours emergencies (via Wear Referrals)"]},
+ "bridgeyate-motor-services-ltd": {"services": ["MOT testing", "Car servicing", "Repairs", "Diagnostics", "Light commercial vehicle servicing"]},
+ "custom-maids": {"services": ["Regular house cleaning (weekly, bi-weekly, monthly)", "One-time deep cleaning", "Move-out cleaning", "Commercial cleaning", "Airbnb turnover cleaning", "Hoarding cleanup", "Free estimates"]},
+ "manchester-learners": {"services": ["Automatic lessons", "Automatic intensive courses", "Full beginner programme", "Semi-beginner courses", "Mock tests"]},
+ "manchester-one-driving-school": {"services": ["Single lessons", "Block bookings", "Manual lessons", "Automatic lessons", "Beginner drivers", "Nervous drivers", "Test preparation"]},
+ "mancunian-driving-school": {"services": ["Manual driving lessons", "Automatic driving lessons", "10-hour lesson packages", "Intensive tuition", "Test preparation"]},
+ "oakthorpe-dental": {"services": ["Dental examinations", "Dental implants", "Tooth whitening", "Crowns and veneers", "Invisalign", "Initial consultation"]}
+}

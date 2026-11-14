@@ -1,0 +1,41 @@
+# Render Blueprint: Render dashboard -> New -> Blueprint -> connect GitHub repo senv1x/bookbot -> Apply.
+# Free plan: sleeps after ~15 min idle (first request ~30-60 s) and the disk is ephemeral: assistants created via the
+# landing page and booking requests reset on restart/redeploy. Seeded demos (seed/demos/*.json) reload on every boot.
+# Every booking is also emailed (set SMTP_*), so nothing is lost once SMTP is on. For paying clients: Starter plan + disk.
+services:
+  - type: web
+    name: bookbot
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: python server.py
+    healthCheckPath: /healthz
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12.7
+      - key: PUBLIC_BASE_URL
+        sync: false
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: SMTP_HOST
+        sync: false
+      - key: SMTP_PORT
+        value: "465"
+      - key: SMTP_USER
+        sync: false
+      - key: SMTP_PASS
+        sync: false
+      - key: SMTP_FROM
+        sync: false
+      - key: SETUP_REQUEST_TO
+        value: shipfastlabs.dev@gmail.com
+      - key: STRIPE_LINK_STARTER
+        sync: false
+      - key: STRIPE_LINK_PRO
+        sync: false
+      - key: STRIPE_LINK_SETUP
+        sync: false
+      - key: ADMIN_TOKEN
+        generateValue: true
+      - key: SEED_ADMIN_SECRET
+        generateValue: true

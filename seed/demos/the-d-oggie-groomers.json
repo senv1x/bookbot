@@ -1,0 +1,379 @@
+{
+ "slug": "the-d-oggie-groomers",
+ "website": "https://thedoggiegroomers.com/contact/",
+ "quality": "good",
+ "notes": "found: phone, email, address, hours, services, prices; missing: FAQ",
+ "data": {
+  "name": "The D'oggie Groomers",
+  "website": "https://thedoggiegroomers.com/contact/",
+  "description": "Get in Touch with Julie at The D'oggie GroomersCall or message to book your dog’s next appointment — friendly, professional grooming in the heart of Jarrow. First Name Last Name Email Message Send MessageThe form has been submitted successfully!There has been some error while submitting the form. Pl",
+  "phones": [
+   "07518 067 318"
+  ],
+  "emails": [
+   "contact@thedoggiegroomers.com"
+  ],
+  "address": "Bede Precinct, Viking Centre, Jarrow, NE32 3LB",
+  "hours": [
+   "Tuesday: 09:00 – 18:00",
+   "Wednesday: 09:00 – 18:00",
+   "Thursday: 09:00 – 18:00",
+   "Friday: Closed",
+   "Saturday: Closed",
+   "Sunday: Closed"
+  ],
+  "services": [
+   "Full Groom",
+   "Puppy Groom",
+   "Flea Treatment & Salon Deep Clean",
+   "Bath, Brush & Tidy Up",
+   "Short-Coat Deshedding",
+   "Long-Coat Deshedding",
+   "Hand Stripping",
+   "Teeth Cleaning (Add-On)",
+   "Dematting",
+   "Shaving of Pelted or Severely Matted Coats"
+  ],
+  "prices": [
+   "From: Toy: £39",
+   "Small: £46",
+   "Medium: £49",
+   "Large: £61",
+   "Extra Large: £70",
+   "From: Toy: £29",
+   "Small: £35",
+   "Medium: £40",
+   "Large: £45",
+   "Extra Large: £50",
+   "From: Toy: £35",
+   "Small: £45",
+   "Medium: £55",
+   "Large: £65",
+   "£10 added to full groom"
+  ],
+  "faqs": [],
+  "chunks": [
+   {
+    "text": "Call or message to book your dog’s next appointment — friendly, professional grooming in the heart of Jarrow.",
+    "url": "https://thedoggiegroomers.com/contact/"
+   },
+   {
+    "text": "Here’s how you can contact me for bookings, any questions or concerns.",
+    "url": "https://thedoggiegroomers.com/contact/"
+   },
+   {
+    "text": "Bede Precinct, Viking Centre, Jarrow, NE32 3LB",
+    "url": "https://thedoggiegroomers.com/contact/"
+   },
+   {
+    "text": "Everything you need to message, call or reserve your appointment",
+    "url": "https://thedoggiegroomers.com/contact/"
+   },
+   {
+    "text": "Monday: Appointment Only Tuesday: 09:00 – 18:00 Wednesday: 09:00 – 18:00 Thursday: 09:00 – 18:00 Friday: Closed Saturday: Closed Sunday: Closed",
+    "url": "https://thedoggiegroomers.com/"
+   },
+   {
+    "text": "Bede Precinct Viking Centre Jarrow NE32 3LQ",
+    "url": "https://thedoggiegroomers.com/"
+   },
+   {
+    "text": "Explore a wide range of services tailored to your needs.",
+    "url": "https://thedoggiegroomers.com/"
+   },
+   {
+    "text": "A complete head-to-tail groom including a health check, wash, dry, haircut, and style suited to your dog’s needs.",
+    "url": "https://thedoggiegroomers.com/"
+   },
+   {
+    "text": "Ideal for a freshen-up between grooms — includes a full brush-out, wash, dry, and tidy-up of key areas.",
+    "url": "https://thedoggiegroomers.com/"
+   },
+   {
+    "text": "A gentle introduction for young dogs — helping them build confidence and enjoy their first grooming experience.",
+    "url": "https://thedoggiegroomers.com/"
+   },
+   {
+    "text": "Removes loose fur and undercoat, leaving your dog’s coat smooth, clean, and fully dried.",
+    "url": "https://thedoggiegroomers.com/"
+   },
+   {
+    "text": "For nervous, matted, or flea-affected dogs — handled with patience, professionalism, and understanding.",
+    "url": "https://thedoggiegroomers.com/"
+   },
+   {
+    "text": "Non-invasive dental care using a dog-safe brush and toothpaste to keep teeth and gums healthy.",
+    "url": "https://thedoggiegroomers.com/"
+   },
+   {
+    "text": "That’s why each appointment is tailored to their coat, comfort, and temperament.",
+    "url": "https://thedoggiegroomers.com/"
+   },
+   {
+    "text": "Caring, experienced, and proudly independent — because every dog deserves time, patience, and genuine care.",
+    "url": "https://thedoggiegroomers.com/"
+   },
+   {
+    "text": "I’m Julie — Jarrow born and bred. The D’oggie Groomers is an independent salon built on passion, skill, and care — not targets or turnover. When you book here, you’re supporting a small local business that treats every dog like family.",
+    "url": "https://thedoggiegroomers.com/"
+   },
+   {
+    "text": "With years of hands-on grooming and City & Guilds qualifications , I combine expertise with compassion. As a former grooming lecturer, I understand how to adapt to every dog’s temperament and make them feel at ease.",
+    "url": "https://thedoggiegroomers.com/"
+   },
+   {
+    "text": "Every appointment is one dog at a time — quiet, safe, and unrushed. I take time to understand each dog’s comfort level, building trust through gentle handling and patience.",
+    "url": "https://thedoggiegroomers.com/"
+   },
+   {
+    "text": "Located in Jarrow’s Viking Centre, the salon is spotless, secure, and designed with your dog’s safety in mind. Every visit includes a quick health check and coat review for ongoing wellbeing.",
+    "url": "https://thedoggiegroomers.com/"
+   },
+   {
+    "text": "You’ll always receive clear communication, fair pricing, and practical advice. I’ll discuss your dog’s coat, temperament, and any concerns before we start — so you know exactly what to expect.",
+    "url": "https://thedoggiegroomers.com/"
+   },
+   {
+    "text": "This isn’t just my job — it’s what I love. Every dog leaves the salon cared for, comfortable, and looking their best. Because here at The D’oggie Groomers , it’s not just grooming — it’s personal.",
+    "url": "https://thedoggiegroomers.com/"
+   },
+   {
+    "text": "Here’s what my lovely clients have to say about their experience at The D’oggie Groomers. You can read more reviews and see the latest feedback on Facebook page .",
+    "url": "https://thedoggiegroomers.com/"
+   },
+   {
+    "text": "Julie has been grooming my gorgeous cocker spaniel Coco for years now and I wouldn’t go anywhere else. Coco is quite a timid old dog and at 14 years she shys away from other dogs and has recently had a stroke earlier in the year. Julie takes her time with her and is very caring, not to mention an excellent groomer. I would recommend her 100%.",
+    "url": "https://thedoggiegroomers.com/"
+   },
+   {
+    "text": "My Toffee is a little diva who first strutted into Julie’s shop at 14 weeks for her first puppy trim. Almost two years later she still struts in as if she owns the place but she loves Julie and always comes out looking like a princess! How she works her magic on this little diva, who knows, but Julie just clicks with all of her dogs. I wouldn’t trust anyone else with my Toffee.",
+    "url": "https://thedoggiegroomers.com/"
+   },
+   {
+    "text": "I have been taking my dogs to Julie for the last 5 years. They love going and always look and smell great when I pick them up.",
+    "url": "https://thedoggiegroomers.com/"
+   },
+   {
+    "text": "Julie has groomed my Willow for several years, I know she is in the best of care, she goes in like a scruff and returns looking like a princess. Julie always does an amazing job, I wouldn’t go anywhere else.",
+    "url": "https://thedoggiegroomers.com/"
+   },
+   {
+    "text": "Professional, one-to-one dog grooming in Jarrow — tailored to your dog’s breed, coat type and comfort level. Every dog is different, and so is every groom. At The Doggie Groomers , I take time to understand your dog’s coat, temperament, and individual needs before we begin. All appointments are one-to-one, calm, and unhurried — ensuring your dog feels safe, relaxed, and leaves looking their best.",
+    "url": "https://thedoggiegroomers.com/services/"
+   },
+   {
+    "text": "A complete head-to-tail groom designed to leave your dog clean, healthy and comfortable. Includes:",
+    "url": "https://thedoggiegroomers.com/services/"
+   },
+   {
+    "text": "Perfect for in-between appointments or short-coated breeds that need a refresh. Includes:",
+    "url": "https://thedoggiegroomers.com/services/"
+   },
+   {
+    "text": "A gentle introduction to grooming for puppies from 12 weeks old (after vaccinations). Includes:",
+    "url": "https://thedoggiegroomers.com/services/"
+   },
+   {
+    "text": "Ideal for short-haired breeds that shed frequently, such as Pugs, Labradors, and Beagles. This treatment removes loose fur and dander while keeping the coat smooth and glossy. Includes:",
+    "url": "https://thedoggiegroomers.com/services/"
+   },
+   {
+    "text": "Perfect for long or double-coated breeds like Retrievers, Collies, or Huskies. This helps prevent matting, improves coat airflow and reduces shedding at home. Includes:",
+    "url": "https://thedoggiegroomers.com/services/"
+   },
+   {
+    "text": "For wire-coated breeds where texture and colour are best maintained naturally. Important: Please let me know if your dog has been clipped, spayed or neutered, as this can affect coat suitability. Includes:",
+    "url": "https://thedoggiegroomers.com/services/"
+   },
+   {
+    "text": "Gentle, non-invasive dental care to maintain oral hygiene and reduce bacteria. Any tartar requiring invasive treatment should be seen by a vet — I’ll happily advise if needed Includes:",
+    "url": "https://thedoggiegroomers.com/services/"
+   },
+   {
+    "text": "Every dog is different — these services are designed to give that extra bit of care when it’s needed most.",
+    "url": "https://thedoggiegroomers.com/services/"
+   },
+   {
+    "text": "For dogs with light matting or tangles. I work gently and patiently to ease out knots, keeping your dog relaxed throughout. If the coat is severely matted or causing discomfort, a shorter clip may be required under the Animal Welfare Act 2006 to avoid pain or stress. Heavy matting can also blunt grooming blades, so addressing it early helps keep the process smoother and safer.",
+    "url": "https://thedoggiegroomers.com/services/"
+   },
+   {
+    "text": "When a dog’s coat becomes so matted that brushing would cause discomfort, clipping is the safest and most considerate way to deal with it. Working through a pelted or severely tangled coat takes steady concentration and can dull blades quickly, but the focus remains on keeping your dog as comfortable as possible. After the groom, we will talk through coat care and suitable grooming intervals to help prevent the matting from returning.",
+    "url": "https://thedoggiegroomers.com/services/"
+   },
+   {
+    "text": "If fleas are found during a groom, I will finish the appointment where it is safe to do so, treat your dog, and then carry out a full salon fumigation and deep clean. This requires the use of specialist, expensive chemicals, and any affected items must be thrown away to maintain proper hygiene and safety. If you know your dog has fleas before your appointment, please contact me in advance so I can arrange a suitable time for the visit.",
+    "url": "https://thedoggiegroomers.com/services/"
+   },
+   {
+    "text": "Some dogs need a little extra patience — and that’s perfectly fine. I take my time with each dog, using calm, quiet handling and recognised comfort methods such as towels or soft cones when needed. Each appointment is unrushed and designed around your dog’s comfort level.",
+    "url": "https://thedoggiegroomers.com/services/"
+   },
+   {
+    "text": "From first-time visitors to returning regulars, every dog leaves looking and feeling their best.",
+    "url": "https://thedoggiegroomers.com/services/"
+   },
+   {
+    "text": "I want you and your dog to feel completely comfortable before, during and after every visit. Here are some of the most common questions clients ask before booking.",
+    "url": "https://thedoggiegroomers.com/frequently-asked-questions/"
+   },
+   {
+    "text": "Find out more about the grooming services I offer and how I tailor every appointment to suit your dog’s needs.",
+    "url": "https://thedoggiegroomers.com/frequently-asked-questions/"
+   },
+   {
+    "text": "I offer a full range of dog grooming services, including full grooms, bath and brush sessions, puppy grooms, deshedding for short and long coats, hand stripping, teeth cleaning, and special care options such as dematting or flea treatment. You can find detailed descriptions on the Services page.",
+    "url": "https://thedoggiegroomers.com/frequently-asked-questions/"
+   },
+   {
+    "text": "Yes — I groom dogs of all sizes, from tiny toy breeds to large and extra-large dogs. Every appointment is one-to-one, so your dog has my full attention regardless of their size. Pricing and grooming time vary depending on coat condition, behaviour, and breed, and I’ll always confirm costs during your consultation.",
+    "url": "https://thedoggiegroomers.com/frequently-asked-questions/"
+   },
+   {
+    "text": "Yes — I welcome all breeds , from small short-haired companions to long, curly or double-coated dogs. Each breed has its own coat type and grooming needs, so every appointment is tailored to your dog’s comfort and coat condition. I’m experienced in handling everything from Poodles, Spaniels, and Terriers to Labradors, Doodles, Retrievers, and mixed breeds. Whether your dog needs a tidy-up, full scissor trim, hand strip, or deshed, I’ll make sure they leave looking and feeling their best. If you’re unsure what type of groom is best for your dog, I’m happy to advise during your consultation.",
+    "url": "https://thedoggiegroomers.com/frequently-asked-questions/"
+   },
+   {
+    "text": "Yes. I’m City & Guilds qualified with years of experience in professional dog grooming, training and teaching. I also hold a Canine Dental qualification for safe, professional teeth cleaning.",
+    "url": "https://thedoggiegroomers.com/frequently-asked-questions/"
+   },
+   {
+    "text": "Do you groom nervous, reactive or elderly dogs?",
+    "url": "https://thedoggiegroomers.com/frequently-asked-questions/"
+   },
+   {
+    "text": "Absolutely. Every dog is handled calmly, gently and with patience. For nervous or reactive dogs, I may use recognised comfort and safety methods — such as a towel wrap or a soft cone — to ensure both your dog’s safety and comfort.",
+    "url": "https://thedoggiegroomers.com/frequently-asked-questions/"
+   },
+   {
+    "text": "Yes. Every dog is groomed individually, ensuring a calm, quiet and stress-free experience without distractions from other dogs.",
+    "url": "https://thedoggiegroomers.com/frequently-asked-questions/"
+   },
+   {
+    "text": "Everything you need to know before, during and after your dog’s visit.",
+    "url": "https://thedoggiegroomers.com/frequently-asked-questions/"
+   },
+   {
+    "text": "It depends on your dog’s coat, size, and temperament, but most appointments take between 1.5 and 3 hours. I’ll give you an estimated time when you drop your dog off.",
+    "url": "https://thedoggiegroomers.com/frequently-asked-questions/"
+   },
+   {
+    "text": "What should I do before bringing my dog?",
+    "url": "https://thedoggiegroomers.com/frequently-asked-questions/"
+   },
+   {
+    "text": "Please make sure your dog has been walked, had a toilet break, and arrives on a secure lead. If your dog has fleas or any health issues, let me know before your appointment.",
+    "url": "https://thedoggiegroomers.com/frequently-asked-questions/"
+   },
+   {
+    "text": "Do I need to stay during the appointment?",
+    "url": "https://thedoggiegroomers.com/frequently-asked-questions/"
+   },
+   {
+    "text": "No — dogs usually relax better without their owner present. You’re welcome to chat through your dog’s needs during drop-off, and I’ll let you know when they’re ready for collection.",
+    "url": "https://thedoggiegroomers.com/frequently-asked-questions/"
+   },
+   {
+    "text": "Most dogs benefit from grooming every 6 to 8 weeks, though some shorter-coated breeds may need less frequent sessions. Regular grooming keeps coats healthy and easier to manage.",
+    "url": "https://thedoggiegroomers.com/frequently-asked-questions/"
+   },
+   {
+    "text": "Yes, and it’s encouraged. Regular grooms mean less time spent detangling or managing overgrowth — which keeps your dog comfortable and your costs consistent.",
+    "url": "https://thedoggiegroomers.com/frequently-asked-questions/"
+   },
+   {
+    "text": "How I keep every dog safe, happy and healthy — from coat checks to specialist care.",
+    "url": "https://thedoggiegroomers.com/frequently-asked-questions/"
+   },
+   {
+    "text": "Yes — I offer non-invasive teeth cleaning using a disposable toothbrush and dog-friendly toothpaste to help reduce bacteria and freshen breath. If I notice tartar build-up that needs deeper treatment, I’ll advise you to visit your vet.",
+    "url": "https://thedoggiegroomers.com/frequently-asked-questions/"
+   },
+   {
+    "text": "If fleas are found during grooming, I’ll treat your dog, deep clean the salon, and safely dispose of affected materials. An additional cleaning fee will apply. If you know your dog has fleas before the appointment, please call ahead so I can arrange a separate slot.",
+    "url": "https://thedoggiegroomers.com/frequently-asked-questions/"
+   },
+   {
+    "text": "If matting is mild, I’ll remove it gently by brushing. Severe matting may require shaving, in line with the Animal Welfare Act 2006, as it can be painful to remove otherwise.",
+    "url": "https://thedoggiegroomers.com/frequently-asked-questions/"
+   },
+   {
+    "text": "What happens if my dog is nervous or becomes anxious during the groom?",
+    "url": "https://thedoggiegroomers.com/frequently-asked-questions/"
+   },
+   {
+    "text": "Every dog is different, so I always work at their pace. Before we begin, I take time to help your dog settle and build trust. During the groom, I watch their body language closely and adapt as needed. If your dog becomes anxious or reactive, I’ll pause, give them space, and use calm handling techniques to help them feel safe. I may use a comfort towel or soft cone if needed — but I’ll never force a dog through anything that causes distress. Their wellbeing always comes first.",
+    "url": "https://thedoggiegroomers.com/frequently-asked-questions/"
+   },
+   {
+    "text": "Yes — it’s absolutely fine to bring your dog if she’s in season, as long as she’s comfortable and happy to be groomed. Every dog reacts differently during this time. Some feel no change at all, while others may be a little more sensitive or unsettled. If your dog is relaxed and coping well, I’m more than happy to go ahead with her groom. Alternatively, if she seems uncomfortable or you’d prefer to wait until she’s out of season, I can happily rearrange the appointment for a later date. It’s all about what’s best for her",
+    "url": "https://thedoggiegroomers.com/frequently-asked-questions/"
+   },
+   {
+    "text": "How to book, pay and find me at the Viking Centre in Jarrow.",
+    "url": "https://thedoggiegroomers.com/frequently-asked-questions/"
+   },
+   {
+    "text": "You can book by: 📞 Calling or texting: 07518 067 318 💬 Facebook: @thed’oggiegroomers",
+    "url": "https://thedoggiegroomers.com/frequently-asked-questions/"
+   },
+   {
+    "text": "I accept cash or bank transfer. I don’t use card machines — this helps keep costs low and prices fair for everyone.",
+    "url": "https://thedoggiegroomers.com/frequently-asked-questions/"
+   },
+   {
+    "text": "Please provide at least 48 hours’ notice if you need to cancel. Cancellations within 48 hours may incur a 50% fee, and missed appointments may be charged in full.",
+    "url": "https://thedoggiegroomers.com/frequently-asked-questions/"
+   },
+   {
+    "text": "You’ll find the salon in Jarrow’s Viking Centre, between Franks Carpets and Rosie’s Café, directly opposite New Look.",
+    "url": "https://thedoggiegroomers.com/frequently-asked-questions/"
+   },
+   {
+    "text": "Yes — there’s free parking in the Viking Centre car park and on-street parking on Grange Road, just a short walk from the salon.",
+    "url": "https://thedoggiegroomers.com/frequently-asked-questions/"
+   },
+   {
+    "text": "When you arrive, please ring the doorbell and wait. The door is on a magnetic release system, and I’ll open it once all dogs inside are safe and secure.",
+    "url": "https://thedoggiegroomers.com/frequently-asked-questions/"
+   },
+   {
+    "text": "If you have any other queries, feel free to reach out to us. Our knowledgeable team is here to help!",
+    "url": "https://thedoggiegroomers.com/frequently-asked-questions/"
+   },
+   {
+    "text": "See the freshly groomed dogs who left looking and feeling their best.",
+    "url": "https://thedoggiegroomers.com/frequently-asked-questions/"
+   },
+   {
+    "text": "Caring hands, wagging tails, and a little help from family — meet the people (and pups) who make it all happen.",
+    "url": "https://thedoggiegroomers.com/about/"
+   },
+   {
+    "text": "Jarrow born and bred, City & Guilds qualified, and devoted to making every dog look and feel their best.",
+    "url": "https://thedoggiegroomers.com/about/"
+   },
+   {
+    "text": "It’s not just me — here’s the small but mighty team that keeps tails wagging and smiles shining at the salon.",
+    "url": "https://thedoggiegroomers.com/about/"
+   },
+   {
+    "text": "After 30 years in the Fire Service, Alfie has swapped fire engines for fur babies. He’s the calm, steady hand behind the scenes — always ready with a bit of DIY, a good brew, and plenty of encouragement. Whether it’s setting up the salon or joining in on our camper van adventures, Alfie keeps everything running smoothly.",
+    "url": "https://thedoggiegroomers.com/about/"
+   },
+   {
+    "text": "Eddie was my first Cavapoo and the reason I fell in love with grooming in the first place. Named after my mam, Edna, he’s loyal, gentle, and always watching over the salon (usually from the comfiest seat in the house). Eddie taught me patience, kindness, and that every dog deserves to feel their best.",
+    "url": "https://thedoggiegroomers.com/about/"
+   },
+   {
+    "text": "Named after my stepdad, Ogie is our cheeky Cavapoo and the heart of the salon’s name — The D’oggie Groomers. He’s playful, full of personality, and loves meeting new people (and dogs). When he’s not greeting clients, he’s usually stealing cuddles or posing for photos.",
+    "url": "https://thedoggiegroomers.com/about/"
+   },
+   {
+    "text": "Beautifully groomed with care comfort and expertise",
+    "url": "https://thedoggiegroomers.com/about/"
+   }
+  ]
+ },
+ "generated_at": "2026-11-14 16:43"
+}

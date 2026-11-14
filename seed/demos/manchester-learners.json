@@ -1,0 +1,242 @@
+{
+ "slug": "manchester-learners",
+ "website": "https://www.manchesterlearners.co.uk/contact",
+ "quality": "good",
+ "notes": "found: phone, email, address, hours, services, FAQ, prices; services curated by hand",
+ "data": {
+  "name": "Manchester Learners",
+  "website": "https://www.manchesterlearners.co.uk/contact",
+  "description": "Get in touch with Manchester Learners driving school. Book your driving lessons, ask questions, or find out more about our services. Contact us via phone, email, or WhatsApp.",
+  "phones": [
+   "07720 883959"
+  ],
+  "emails": [
+   "info@manchesterlearners.co.uk"
+  ],
+  "address": "Darley Avenue, Manchester, M21 7JE",
+  "hours": [
+   "Mon-Sun: 8AM-8PM"
+  ],
+  "services": [
+   "Automatic lessons",
+   "Automatic intensive courses",
+   "Full beginner programme",
+   "Semi-beginner courses",
+   "Mock tests"
+  ],
+  "prices": [
+   "Automatic Lessons From £35/hr",
+   "Intensive Automatic Courses From £399",
+   "Save £20 compared to individual lessons",
+   "30 Hour Intensive £1149",
+   "35 Hour Intensive £1320",
+   "40 Hour Intensive £1499",
+   "45 Hour Intensive £1590"
+  ],
+  "faqs": [
+   {
+    "q": "Why Choose Us?",
+    "a": "95% first-time pass rate DVSA approved instructors Modern dual-control vehicles Flexible lesson scheduling"
+   },
+   {
+    "q": "Ready to Drive?",
+    "a": "Join thousands of successful students who chose Manchester Learners. Your journey to driving independence starts with a single click. Book Your First Lesson Call Now: 07720883959"
+   },
+   {
+    "q": "Ready to Start Learning?",
+    "a": "Book your first automatic lesson today and take the first step towards getting your driving license. Our experienced instructors are here to help you succeed. Book Your First Lesson Meet Our Instructors"
+   },
+   {
+    "q": "Ready to Start?",
+    "a": "Join our family of successful drivers and experience the Manchester Learners difference Book Your First Lesson View Lesson Plans"
+   }
+  ],
+  "chunks": [
+   {
+    "text": "Ready to start your driving journey? Get in touch with us today to book your first lesson or ask any questions.",
+    "url": "https://www.manchesterlearners.co.uk/contact"
+   },
+   {
+    "text": "Master the roads with Manchester's most innovative driving school. Expert instruction , modern technology , and proven results .",
+    "url": "https://www.manchesterlearners.co.uk/"
+   },
+   {
+    "text": "Affordable, high-quality automatic lessons",
+    "url": "https://www.manchesterlearners.co.uk/"
+   },
+   {
+    "text": "Local, DVSA-approved instructors. Flexible weekly or intensive courses. Fast, safe, and friendly learning.",
+    "url": "https://www.manchesterlearners.co.uk/"
+   },
+   {
+    "text": "Experience the future of driving education with our innovative approach, state-of-the-art technology, and personalized learning methods.",
+    "url": "https://www.manchesterlearners.co.uk/"
+   },
+   {
+    "text": "DVSA approved instructors with cutting-edge teaching methods",
+    "url": "https://www.manchesterlearners.co.uk/"
+   },
+   {
+    "text": "Industry-leading success rate with our proven system",
+    "url": "https://www.manchesterlearners.co.uk/"
+   },
+   {
+    "text": "Book lessons that fit your lifestyle with our app",
+    "url": "https://www.manchesterlearners.co.uk/"
+   },
+   {
+    "text": "Latest model vehicles with advanced safety features",
+    "url": "https://www.manchesterlearners.co.uk/"
+   },
+   {
+    "text": "Comprehensive safety training and risk assessment",
+    "url": "https://www.manchesterlearners.co.uk/"
+   },
+   {
+    "text": "Intensive courses to get you on the road quickly",
+    "url": "https://www.manchesterlearners.co.uk/"
+   },
+   {
+    "text": "Flexible automatic lesson packages and intensive courses to suit your needs and schedule.",
+    "url": "https://www.manchesterlearners.co.uk/"
+   },
+   {
+    "text": "Flexible pay as you go and block booking options. Modern automatic cars, expert instructors.",
+    "url": "https://www.manchesterlearners.co.uk/"
+   },
+   {
+    "text": "Fast-track your licence with our intensive packages.",
+    "url": "https://www.manchesterlearners.co.uk/"
+   },
+   {
+    "text": "Don't just take our word for it - hear from our successful students who are now confident drivers",
+    "url": "https://www.manchesterlearners.co.uk/"
+   },
+   {
+    "text": "\" Absolutely incredible experience! The instructors are patient, professional, and really know how to build your confidence. Passed first time! \"",
+    "url": "https://www.manchesterlearners.co.uk/"
+   },
+   {
+    "text": "\" The theory test prep and modern teaching methods made all the difference. Highly recommend Manchester Learners! \"",
+    "url": "https://www.manchesterlearners.co.uk/"
+   },
+   {
+    "text": "\" Great value for money and the flexible scheduling worked perfectly with my university timetable. Five stars! \"",
+    "url": "https://www.manchesterlearners.co.uk/"
+   },
+   {
+    "text": "\" The intensive course was exactly what I needed. Professional, efficient, and got me road-ready in record time! \"",
+    "url": "https://www.manchesterlearners.co.uk/"
+   },
+   {
+    "text": "Accelerate your learning with our comprehensive educational materials, practice tests, and expert guidance - all completely free!",
+    "url": "https://www.manchesterlearners.co.uk/"
+   },
+   {
+    "text": "Join thousands of successful students who chose Manchester Learners. Your journey to driving independence starts with a single click.",
+    "url": "https://www.manchesterlearners.co.uk/"
+   },
+   {
+    "text": "Choose from our flexible automatic lesson packages and intensive courses. All prices include modern automatic vehicles and expert instruction.",
+    "url": "https://www.manchesterlearners.co.uk/pricing"
+   },
+   {
+    "text": "Pay as you go, block booking, and assessment lessons",
+    "url": "https://www.manchesterlearners.co.uk/pricing"
+   },
+   {
+    "text": "Assess your driving ability before starting lessons",
+    "url": "https://www.manchesterlearners.co.uk/pricing"
+   },
+   {
+    "text": "Pay as you go for automatic cars - 2 hour lesson",
+    "url": "https://www.manchesterlearners.co.uk/pricing"
+   },
+   {
+    "text": "Modern automatic vehicle with dual controls",
+    "url": "https://www.manchesterlearners.co.uk/pricing"
+   },
+   {
+    "text": "Pay as you go for automatic cars - 1.5 hour lesson",
+    "url": "https://www.manchesterlearners.co.uk/pricing"
+   },
+   {
+    "text": "1.5-hour lesson with qualified instructor",
+    "url": "https://www.manchesterlearners.co.uk/pricing"
+   },
+   {
+    "text": "Suitable for experienced drivers or recent test fails",
+    "url": "https://www.manchesterlearners.co.uk/pricing"
+   },
+   {
+    "text": "For drivers with reasonably good experience",
+    "url": "https://www.manchesterlearners.co.uk/pricing"
+   },
+   {
+    "text": "Book your first automatic lesson today and take the first step towards getting your driving license. Our experienced instructors are here to help you succeed.",
+    "url": "https://www.manchesterlearners.co.uk/pricing"
+   },
+   {
+    "text": "If you are looking to learn to drive in Manchester and pass first time, then look no further than Manchester Learners. We have been teaching people to drive for over 10 years and have helped thousands of learners pass their driving test on the first attempt.",
+    "url": "https://www.manchesterlearners.co.uk/about"
+   },
+   {
+    "text": "At Manchester Learners, our goal is simple – we want you to pass your driving test fast and with confidence, making you a safe driver for life. When you gain your license, you unlock a sense of independence that cannot be rivalled.",
+    "url": "https://www.manchesterlearners.co.uk/about"
+   },
+   {
+    "text": "We strive to help all of our learners achieve their driving goals, and we often see students passing even faster than they expected. This dedication has built up a reputation that speaks for itself, and we hope you’ll share the positive experience you had with us.",
+    "url": "https://www.manchesterlearners.co.uk/about"
+   },
+   {
+    "text": "At Manchester Learners, our instructors can help you pass your driving test twice as fast compared to other driving schools in Manchester. We create bespoke driving lesson plans that build your confidence without ever rushing you into situations you’re not comfortable with. We promise to never cut corners in your learning – this thorough approach allows us to maintain an exceptionally high pass rate.",
+    "url": "https://www.manchesterlearners.co.uk/about"
+   },
+   {
+    "text": "Founded by experienced driving instructors with 10+ years of experience, Manchester Learners began with a simple mission: to provide the highest quality driving education in Greater Manchester.",
+    "url": "https://www.manchesterlearners.co.uk/about"
+   },
+   {
+    "text": "What started as a small operation has grown into Manchester's most trusted driving school, with a team of expert instructors and a fleet of modern vehicles equipped with the latest safety technology.",
+    "url": "https://www.manchesterlearners.co.uk/about"
+   },
+   {
+    "text": "Today, we're proud to have helped over 2,000 students pass their driving tests and become confident, safe drivers on Manchester's roads.",
+    "url": "https://www.manchesterlearners.co.uk/about"
+   },
+   {
+    "text": "The principles that guide everything we do",
+    "url": "https://www.manchesterlearners.co.uk/about"
+   },
+   {
+    "text": "Every lesson prioritizes safety with comprehensive risk assessment and modern dual-control vehicles.",
+    "url": "https://www.manchesterlearners.co.uk/about"
+   },
+   {
+    "text": "Personalized learning approaches tailored to each student's pace and learning style.",
+    "url": "https://www.manchesterlearners.co.uk/about"
+   },
+   {
+    "text": "Focused on achieving your goals with our proven teaching methodology and high pass rates.",
+    "url": "https://www.manchesterlearners.co.uk/about"
+   },
+   {
+    "text": "Our team of DVSA approved instructors brings years of experience and a passion for teaching. All of our instructors are rated 4.5 out of 5",
+    "url": "https://www.manchesterlearners.co.uk/about"
+   },
+   {
+    "text": "DSA Qualified Instructor with over 10 years' experience in automatic driving lessons. Known for her patient, calm, and supportive approach tailored to individual learner needs. Covers West Didsbury, Sale, Macclesfield, and Warrington.",
+    "url": "https://www.manchesterlearners.co.uk/about"
+   },
+   {
+    "text": "DSA Qualified Instructor with over 5 years of experience in delivering high-quality automatic driving lessons. Recognised for his calm, clear, and confidence-building teaching style, ideal for learners at all levels. Covers West Didsbury, Sale, Bredbury, and Cheetham Hill.",
+    "url": "https://www.manchesterlearners.co.uk/about"
+   },
+   {
+    "text": "Join our family of successful drivers and experience the Manchester Learners difference",
+    "url": "https://www.manchesterlearners.co.uk/about"
+   }
+  ]
+ },
+ "generated_at": "2026-11-14 16:43"
+}

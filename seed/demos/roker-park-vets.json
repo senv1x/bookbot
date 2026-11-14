@@ -1,0 +1,169 @@
+{
+ "slug": "roker-park-vets",
+ "website": "https://rokerparkvets.co.uk/",
+ "quality": "good",
+ "notes": "found: phone, email, address, hours, services; missing: FAQ, prices; start page failed (('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))), used homepage; skipped /: HTTP 500; skipped /: HTTPSConnectionPool(host='rokerparkvets.co.uk', port=443): Max retries exceeded ; skipped /: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without; services curated by hand",
+ "data": {
+  "name": "Roker Park Vets",
+  "website": "https://rokerparkvets.co.uk/",
+  "description": "",
+  "phones": [
+   "0191 516 0056"
+  ],
+  "emails": [
+   "info@rokerparkvets.co.uk"
+  ],
+  "address": "35 Roker Park Road, Sunderland, SR6 9PL",
+  "hours": [
+   "Monday 8.30am – 6.30pm",
+   "Tuesday 8.30am – 6.30pm",
+   "Wednesday 8.30am – 6.30pm",
+   "Thursday 8.30am – 6.30pm",
+   "Friday 8.30am – 6.30pm",
+   "Saturday 9am – 12pm",
+   "Sunday Closed"
+  ],
+  "services": [
+   "Consultations",
+   "Vaccinations",
+   "Diagnostic imaging",
+   "Neutering",
+   "Microchipping",
+   "Nurse clinics",
+   "Out-of-hours emergencies (via Wear Referrals)"
+  ],
+  "prices": [],
+  "faqs": [],
+  "chunks": [
+   {
+    "text": "Call us now on 0191 5160056 to make an appointment or click here to register with us",
+    "url": "https://rokerparkvets.co.uk/"
+   },
+   {
+    "text": "Find out more about what we are about as a business",
+    "url": "https://rokerparkvets.co.uk/"
+   },
+   {
+    "text": "Find out about the services we can offer you",
+    "url": "https://rokerparkvets.co.uk/"
+   },
+   {
+    "text": "Find out about the staff that will be looking after your pets",
+    "url": "https://rokerparkvets.co.uk/"
+   },
+   {
+    "text": "Find out about the latest news at Roker Park Vets",
+    "url": "https://rokerparkvets.co.uk/"
+   },
+   {
+    "text": "A Gallery of veterinary pictures submitted by you",
+    "url": "https://rokerparkvets.co.uk/"
+   },
+   {
+    "text": "Find out our opening times and get in contact with us",
+    "url": "https://rokerparkvets.co.uk/"
+   },
+   {
+    "text": "Why Pet Owners Should Support Fair Competition in Veterinary Care",
+    "url": "https://rokerparkvets.co.uk/"
+   },
+   {
+    "text": "Regulatory Framework affecting Veterinary Practices",
+    "url": "https://rokerparkvets.co.uk/"
+   },
+   {
+    "text": "Veterinary Industry Under Investigation by Competition and Markets Authority",
+    "url": "https://rokerparkvets.co.uk/"
+   },
+   {
+    "text": "We have two separate vet consult rooms equipped to allow staff to attend your needs and provide the best for your pets when they most need it. We also have a dedicated nurses consulting room.",
+    "url": "https://rokerparkvets.co.uk/?page_id=48"
+   },
+   {
+    "text": "We have a sterile surgical theatre to accommodate our routine and emergency operations and procedures. This is well equipped with anaesthetic equipment to allow our staff to deliver the best for your pet.",
+    "url": "https://rokerparkvets.co.uk/?page_id=48"
+   },
+   {
+    "text": "Radiography (X-Ray) is used to help in the diagnosis of certain conditions. We use digital processing to ensure we achieve the clearest image possible. When your pet is required to have an X-ray, it is very common for a general anaesthetic or heavy sedation to be used. This is to ensure your pet is not distressed during the procedure and will remain completely still in order for us to achieve an accurate result.",
+    "url": "https://rokerparkvets.co.uk/?page_id=48"
+   },
+   {
+    "text": "An ultrasound for your pet is a pain free procedure which enables us to look at the internal organs. Your pet won’t be able to feel anything. A small area of fur will need to be shaved by us prior to the examination. Ultrasounds can also be used to confirm and monitor pregnancy.",
+    "url": "https://rokerparkvets.co.uk/?page_id=48"
+   },
+   {
+    "text": "Blood samples can be processed the same day in our mini lab. We also have a microscope for assessing for some types of parasite. Our microscope also allows us to assess samples of your pets within minutes to look for abnormal cells in some lumps or to assess for bacteria or yeasts on the skin or ears.",
+    "url": "https://rokerparkvets.co.uk/?page_id=48"
+   },
+   {
+    "text": "Other samples including samples for histology are sent to an external laboratory by courier during the night. Histology samples and cultures will take longer to process.",
+    "url": "https://rokerparkvets.co.uk/?page_id=48"
+   },
+   {
+    "text": "The kennel ward has a variety of sizes of kennel from the ‘walk in’ type kennel for larger dogs and several smaller kennels for smaller dogs and cats. This means that the dogs and cats are housed in a spacious warm comfortable environment to reduce stress and feel more at home with space for food bowls, water bowls and cat litter trays where appropriate.",
+    "url": "https://rokerparkvets.co.uk/?page_id=48"
+   },
+   {
+    "text": "For a healthy and happy pet we strongly advise pet vaccinations. Cats, dogs and rabbits can be vaccinated from an early age and should have pet booster vaccinations routinely. Older pets’ immunity can decline which is why vaccinations are of benefit to pets of all ages.",
+    "url": "https://rokerparkvets.co.uk/?page_id=48"
+   },
+   {
+    "text": "Protect your dog from leptospirosis, infectious canine hepatitis, distemper and parvovirus",
+    "url": "https://rokerparkvets.co.uk/?page_id=48"
+   },
+   {
+    "text": "Protect your cat from infectious enteritis, herpes, calicivirus and feline leukaemia",
+    "url": "https://rokerparkvets.co.uk/?page_id=48"
+   },
+   {
+    "text": "Protect your rabbit from myxomatosis and rabbit haemorrhagic disease 1 and 2",
+    "url": "https://rokerparkvets.co.uk/?page_id=48"
+   },
+   {
+    "text": "We can also provide the following additional vaccinations to those animals that need them:",
+    "url": "https://rokerparkvets.co.uk/?page_id=48"
+   },
+   {
+    "text": "Rabies vaccination for pets travelling abroad",
+    "url": "https://rokerparkvets.co.uk/?page_id=48"
+   },
+   {
+    "text": "Kennel cough vaccinations for higher risk dogs going to kennels or daycare",
+    "url": "https://rokerparkvets.co.uk/?page_id=48"
+   },
+   {
+    "text": "The number of unwanted, stray and abandoned pets is on the rise. To help us reduce the number of unwanted pet pregnancies and homeless animals, please do consider neutering your pet. There are a number of additional health benefits. Spaying helps prevent uterine infections and reduces the incidence of mammary tumours. Neutering male pets prevents testicular cancer and reduces the incidence of prostate disease. Please speak to our vet for further information.",
+    "url": "https://rokerparkvets.co.uk/?page_id=48"
+   },
+   {
+    "text": "Uncertainty lies ahead with the movement of pets following Brexit, but we can help you if needed by providing the relevant documentation to travel abroad. As the requirements for travel are very unpredictable at the moment, you may be best to contact DEFRA or the surgery for the latest information with respect to what will be necessary to travel with your pet. This will depend on where you are going and when you are going.",
+    "url": "https://rokerparkvets.co.uk/?page_id=48"
+   },
+   {
+    "text": "In the event of an emergency outwith these times, Our out-of-hours service provider is Wear Referrals, a multi-disciplinary veterinary hospital with 24 hour veterinary and nursing care and a constantly staffed ICU. They are contactable on 01388 777 770 or click here to visit their website. Alternatively contact our other out of hours provider, ‘Vets Now’ on 0191 469 6926",
+    "url": "https://rokerparkvets.co.uk/?page_id=38"
+   },
+   {
+    "text": "Address: Roker Park Vets, 35 Roker Park Road, Roker, Sunderland, SR6 9PL",
+    "url": "https://rokerparkvets.co.uk/?page_id=38"
+   },
+   {
+    "text": "Our mission statement sets out the formal aims and values of the practice:",
+    "url": "https://rokerparkvets.co.uk/?page_id=7"
+   },
+   {
+    "text": "“We are an independent practice, with a loyal, friendly and approachable team who love to provide individually tailored care with compassion and dignity. Our staff are not incentivised by corporate targets so you can be assured that the personal advice we provide is genuine and can be trusted.”",
+    "url": "https://rokerparkvets.co.uk/?page_id=7"
+   },
+   {
+    "text": "Our values statement is a bit like the ‘Brownies promise’ that all employees take when they come to work for the practice. This helps to ensure we recruit the right staff to follow our practice culture.",
+    "url": "https://rokerparkvets.co.uk/?page_id=7"
+   },
+   {
+    "text": "“A ‘Roker Park’ team member is proud to be involved with the practice and its independent ethos. They must be utterly focused on patient care; quick to respond to clients with compassion and dignity in a friendly way; loyal, approachable and trustworthy to clients and colleagues; – and be as in love with their role as they were on their first day.”",
+    "url": "https://rokerparkvets.co.uk/?page_id=7"
+   }
+  ]
+ },
+ "generated_at": "2026-11-14 16:43"
+}
